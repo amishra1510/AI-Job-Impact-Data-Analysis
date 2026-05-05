@@ -49,7 +49,7 @@ pip install pandas numpy matplotlib
 # (ai_job_impact.csv from Kaggle)
 
 # 4. Run the script
-python 1025250008.py
+python Project.py
 ```
 
 
