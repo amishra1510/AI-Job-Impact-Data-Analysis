@@ -1,0 +1,2001 @@
+Employee_ID,Age,Gender,Education_Level,Industry,Job_Role,Years_Experience,AI_Adoption_Level,Automation_Risk,Upskilling_Required,Salary_Before_AI,Salary_After_AI,Job_Status,Work_Hours_Per_Week,Remote_Work,Job_Satisfaction,Productivity_Change_%
+E0001,50,Female,Bachelor,Marketing,Content Creator,26,High,High,Yes,106820,95455,Replaced,45,No,5,-10.64
+E0002,45,Male,High School,Manufacturing,Quality Inspector,19,Low,Low,Yes,74131,72013,Unchanged,36,Yes,6,19.05
+E0003,51,Female,Master,IT,DevOps Engineer,28,Medium,Medium,Yes,35311,42290,Modified,46,Yes,3,17.05
+E0004,48,Male,PhD,Education,Teacher,24,Medium,Medium,Yes,114478,107820,Modified,50,No,9,-2.47
+E0005,24,Male,Bachelor,Healthcare,Doctor,0,High,Medium,No,33890,40945,Modified,52,Yes,6,7.03
+E0006,46,Male,High School,Healthcare,Technician,21,Low,Medium,No,103969,104781,Modified,36,No,6,-19.04
+E0007,49,Male,PhD,Education,Administrator,24,High,Medium,No,78555,86183,Modified,48,Yes,3,-17.94
+E0008,57,Male,Bachelor,Finance,Auditor,34,Low,High,No,99479,105776,Unchanged,44,Yes,6,5.51
+E0009,50,Other,Bachelor,Education,Professor,27,Low,High,Yes,102409,104197,Unchanged,38,No,8,3.71
+E0010,52,Male,High School,Healthcare,Nurse,27,High,Low,Yes,31016,42699,Unchanged,47,Yes,4,30.67
+E0011,45,Female,High School,Retail,Store Manager,22,Medium,High,No,93704,92231,Unchanged,43,No,7,12.56
+E0012,36,Other,Master,Healthcare,Nurse,10,High,Low,Yes,78984,109956,Unchanged,46,No,9,26.33
+E0013,32,Other,Bachelor,Healthcare,Nurse,8,High,High,No,69504,85267,Modified,39,No,4,27.41
+E0014,49,Female,High School,Marketing,Content Creator,27,High,Low,Yes,60535,64752,Unchanged,39,Yes,5,-14.28
+E0015,43,Other,Master,Education,Professor,19,Medium,High,Yes,100592,102088,Unchanged,37,No,3,38.3
+E0016,26,Other,Bachelor,Education,Administrator,3,Low,Medium,Yes,36910,36482,Modified,49,Yes,9,-17.57
+E0017,47,Other,PhD,Education,Teacher,24,High,Medium,Yes,53419,46193,Modified,41,Yes,3,-18.11
+E0018,53,Other,Bachelor,Education,Teacher,28,High,High,Yes,48141,42537,Replaced,49,No,5,16.27
+E0019,50,Male,Bachelor,Education,Administrator,25,Medium,High,No,85820,79219,Unchanged,36,Yes,4,-2.61
+E0020,27,Female,PhD,Healthcare,Nurse,2,Medium,Low,No,99163,101637,Unchanged,41,No,8,33.0
+E0021,54,Other,High School,Manufacturing,Quality Inspector,32,Low,Medium,Yes,96842,98204,Modified,43,No,5,29.08
+E0022,27,Male,PhD,Healthcare,Technician,3,Low,Medium,No,33748,35565,Modified,49,No,5,-3.84
+E0023,53,Other,Master,Education,Teacher,31,Low,High,No,84384,80986,Unchanged,46,Yes,8,-4.77
+E0024,23,Female,PhD,Retail,Store Manager,0,High,High,No,53664,47699,Modified,51,Yes,4,39.86
+E0025,23,Female,High School,Finance,Accountant,0,Medium,High,No,30854,30347,Unchanged,53,Yes,8,34.5
+E0026,23,Female,Master,Retail,Sales Associate,0,Low,High,No,80859,82247,Unchanged,38,Yes,9,13.17
+E0027,32,Male,Master,Education,Administrator,8,Low,High,Yes,42688,45216,Unchanged,54,Yes,4,2.07
+E0028,27,Male,High School,Education,Professor,3,High,Medium,Yes,110623,141487,Modified,40,Yes,7,-10.96
+E0029,24,Other,PhD,IT,DevOps Engineer,0,High,Medium,No,32811,39587,Modified,37,No,9,-19.0
+E0030,40,Other,PhD,Education,Teacher,15,Medium,High,No,32911,30569,Unchanged,42,Yes,9,36.43
+E0031,39,Female,High School,Marketing,Content Creator,17,Medium,Low,Yes,31802,31875,Unchanged,44,Yes,5,-13.19
+E0032,28,Other,Bachelor,Manufacturing,Quality Inspector,3,Low,High,Yes,46371,47736,Unchanged,50,No,8,-5.49
+E0033,33,Female,PhD,Manufacturing,Quality Inspector,7,Medium,High,Yes,59855,65237,Unchanged,37,Yes,5,0.34
+E0034,37,Female,PhD,Healthcare,Nurse,13,Medium,Low,No,34499,40230,Unchanged,54,No,5,26.79
+E0035,29,Female,High School,IT,DevOps Engineer,4,Low,High,No,83351,86765,Unchanged,37,No,3,-19.45
+E0036,50,Female,High School,Marketing,Digital Marketer,27,Low,Medium,Yes,76975,76652,Modified,37,No,7,9.14
+E0037,57,Other,PhD,Finance,Auditor,35,Low,Low,Yes,68467,67480,Unchanged,54,No,9,-0.48
+E0038,24,Male,Bachelor,Finance,Accountant,2,Medium,Low,No,100271,107339,Unchanged,53,Yes,8,-14.38
+E0039,43,Male,High School,Education,Teacher,17,High,High,No,104290,139250,Modified,36,Yes,7,17.87
+E0040,51,Male,Bachelor,Retail,Cashier,29,Medium,High,No,69790,73122,Unchanged,50,No,5,-8.29
+E0041,25,Female,Master,Retail,Sales Associate,1,High,Medium,Yes,103744,144902,Modified,48,Yes,7,8.2
+E0042,27,Male,Master,Retail,Cashier,3,Medium,Medium,No,62635,56661,Modified,51,No,8,35.7
+E0043,52,Male,High School,Education,Professor,28,High,Low,No,96235,126241,Unchanged,35,No,5,-2.33
+E0044,39,Female,Master,IT,Data Analyst,17,High,Low,Yes,62745,85439,Unchanged,42,No,8,21.76
+E0045,45,Other,PhD,IT,DevOps Engineer,22,Medium,Medium,Yes,102991,113428,Modified,44,No,4,1.52
+E0046,47,Male,Bachelor,Manufacturing,Quality Inspector,25,High,Medium,No,57751,70352,Modified,50,No,9,22.15
+E0047,50,Other,Bachelor,Manufacturing,Supervisor,27,High,Medium,No,49190,51741,Modified,47,Yes,6,-4.63
+E0048,28,Female,Master,Manufacturing,Machine Operator,6,Low,Medium,Yes,100316,98223,Modified,48,No,8,-15.74
+E0049,33,Female,PhD,Retail,Store Manager,9,Low,High,Yes,85766,81832,Unchanged,53,No,3,14.73
+E0050,43,Other,Bachelor,Healthcare,Nurse,20,High,Low,Yes,86661,82341,Unchanged,49,No,8,-17.67
+E0051,58,Male,Bachelor,Healthcare,Technician,36,Low,Low,Yes,110135,117348,Unchanged,39,No,9,-7.05
+E0052,25,Male,PhD,Education,Professor,0,Low,High,No,88335,90958,Unchanged,42,No,6,12.44
+E0053,37,Female,Bachelor,Healthcare,Technician,11,Low,Medium,Yes,47019,49707,Modified,53,Yes,6,-17.54
+E0054,47,Male,PhD,Healthcare,Technician,21,High,High,Yes,62217,85709,Modified,43,Yes,6,30.16
+E0055,22,Other,Bachelor,Marketing,Digital Marketer,0,Medium,Low,No,46896,48429,Unchanged,50,Yes,3,-5.61
+E0056,22,Female,Master,Manufacturing,Quality Inspector,0,Medium,Medium,Yes,83222,91305,Modified,37,Yes,6,6.14
+E0057,47,Male,PhD,Marketing,Content Creator,23,Medium,Low,No,43284,40515,Unchanged,39,Yes,9,0.51
+E0058,51,Male,Bachelor,Retail,Store Manager,26,High,Low,No,59124,64120,Unchanged,50,No,7,-14.13
+E0059,57,Other,PhD,Education,Teacher,35,High,Medium,No,86573,91794,Modified,44,No,8,3.91
+E0060,26,Female,High School,Education,Administrator,1,Low,Medium,No,98385,97315,Modified,53,No,4,-19.08
+E0061,53,Male,High School,Marketing,SEO Specialist,31,Low,High,No,71975,75487,Unchanged,50,No,9,-10.22
+E0062,23,Male,Bachelor,Marketing,Content Creator,1,Medium,High,No,79115,85106,Unchanged,46,No,4,36.41
+E0063,56,Male,High School,Marketing,SEO Specialist,31,Low,Medium,No,34000,36437,Modified,46,No,5,29.24
+E0064,22,Male,Master,Education,Administrator,0,Low,High,Yes,99449,97559,Unchanged,46,No,9,-3.56
+E0065,23,Male,Bachelor,Finance,Accountant,0,High,Low,No,57350,48329,Unchanged,44,Yes,4,-0.86
+E0066,55,Female,Master,Finance,Auditor,31,Medium,Medium,No,50358,47107,Modified,47,Yes,5,21.8
+E0067,50,Male,High School,Marketing,SEO Specialist,25,Low,High,No,63496,67973,Unchanged,44,No,7,-3.08
+E0068,30,Other,High School,Manufacturing,Machine Operator,6,Medium,High,Yes,113042,115730,Unchanged,41,No,9,2.32
+E0069,53,Other,High School,Education,Professor,27,Medium,Medium,Yes,74811,76957,Modified,37,Yes,3,25.05
+E0070,51,Male,Master,Retail,Cashier,29,Medium,Medium,Yes,44397,46571,Modified,47,Yes,5,3.38
+E0071,40,Female,PhD,IT,Data Analyst,18,High,Low,No,109459,88278,Unchanged,46,Yes,3,34.32
+E0072,28,Male,Bachelor,Finance,Investment Analyst,3,Medium,Low,No,112637,124242,Unchanged,49,Yes,7,8.95
+E0073,26,Female,High School,IT,Software Engineer,2,Low,Low,No,119112,123049,Unchanged,50,Yes,3,-7.24
+E0074,35,Other,Master,Education,Teacher,12,Low,Low,No,39348,41730,Unchanged,45,No,4,12.75
+E0075,33,Other,PhD,Retail,Cashier,11,Medium,Medium,No,53625,61727,Modified,40,Yes,9,32.01
+E0076,34,Other,High School,IT,Software Engineer,11,Low,Low,Yes,92856,99660,Unchanged,39,No,7,22.37
+E0077,58,Male,Bachelor,Manufacturing,Machine Operator,34,High,High,Yes,58295,59726,Replaced,54,No,3,2.24
+E0078,28,Female,PhD,Manufacturing,Machine Operator,6,Medium,High,Yes,31324,35271,Unchanged,53,Yes,7,2.58
+E0079,48,Female,High School,Marketing,SEO Specialist,25,Low,Medium,Yes,85129,85089,Modified,47,Yes,7,6.07
+E0080,49,Male,PhD,Education,Professor,26,High,Low,No,60355,52586,Unchanged,43,No,9,-12.95
+E0081,22,Male,Bachelor,Marketing,SEO Specialist,0,Medium,High,Yes,110219,131012,Unchanged,51,Yes,3,2.49
+E0082,54,Other,PhD,Marketing,Content Creator,28,High,Low,Yes,97641,78824,Unchanged,49,No,7,38.19
+E0083,37,Male,High School,Manufacturing,Machine Operator,11,Low,High,Yes,91642,99694,Unchanged,53,No,6,-4.82
+E0084,39,Other,Bachelor,IT,Software Engineer,17,Low,High,No,82528,87014,Unchanged,37,Yes,9,7.27
+E0085,32,Male,High School,Healthcare,Nurse,7,Medium,High,No,40975,37588,Unchanged,42,No,4,3.67
+E0086,49,Female,Bachelor,Marketing,Digital Marketer,24,Low,High,No,91529,92283,Unchanged,39,Yes,3,-6.24
+E0087,57,Male,PhD,Retail,Store Manager,33,High,Low,Yes,77605,63588,Unchanged,54,Yes,7,-3.21
+E0088,49,Male,High School,Retail,Sales Associate,23,Medium,Low,No,57532,67501,Unchanged,52,No,5,29.35
+E0089,26,Female,Bachelor,Healthcare,Nurse,4,Low,Medium,Yes,95545,104135,Modified,47,Yes,7,31.96
+E0090,54,Male,Master,IT,Data Analyst,32,Medium,Low,No,38415,45928,Unchanged,51,No,7,2.6
+E0091,54,Other,Bachelor,Marketing,Content Creator,31,Medium,High,Yes,105880,108468,Unchanged,50,No,9,-3.6
+E0092,27,Other,PhD,IT,Software Engineer,2,High,Low,No,48384,54219,Unchanged,37,No,7,24.99
+E0093,44,Other,High School,Education,Teacher,18,High,High,Yes,99172,135554,Modified,51,Yes,7,30.98
+E0094,35,Female,PhD,Retail,Sales Associate,13,Medium,High,No,68765,67075,Unchanged,38,Yes,8,-3.52
+E0095,22,Other,Bachelor,Education,Administrator,0,Low,Medium,Yes,75543,78770,Modified,42,No,9,1.49
+E0096,47,Female,PhD,Marketing,Digital Marketer,24,Low,Medium,Yes,88017,89903,Modified,52,No,6,29.88
+E0097,22,Male,PhD,Finance,Accountant,0,Medium,Medium,No,54285,61751,Modified,49,Yes,9,15.4
+E0098,36,Male,High School,Healthcare,Doctor,10,High,Low,No,69764,82573,Unchanged,41,No,8,28.3
+E0099,55,Female,Master,Retail,Store Manager,32,Low,Low,No,85393,89278,Unchanged,53,Yes,9,13.29
+E0100,55,Male,High School,Education,Teacher,30,High,Low,Yes,83413,89297,Unchanged,44,No,5,34.63
+E0101,38,Female,Master,Retail,Store Manager,12,High,Medium,No,69811,75089,Modified,51,No,6,30.53
+E0102,41,Other,Master,Healthcare,Nurse,15,High,High,No,103477,113366,Modified,45,Yes,5,-0.27
+E0103,32,Other,Bachelor,Manufacturing,Supervisor,8,Medium,High,Yes,36254,34030,Unchanged,45,Yes,8,-12.32
+E0104,37,Male,High School,Manufacturing,Machine Operator,12,Low,Medium,No,71240,77261,Modified,52,Yes,7,8.44
+E0105,40,Male,Master,Retail,Cashier,14,Low,Medium,No,117044,117250,Modified,40,No,3,0.86
+E0106,26,Other,Master,Finance,Accountant,4,High,High,Yes,46907,43332,Replaced,48,No,4,1.86
+E0107,48,Male,PhD,Retail,Cashier,26,Low,Low,No,53321,57048,Unchanged,49,Yes,8,17.67
+E0108,38,Female,PhD,Retail,Cashier,15,Medium,Low,No,94291,107667,Unchanged,54,No,9,24.9
+E0109,43,Female,High School,Marketing,Digital Marketer,20,Medium,High,Yes,58699,59325,Unchanged,47,No,4,7.75
+E0110,35,Male,Bachelor,Manufacturing,Machine Operator,11,Medium,Medium,No,35126,38854,Modified,45,Yes,9,30.67
+E0111,39,Male,Bachelor,Marketing,Digital Marketer,16,High,Medium,No,118869,133082,Modified,39,No,6,-5.45
+E0112,31,Male,PhD,Manufacturing,Supervisor,9,Low,Low,No,80448,78977,Unchanged,46,No,3,-0.35
+E0113,38,Other,Bachelor,IT,Software Engineer,12,Low,Medium,No,36168,38043,Modified,47,No,4,27.35
+E0114,57,Other,High School,Education,Professor,34,Low,Medium,No,42910,45562,Modified,53,No,4,5.9
+E0115,58,Male,Master,IT,Software Engineer,33,Low,Medium,Yes,84553,88030,Modified,47,Yes,8,-5.34
+E0116,58,Other,Master,IT,Software Engineer,36,Medium,Medium,Yes,88656,79990,Modified,40,Yes,9,-6.48
+E0117,25,Male,High School,Education,Administrator,1,Medium,High,No,106125,101032,Unchanged,37,No,5,33.81
+E0118,52,Other,Master,IT,Software Engineer,26,High,High,No,106323,148677,Replaced,54,No,6,33.8
+E0119,32,Male,High School,Marketing,Content Creator,7,High,Medium,Yes,117886,152101,Modified,40,Yes,5,-4.53
+E0120,23,Male,PhD,Finance,Investment Analyst,0,High,Medium,Yes,109239,118630,Modified,39,No,8,30.31
+E0121,47,Other,Master,Finance,Accountant,22,Low,Medium,Yes,88067,90369,Modified,49,Yes,3,-5.46
+E0122,47,Female,Master,Healthcare,Nurse,21,High,Low,Yes,31917,28489,Unchanged,45,No,5,8.87
+E0123,54,Other,PhD,Manufacturing,Quality Inspector,31,High,Low,No,89383,78715,Unchanged,46,No,4,-16.2
+E0124,34,Female,High School,Marketing,Digital Marketer,11,Low,Medium,Yes,64387,63626,Modified,51,Yes,3,20.89
+E0125,32,Other,High School,Finance,Investment Analyst,8,Low,Medium,Yes,72078,78523,Modified,46,No,4,29.84
+E0126,35,Male,PhD,Finance,Auditor,9,Low,Medium,Yes,38567,42371,Modified,37,Yes,5,-7.7
+E0127,22,Male,Bachelor,Manufacturing,Supervisor,0,Low,Medium,Yes,35951,38367,Modified,39,No,8,29.68
+E0128,51,Female,High School,Finance,Investment Analyst,27,Low,Low,Yes,116740,114167,Unchanged,48,No,4,-5.86
+E0129,25,Male,PhD,IT,Data Analyst,3,High,Medium,No,44060,50800,Modified,42,No,9,20.98
+E0130,35,Female,High School,Finance,Accountant,11,High,Low,No,103340,101358,Unchanged,49,No,3,24.86
+E0131,46,Female,PhD,Finance,Investment Analyst,24,Low,Medium,Yes,64016,64574,Modified,42,Yes,5,11.91
+E0132,27,Male,Bachelor,Retail,Cashier,3,Low,High,Yes,113122,113148,Unchanged,49,No,9,-11.64
+E0133,50,Male,Bachelor,Finance,Investment Analyst,28,Medium,Medium,Yes,89379,100322,Modified,40,No,3,14.39
+E0134,54,Female,Master,Manufacturing,Quality Inspector,28,Low,Low,Yes,94484,100794,Unchanged,38,Yes,8,-11.41
+E0135,23,Male,Bachelor,Education,Teacher,0,Low,Low,Yes,73872,71318,Unchanged,49,No,6,12.19
+E0136,45,Male,PhD,Finance,Accountant,20,Medium,Medium,Yes,70631,74211,Modified,49,No,6,12.39
+E0137,33,Other,High School,Retail,Cashier,7,Medium,High,Yes,50609,45733,Unchanged,38,Yes,6,15.91
+E0138,47,Male,Bachelor,Manufacturing,Machine Operator,23,High,Medium,No,101315,92091,Modified,40,Yes,8,34.51
+E0139,29,Other,Master,Manufacturing,Machine Operator,6,High,High,Yes,106077,124000,Replaced,42,Yes,8,34.71
+E0140,39,Other,Bachelor,IT,DevOps Engineer,17,Medium,High,Yes,45328,41041,Unchanged,46,Yes,6,32.33
+E0141,57,Male,PhD,IT,Software Engineer,32,High,Medium,No,94644,128100,Modified,44,No,3,22.43
+E0142,49,Male,High School,Healthcare,Doctor,26,High,Low,Yes,85176,89816,Unchanged,42,No,3,24.19
+E0143,43,Male,PhD,Manufacturing,Machine Operator,19,High,Low,Yes,43718,38195,Unchanged,48,Yes,6,-5.85
+E0144,44,Male,Bachelor,Finance,Investment Analyst,22,High,High,Yes,83173,92430,Replaced,49,Yes,3,15.48
+E0145,30,Female,Bachelor,Manufacturing,Quality Inspector,7,High,Low,Yes,69224,55571,Unchanged,54,Yes,3,0.01
+E0146,47,Female,Bachelor,IT,Data Analyst,23,High,Low,Yes,103509,104317,Unchanged,36,No,5,0.82
+E0147,38,Other,High School,Education,Administrator,14,Medium,Low,No,71914,74483,Unchanged,41,No,6,-11.55
+E0148,27,Female,High School,Marketing,Content Creator,1,Medium,Medium,Yes,117895,117121,Modified,45,No,8,26.83
+E0149,47,Male,PhD,Marketing,SEO Specialist,22,Medium,Medium,Yes,46241,50821,Modified,54,Yes,3,-9.32
+E0150,41,Male,High School,Healthcare,Doctor,16,Low,Low,Yes,51566,56698,Unchanged,35,Yes,7,10.13
+E0151,51,Other,Bachelor,Manufacturing,Machine Operator,27,Low,High,No,54442,58251,Unchanged,51,Yes,7,0.96
+E0152,50,Male,Bachelor,Retail,Cashier,26,Low,Medium,No,48449,48163,Modified,52,No,4,22.84
+E0153,49,Female,Master,Retail,Sales Associate,27,Medium,High,Yes,56737,59522,Unchanged,38,Yes,3,25.92
+E0154,29,Other,Bachelor,IT,Data Analyst,3,High,Low,Yes,42342,57909,Unchanged,44,No,5,2.4
+E0155,55,Male,Bachelor,Marketing,SEO Specialist,30,High,Medium,No,111974,100070,Modified,42,Yes,3,22.96
+E0156,24,Female,High School,Retail,Sales Associate,0,High,Low,No,93230,75686,Unchanged,49,Yes,7,-13.75
+E0157,24,Other,High School,Marketing,Content Creator,0,Low,Medium,Yes,54160,55974,Modified,37,Yes,8,23.25
+E0158,53,Male,High School,IT,DevOps Engineer,29,Medium,High,No,42175,42982,Unchanged,48,No,9,20.09
+E0159,39,Male,Bachelor,Healthcare,Technician,16,High,Medium,No,46032,42567,Modified,53,Yes,6,-18.41
+E0160,50,Male,Master,Healthcare,Nurse,25,High,Low,No,38705,52111,Unchanged,45,Yes,4,17.49
+E0161,23,Other,Master,Finance,Accountant,0,High,Medium,Yes,106918,102730,Modified,40,Yes,8,17.45
+E0162,30,Other,High School,IT,DevOps Engineer,7,Medium,Medium,Yes,92516,91437,Modified,46,Yes,3,36.91
+E0163,31,Female,High School,IT,DevOps Engineer,7,High,Low,Yes,116143,105604,Unchanged,51,No,8,9.09
+E0164,30,Male,High School,Education,Administrator,7,High,Low,Yes,90774,84493,Unchanged,48,Yes,6,18.7
+E0165,47,Female,Master,Finance,Auditor,24,Low,Medium,No,106908,112647,Modified,40,Yes,4,20.99
+E0166,42,Other,PhD,IT,Data Analyst,19,High,Medium,Yes,68243,74989,Modified,39,No,3,-15.97
+E0167,59,Other,High School,Retail,Sales Associate,36,High,Medium,Yes,108411,100155,Modified,40,Yes,5,-19.34
+E0168,55,Female,Bachelor,IT,Software Engineer,30,Medium,Medium,Yes,76828,84473,Modified,47,No,3,-9.48
+E0169,47,Other,Bachelor,Manufacturing,Quality Inspector,21,Medium,High,Yes,119563,135258,Unchanged,36,Yes,6,5.32
+E0170,22,Male,PhD,Education,Teacher,0,Low,Medium,Yes,51172,53243,Modified,45,Yes,5,-5.28
+E0171,57,Other,PhD,Retail,Cashier,35,High,High,No,54762,53572,Modified,36,No,9,13.98
+E0172,45,Other,PhD,Healthcare,Nurse,19,Low,Low,Yes,119399,117278,Unchanged,54,No,5,-18.13
+E0173,56,Other,PhD,Education,Professor,31,Medium,High,Yes,45850,52907,Unchanged,45,Yes,4,37.31
+E0174,30,Male,PhD,Education,Professor,7,Low,High,No,31524,31576,Unchanged,35,Yes,3,1.09
+E0175,46,Male,Master,IT,Data Analyst,22,Low,Low,No,75186,72303,Unchanged,53,No,8,-19.86
+E0176,59,Male,Master,Retail,Cashier,36,High,Low,No,53051,53930,Unchanged,51,No,7,-14.51
+E0177,38,Other,High School,Finance,Accountant,15,Low,Medium,Yes,66408,67530,Modified,50,No,5,-8.89
+E0178,29,Female,High School,Retail,Cashier,3,Low,Medium,Yes,41344,43362,Modified,40,No,3,21.54
+E0179,39,Male,PhD,Manufacturing,Supervisor,17,Medium,Medium,No,107454,119053,Modified,49,No,4,-16.9
+E0180,37,Male,PhD,Manufacturing,Machine Operator,15,High,Low,Yes,42182,47812,Unchanged,41,No,8,8.39
+E0181,36,Female,High School,IT,Data Analyst,10,Low,Low,No,54070,53778,Unchanged,52,No,5,35.46
+E0182,44,Female,High School,Finance,Auditor,18,Low,High,Yes,36737,39005,Unchanged,37,No,4,-16.71
+E0183,38,Other,Master,Retail,Cashier,14,High,Low,No,65435,57081,Unchanged,39,No,5,-15.38
+E0184,47,Other,PhD,Marketing,SEO Specialist,22,Low,Low,Yes,70998,70805,Unchanged,47,Yes,4,12.37
+E0185,54,Other,High School,Marketing,SEO Specialist,28,Low,High,Yes,109273,118178,Unchanged,37,No,4,5.05
+E0186,55,Other,High School,Finance,Investment Analyst,31,Medium,High,Yes,59430,56793,Unchanged,37,No,5,3.04
+E0187,50,Other,PhD,Education,Teacher,28,Low,High,No,91916,87838,Unchanged,50,Yes,6,8.79
+E0188,31,Male,Master,Healthcare,Nurse,9,Medium,Medium,No,54574,56015,Modified,51,No,5,24.25
+E0189,35,Male,Master,IT,DevOps Engineer,12,Medium,Medium,No,85619,95436,Modified,50,Yes,3,15.35
+E0190,36,Female,High School,Finance,Investment Analyst,14,Low,High,Yes,34494,34757,Unchanged,46,No,5,20.78
+E0191,58,Male,PhD,Manufacturing,Supervisor,32,Low,Low,No,75028,72282,Unchanged,48,No,5,5.05
+E0192,34,Female,PhD,Retail,Store Manager,11,Medium,High,No,78280,87908,Unchanged,42,Yes,6,-16.1
+E0193,50,Other,Master,Finance,Accountant,24,Low,High,No,94754,97303,Unchanged,36,Yes,3,-6.16
+E0194,47,Other,High School,Retail,Store Manager,25,High,High,Yes,57376,78855,Replaced,39,Yes,7,29.57
+E0195,44,Other,Bachelor,Marketing,Digital Marketer,22,Medium,High,No,76600,90259,Unchanged,44,No,5,39.69
+E0196,39,Male,High School,IT,Data Analyst,17,Low,Medium,Yes,54578,58528,Modified,49,No,3,-6.53
+E0197,30,Other,PhD,Retail,Sales Associate,5,High,Medium,Yes,64701,85151,Modified,37,No,5,7.45
+E0198,49,Other,Master,Retail,Store Manager,23,Medium,Medium,No,95160,86910,Modified,44,Yes,3,31.13
+E0199,36,Female,PhD,Marketing,Content Creator,14,Medium,High,Yes,94772,106198,Unchanged,49,Yes,8,-3.12
+E0200,29,Other,Master,Retail,Store Manager,5,Medium,Medium,Yes,33972,31071,Modified,39,No,6,11.96
+E0201,34,Male,High School,Education,Administrator,9,High,High,No,115956,161745,Modified,47,Yes,8,-16.31
+E0202,50,Male,Bachelor,Healthcare,Doctor,26,High,Low,No,49129,56144,Unchanged,42,No,5,19.73
+E0203,34,Female,Master,Marketing,SEO Specialist,8,Low,Medium,No,116231,124322,Modified,35,Yes,5,19.51
+E0204,34,Male,PhD,IT,Software Engineer,10,High,High,Yes,81756,99618,Modified,40,Yes,6,20.81
+E0205,28,Other,Bachelor,Finance,Investment Analyst,2,High,Low,No,78874,108592,Unchanged,44,Yes,4,7.93
+E0206,53,Male,PhD,Healthcare,Technician,29,Medium,Medium,No,107236,120431,Modified,38,Yes,4,-10.35
+E0207,35,Male,Master,Retail,Store Manager,9,High,Medium,No,63062,57757,Modified,51,Yes,3,-14.95
+E0208,38,Other,PhD,Healthcare,Nurse,15,Low,High,No,42987,40896,Unchanged,50,Yes,8,29.12
+E0209,40,Male,Bachelor,Education,Administrator,17,High,High,Yes,117272,161576,Replaced,49,Yes,8,0.51
+E0210,58,Male,Master,Education,Professor,32,High,Medium,Yes,112197,152850,Modified,52,No,6,21.27
+E0211,48,Female,PhD,Healthcare,Doctor,26,High,Medium,Yes,110395,92777,Modified,35,No,8,14.93
+E0212,47,Male,Master,Marketing,Content Creator,23,Medium,Medium,No,97889,117177,Modified,46,Yes,6,20.56
+E0213,56,Other,PhD,Healthcare,Technician,31,Medium,Low,Yes,57083,51795,Unchanged,40,No,9,-18.67
+E0214,36,Other,High School,IT,Data Analyst,12,High,High,No,57082,69067,Modified,48,No,4,6.75
+E0215,50,Female,Master,Finance,Auditor,25,Low,Medium,No,44288,42752,Modified,49,No,9,31.25
+E0216,50,Other,Master,Education,Teacher,24,Low,High,No,47482,46680,Unchanged,48,Yes,6,-15.06
+E0217,43,Other,High School,IT,DevOps Engineer,19,High,High,Yes,52042,68738,Replaced,49,Yes,7,37.79
+E0218,41,Female,High School,Healthcare,Nurse,17,High,Low,No,93416,99523,Unchanged,40,No,9,-1.28
+E0219,55,Other,Master,Healthcare,Technician,29,High,High,Yes,78290,64094,Modified,46,Yes,4,19.1
+E0220,36,Female,Bachelor,Finance,Accountant,11,High,High,No,48639,54764,Replaced,51,No,7,-10.45
+E0221,29,Female,Bachelor,Finance,Auditor,5,High,Low,Yes,115553,145205,Unchanged,46,No,7,17.57
+E0222,45,Male,Bachelor,Retail,Sales Associate,20,Low,Medium,Yes,83625,87178,Modified,48,Yes,9,27.79
+E0223,38,Other,High School,Finance,Investment Analyst,13,High,Medium,No,81027,85741,Modified,36,Yes,5,-7.97
+E0224,34,Male,PhD,Finance,Auditor,12,Low,Medium,No,56589,57091,Modified,40,Yes,5,8.8
+E0225,46,Male,High School,Healthcare,Doctor,24,Low,Medium,No,81195,86633,Modified,53,Yes,3,-17.62
+E0226,38,Female,High School,Finance,Investment Analyst,13,Medium,Low,Yes,82269,77558,Unchanged,54,No,3,9.93
+E0227,31,Male,High School,Finance,Auditor,8,Low,Medium,Yes,93483,89824,Modified,43,Yes,7,12.05
+E0228,51,Male,High School,Manufacturing,Supervisor,29,High,High,Yes,118652,100515,Replaced,36,Yes,8,3.82
+E0229,47,Female,Master,Finance,Investment Analyst,24,High,Medium,No,111905,144677,Modified,46,Yes,3,-17.53
+E0230,32,Male,High School,Healthcare,Doctor,6,High,Medium,Yes,79786,65340,Modified,41,No,9,36.17
+E0231,53,Female,Bachelor,Retail,Cashier,31,Medium,Low,Yes,94881,112012,Unchanged,54,Yes,8,36.84
+E0232,28,Male,Master,Finance,Auditor,4,Medium,Low,No,76163,81182,Unchanged,37,No,9,15.85
+E0233,35,Other,Bachelor,Manufacturing,Supervisor,11,High,High,Yes,45313,37891,Modified,47,No,3,-5.17
+E0234,40,Male,High School,IT,DevOps Engineer,15,Low,Low,Yes,100316,98040,Unchanged,53,No,6,27.38
+E0235,39,Male,PhD,Marketing,SEO Specialist,16,Low,Low,No,46082,45357,Unchanged,43,Yes,5,39.78
+E0236,24,Female,High School,Retail,Store Manager,0,High,High,No,109561,114157,Modified,49,No,3,-6.77
+E0237,28,Female,Master,Education,Professor,3,Medium,Low,No,102541,121842,Unchanged,54,Yes,7,4.95
+E0238,25,Other,Master,Healthcare,Nurse,0,Medium,Low,Yes,55963,63255,Unchanged,52,No,3,10.29
+E0239,53,Female,Bachelor,Education,Teacher,31,Medium,High,No,102099,92789,Unchanged,38,Yes,4,3.73
+E0240,36,Other,PhD,Education,Teacher,13,High,High,Yes,106707,112365,Modified,53,Yes,4,-3.39
+E0241,33,Female,Bachelor,IT,DevOps Engineer,9,Low,Low,Yes,78364,79921,Unchanged,35,Yes,5,30.16
+E0242,47,Other,Master,Marketing,Digital Marketer,22,Medium,Low,Yes,53279,57570,Unchanged,48,Yes,8,17.95
+E0243,23,Male,PhD,Manufacturing,Supervisor,0,High,High,No,94324,79371,Replaced,49,No,8,6.23
+E0244,46,Female,Master,Finance,Investment Analyst,21,Medium,Low,No,99350,94288,Unchanged,36,No,5,3.46
+E0245,58,Male,PhD,Marketing,Content Creator,32,Medium,High,Yes,43760,49538,Unchanged,47,No,9,-12.15
+E0246,52,Male,Master,Marketing,SEO Specialist,28,Low,Medium,No,82233,79027,Modified,44,No,7,-9.81
+E0247,31,Male,Master,Education,Professor,6,Medium,Low,No,49816,51273,Unchanged,45,Yes,6,-5.08
+E0248,22,Male,Bachelor,Manufacturing,Machine Operator,0,High,Low,Yes,112495,114244,Unchanged,45,Yes,7,2.76
+E0249,58,Male,PhD,Marketing,SEO Specialist,33,High,Low,No,39847,51139,Unchanged,49,Yes,8,15.12
+E0250,41,Other,Bachelor,Education,Administrator,18,Medium,Medium,No,111537,104498,Modified,35,No,9,-6.13
+E0251,56,Other,Master,Finance,Accountant,30,High,Low,Yes,58404,49826,Unchanged,53,No,8,-13.8
+E0252,33,Male,Bachelor,Education,Professor,10,High,Low,No,71235,99157,Unchanged,45,Yes,8,37.91
+E0253,55,Male,Master,Retail,Sales Associate,33,Low,Low,No,119393,130850,Unchanged,49,No,5,14.81
+E0254,44,Male,PhD,Education,Professor,19,Medium,Low,Yes,109141,102799,Unchanged,47,No,6,-18.2
+E0255,37,Male,High School,Manufacturing,Machine Operator,14,Low,High,Yes,73753,78173,Unchanged,35,No,9,-10.26
+E0256,29,Male,High School,Finance,Auditor,3,High,Low,Yes,43669,57681,Unchanged,36,Yes,3,-9.37
+E0257,47,Female,Bachelor,Finance,Accountant,23,Low,High,No,118009,112418,Unchanged,42,Yes,9,-5.35
+E0258,33,Male,Bachelor,Marketing,Content Creator,9,Medium,High,Yes,72823,82920,Unchanged,35,No,5,35.12
+E0259,52,Male,PhD,Healthcare,Technician,26,Medium,Medium,No,72287,79181,Modified,36,Yes,4,-13.6
+E0260,27,Male,Master,IT,DevOps Engineer,5,High,Low,No,90576,94574,Unchanged,43,No,7,32.25
+E0261,34,Other,Bachelor,Manufacturing,Quality Inspector,12,Low,Low,Yes,69882,75596,Unchanged,48,Yes,6,4.25
+E0262,59,Other,Master,Retail,Store Manager,35,Medium,Low,Yes,94965,111148,Unchanged,53,No,7,32.67
+E0263,32,Male,Bachelor,Retail,Store Manager,10,High,Low,Yes,31367,30680,Unchanged,49,Yes,3,18.94
+E0264,33,Male,Bachelor,Healthcare,Doctor,10,High,Medium,Yes,39108,40212,Modified,35,No,3,12.91
+E0265,53,Female,High School,Finance,Auditor,31,Low,Low,Yes,52443,49936,Unchanged,42,No,8,15.22
+E0266,35,Female,High School,Education,Teacher,12,Medium,Low,No,55537,57705,Unchanged,42,No,4,2.79
+E0267,27,Female,Master,Education,Teacher,2,High,High,No,61348,79032,Replaced,39,No,4,-13.46
+E0268,58,Male,PhD,Retail,Cashier,33,Medium,High,No,76819,83146,Unchanged,40,Yes,8,25.89
+E0269,42,Female,Master,Manufacturing,Supervisor,18,Low,Low,Yes,99967,104677,Unchanged,38,No,5,33.88
+E0270,36,Other,High School,IT,Data Analyst,11,High,High,Yes,108612,118116,Modified,48,No,7,-8.33
+E0271,25,Female,PhD,Marketing,Digital Marketer,0,High,Low,Yes,66378,90125,Unchanged,42,Yes,4,11.94
+E0272,57,Male,Master,IT,DevOps Engineer,34,High,Medium,Yes,42289,40748,Modified,45,No,9,4.81
+E0273,52,Female,Master,IT,Software Engineer,27,Medium,Low,No,78713,89727,Unchanged,51,Yes,4,-8.92
+E0274,57,Male,Bachelor,Education,Administrator,32,Low,Low,Yes,42149,45137,Unchanged,47,No,4,13.01
+E0275,34,Male,Bachelor,Manufacturing,Machine Operator,8,High,Medium,Yes,118789,137334,Modified,49,Yes,4,27.62
+E0276,45,Other,Master,IT,Data Analyst,22,High,Medium,No,105388,141592,Modified,51,No,4,26.2
+E0277,48,Male,PhD,Healthcare,Doctor,22,Medium,Low,Yes,85826,99159,Unchanged,52,Yes,5,20.29
+E0278,57,Female,PhD,Manufacturing,Machine Operator,34,High,Low,Yes,98576,103935,Unchanged,51,Yes,5,-10.82
+E0279,55,Male,Bachelor,IT,Data Analyst,33,High,High,Yes,47014,52712,Modified,39,No,9,-9.29
+E0280,56,Female,High School,IT,Software Engineer,31,High,High,No,70390,79401,Modified,48,Yes,7,-6.08
+E0281,46,Other,Bachelor,Manufacturing,Machine Operator,23,High,Low,No,47727,42088,Unchanged,37,No,4,21.71
+E0282,32,Female,High School,Education,Professor,7,Low,High,Yes,81501,78698,Unchanged,44,Yes,9,23.46
+E0283,57,Male,Master,Education,Professor,31,Low,Low,No,103379,101185,Unchanged,40,No,3,-0.6
+E0284,25,Female,Bachelor,Retail,Cashier,0,Low,Low,Yes,102240,109885,Unchanged,46,No,5,20.18
+E0285,53,Other,High School,Manufacturing,Quality Inspector,27,High,Low,No,86549,100023,Unchanged,46,Yes,7,20.81
+E0286,24,Female,High School,Education,Administrator,1,Medium,Low,No,49201,49638,Unchanged,54,No,8,39.73
+E0287,57,Male,Master,Marketing,Digital Marketer,31,High,Medium,Yes,72828,86008,Modified,50,Yes,4,25.29
+E0288,51,Other,PhD,Education,Teacher,29,High,Low,No,98619,99461,Unchanged,54,No,5,19.89
+E0289,37,Other,High School,IT,Software Engineer,11,Low,Medium,Yes,102982,104001,Modified,39,No,6,-10.86
+E0290,22,Female,High School,Manufacturing,Machine Operator,0,Low,Medium,Yes,112205,115362,Modified,52,No,9,17.42
+E0291,53,Other,High School,Healthcare,Nurse,31,High,Low,No,106559,117652,Unchanged,48,Yes,6,-10.44
+E0292,54,Other,PhD,Finance,Auditor,31,Medium,High,Yes,114328,105901,Unchanged,43,Yes,3,36.22
+E0293,32,Male,Bachelor,IT,DevOps Engineer,8,Low,High,No,68067,67519,Unchanged,52,No,9,36.54
+E0294,27,Female,High School,Finance,Auditor,3,Low,Medium,Yes,95450,98904,Modified,54,Yes,4,13.99
+E0295,33,Male,High School,Healthcare,Nurse,11,Low,Low,No,42329,43639,Unchanged,44,No,8,17.68
+E0296,35,Female,High School,Marketing,Digital Marketer,11,Low,Low,Yes,61750,61484,Unchanged,37,No,4,-15.14
+E0297,48,Other,Bachelor,Finance,Accountant,25,High,High,No,82130,82759,Modified,44,Yes,3,38.54
+E0298,23,Other,Master,Manufacturing,Supervisor,1,Low,Low,No,93740,101173,Unchanged,48,Yes,3,35.37
+E0299,37,Other,Bachelor,IT,Data Analyst,11,High,High,Yes,41138,56428,Modified,47,No,7,29.51
+E0300,55,Female,Master,IT,Data Analyst,29,Medium,High,No,47347,44532,Unchanged,46,No,6,37.79
+E0301,34,Other,Master,Marketing,SEO Specialist,9,High,Medium,Yes,82188,70961,Modified,45,No,8,18.45
+E0302,23,Other,High School,Retail,Store Manager,0,Low,High,No,102146,102960,Unchanged,36,No,4,13.87
+E0303,46,Male,High School,Retail,Store Manager,23,High,High,Yes,85677,119683,Modified,49,Yes,3,-16.53
+E0304,44,Other,Bachelor,Finance,Investment Analyst,20,High,High,No,74936,66344,Modified,48,No,5,-12.72
+E0305,28,Other,High School,Healthcare,Doctor,3,Low,Low,No,71568,73458,Unchanged,51,No,7,39.8
+E0306,50,Male,Bachelor,Retail,Store Manager,25,High,Medium,Yes,42411,55507,Modified,39,Yes,6,23.46
+E0307,56,Other,Bachelor,Marketing,Content Creator,32,Low,Medium,Yes,56715,57976,Modified,39,No,8,-9.39
+E0308,23,Male,Bachelor,Manufacturing,Supervisor,0,Low,Medium,No,36548,34825,Modified,44,Yes,9,-4.41
+E0309,26,Male,PhD,Finance,Accountant,4,Low,Medium,Yes,90428,86071,Modified,52,Yes,7,-5.53
+E0310,53,Female,Bachelor,Education,Professor,28,High,High,Yes,71424,61841,Replaced,54,No,9,12.88
+E0311,47,Female,PhD,IT,Software Engineer,22,Medium,Low,No,55121,54977,Unchanged,42,No,5,24.24
+E0312,50,Female,PhD,Finance,Accountant,25,Low,High,Yes,60620,61766,Unchanged,47,No,3,27.1
+E0313,38,Male,Bachelor,Manufacturing,Supervisor,16,Medium,Low,Yes,94641,97601,Unchanged,44,No,4,-4.72
+E0314,42,Female,Bachelor,IT,Software Engineer,17,Low,High,Yes,58602,59628,Unchanged,51,Yes,6,-6.38
+E0315,44,Male,PhD,Healthcare,Doctor,18,Low,High,No,77684,82392,Unchanged,39,Yes,7,10.73
+E0316,29,Male,High School,Education,Administrator,7,Medium,Medium,Yes,93530,102668,Modified,37,No,3,28.13
+E0317,26,Other,Master,Retail,Store Manager,1,Low,Medium,Yes,118340,119303,Modified,38,No,5,7.72
+E0318,36,Female,Master,Retail,Store Manager,12,Low,Low,No,94027,94330,Unchanged,39,No,8,4.73
+E0319,53,Male,PhD,Education,Teacher,30,Medium,High,No,72533,67077,Unchanged,51,No,9,10.88
+E0320,29,Female,Master,Marketing,SEO Specialist,7,High,High,No,65144,67043,Modified,51,No,6,-7.66
+E0321,25,Other,PhD,Finance,Auditor,3,Medium,High,No,89560,106392,Unchanged,52,No,4,8.7
+E0322,42,Other,PhD,Marketing,Digital Marketer,17,Low,High,Yes,55227,56395,Unchanged,47,No,7,-13.16
+E0323,53,Other,High School,Education,Teacher,28,High,Medium,No,87866,72598,Modified,52,Yes,9,-13.35
+E0324,30,Female,Master,Manufacturing,Machine Operator,8,High,Medium,No,100119,106050,Modified,52,Yes,8,6.36
+E0325,51,Female,PhD,Marketing,Digital Marketer,26,Low,Medium,Yes,76804,80751,Modified,51,No,7,9.76
+E0326,56,Male,Master,Manufacturing,Supervisor,33,High,Medium,No,78758,104556,Modified,49,No,4,-4.49
+E0327,42,Other,Master,Retail,Store Manager,16,Low,High,No,45997,49506,Unchanged,41,No,9,23.71
+E0328,53,Male,High School,IT,Software Engineer,29,Medium,Low,No,87941,99017,Unchanged,47,No,4,-3.84
+E0329,23,Male,PhD,Finance,Investment Analyst,0,Low,Medium,No,85731,91960,Modified,53,Yes,9,-7.19
+E0330,45,Female,Master,Education,Teacher,20,High,High,No,87804,92022,Replaced,35,Yes,5,25.49
+E0331,40,Female,Master,Marketing,Digital Marketer,14,High,High,Yes,59725,79075,Replaced,39,Yes,9,18.18
+E0332,29,Other,Master,Finance,Investment Analyst,6,High,Low,No,95095,90150,Unchanged,35,No,6,23.59
+E0333,56,Male,Master,Healthcare,Doctor,33,High,Medium,No,98056,111102,Modified,41,No,5,23.98
+E0334,48,Male,High School,Education,Administrator,25,High,Low,No,61656,63207,Unchanged,38,Yes,8,12.32
+E0335,47,Female,High School,Marketing,Digital Marketer,24,Low,Medium,No,40805,43861,Modified,36,Yes,7,-19.34
+E0336,41,Female,Master,Finance,Accountant,17,Medium,Medium,Yes,66751,63057,Modified,53,No,7,-1.66
+E0337,25,Other,High School,Retail,Store Manager,0,High,Medium,No,48313,64339,Modified,39,No,8,15.58
+E0338,42,Male,PhD,Retail,Sales Associate,16,Medium,High,No,110073,119525,Unchanged,47,No,6,1.33
+E0339,38,Other,Master,Finance,Accountant,13,Medium,High,No,66060,72183,Unchanged,50,No,4,-16.11
+E0340,25,Female,PhD,Finance,Investment Analyst,2,Medium,Low,No,46029,52541,Unchanged,53,Yes,3,-3.81
+E0341,40,Other,Bachelor,Retail,Store Manager,14,Medium,High,Yes,92539,105075,Unchanged,38,Yes,5,22.46
+E0342,57,Male,Bachelor,Healthcare,Nurse,35,Medium,Medium,Yes,106256,98454,Modified,49,Yes,5,-6.76
+E0343,54,Other,Bachelor,Manufacturing,Machine Operator,32,High,Medium,No,75253,88926,Modified,49,No,8,27.14
+E0344,35,Female,High School,Healthcare,Nurse,10,Low,High,Yes,87418,92750,Unchanged,39,Yes,3,37.02
+E0345,31,Male,Master,Healthcare,Technician,8,Medium,Low,Yes,76850,69768,Unchanged,47,Yes,8,-18.55
+E0346,38,Female,Bachelor,Healthcare,Nurse,14,High,Low,Yes,113820,144500,Unchanged,37,No,8,-16.63
+E0347,47,Other,Master,Healthcare,Doctor,23,Low,Medium,No,92812,94599,Modified,44,Yes,7,8.85
+E0348,57,Other,PhD,IT,Data Analyst,34,High,Low,No,49715,41258,Unchanged,37,Yes,3,34.23
+E0349,45,Female,Bachelor,Finance,Auditor,23,Low,Medium,Yes,73619,78391,Modified,46,No,6,-10.47
+E0350,52,Male,High School,Retail,Sales Associate,27,Low,Medium,Yes,43975,44890,Modified,46,No,4,-19.2
+E0351,51,Other,PhD,IT,Data Analyst,26,High,Low,No,30162,29117,Unchanged,44,No,8,27.23
+E0352,52,Other,High School,Marketing,Digital Marketer,29,Medium,Medium,Yes,37896,42936,Modified,47,No,6,-16.08
+E0353,41,Female,Bachelor,Marketing,SEO Specialist,18,High,High,No,48681,55359,Replaced,52,Yes,3,0.76
+E0354,48,Other,Bachelor,Finance,Accountant,25,Low,Medium,Yes,37927,39150,Modified,50,No,9,-12.32
+E0355,42,Female,PhD,Manufacturing,Supervisor,19,Low,Medium,Yes,107465,108842,Modified,39,Yes,4,-4.39
+E0356,42,Female,Bachelor,Retail,Cashier,19,Medium,High,No,58228,63832,Unchanged,51,Yes,5,-8.11
+E0357,46,Other,PhD,Healthcare,Technician,20,Medium,Medium,Yes,59055,70287,Modified,35,No,4,-9.02
+E0358,25,Male,Bachelor,Retail,Store Manager,2,Low,High,Yes,45352,48870,Unchanged,51,No,7,13.67
+E0359,55,Other,Master,Retail,Sales Associate,30,Low,Medium,No,53481,55159,Modified,51,No,3,27.5
+E0360,55,Female,Bachelor,Retail,Sales Associate,32,High,Medium,Yes,99184,104855,Modified,50,Yes,3,-11.54
+E0361,23,Other,Master,Retail,Store Manager,0,Medium,Low,No,95633,110800,Unchanged,41,No,8,7.61
+E0362,33,Female,Bachelor,Retail,Sales Associate,8,Medium,High,Yes,100202,103986,Unchanged,51,No,9,-16.88
+E0363,42,Other,Bachelor,IT,DevOps Engineer,17,Medium,Low,No,104905,104806,Unchanged,49,No,7,25.41
+E0364,36,Male,High School,Manufacturing,Supervisor,11,High,Medium,Yes,44939,42840,Modified,42,No,4,36.8
+E0365,49,Other,PhD,Finance,Investment Analyst,26,Medium,High,No,59118,63005,Unchanged,37,No,6,-14.35
+E0366,54,Male,Bachelor,Education,Administrator,31,High,Medium,No,71971,92051,Modified,52,Yes,5,2.32
+E0367,40,Male,PhD,Retail,Cashier,14,Low,Medium,Yes,32551,31835,Modified,43,Yes,6,-14.36
+E0368,58,Male,PhD,IT,Data Analyst,32,Medium,Medium,No,37239,42429,Modified,50,Yes,8,3.76
+E0369,39,Other,PhD,IT,Software Engineer,16,Medium,Low,Yes,36971,40992,Unchanged,41,No,5,27.6
+E0370,24,Male,PhD,Education,Professor,0,Low,Low,No,109473,106772,Unchanged,35,No,9,10.42
+E0371,29,Male,Bachelor,Healthcare,Nurse,3,Low,High,No,47071,45791,Unchanged,40,No,8,6.42
+E0372,40,Other,Bachelor,Retail,Sales Associate,18,Medium,Medium,No,92987,104323,Modified,35,No,9,-0.82
+E0373,42,Other,Master,Marketing,Content Creator,16,Low,Low,No,86481,84309,Unchanged,39,No,3,32.92
+E0374,24,Other,Master,Retail,Store Manager,2,Low,Low,Yes,56819,60108,Unchanged,39,Yes,5,33.42
+E0375,49,Female,Bachelor,Education,Administrator,23,Low,Low,Yes,79416,85202,Unchanged,53,Yes,6,12.45
+E0376,32,Other,Bachelor,Healthcare,Doctor,9,Low,Low,No,82142,86064,Unchanged,36,Yes,8,-1.16
+E0377,24,Female,High School,Finance,Auditor,0,High,Low,No,42763,47691,Unchanged,35,Yes,7,-5.34
+E0378,56,Other,Bachelor,Healthcare,Nurse,31,Low,Low,Yes,75096,79673,Unchanged,45,No,3,-8.52
+E0379,44,Male,Bachelor,Finance,Auditor,22,Low,High,No,102516,109787,Unchanged,37,No,3,30.62
+E0380,41,Other,High School,Finance,Auditor,15,Medium,Medium,No,117969,117677,Modified,49,Yes,9,21.18
+E0381,27,Female,Master,Marketing,Digital Marketer,5,Medium,Low,Yes,68547,66364,Unchanged,37,No,6,30.22
+E0382,46,Female,High School,Education,Administrator,20,Low,High,Yes,101906,108476,Unchanged,54,No,8,4.5
+E0383,57,Female,PhD,Education,Administrator,32,High,Low,Yes,53952,67960,Unchanged,47,Yes,9,27.31
+E0384,39,Other,Master,Retail,Store Manager,15,Low,Medium,Yes,116661,122565,Modified,36,Yes,8,13.63
+E0385,59,Female,Master,Retail,Sales Associate,34,Medium,Low,No,116516,123972,Unchanged,48,Yes,5,2.82
+E0386,41,Other,Master,Education,Administrator,19,High,High,No,38472,40505,Replaced,40,Yes,9,-18.37
+E0387,43,Other,High School,Education,Administrator,21,Medium,High,No,83330,99315,Unchanged,53,Yes,3,29.56
+E0388,49,Male,Master,Retail,Sales Associate,24,High,Low,Yes,105948,145963,Unchanged,53,No,9,23.6
+E0389,35,Other,PhD,Marketing,Content Creator,9,Low,Low,Yes,109676,105316,Unchanged,43,No,3,-4.2
+E0390,46,Male,Master,Finance,Investment Analyst,22,High,High,Yes,41240,40413,Modified,38,No,5,24.59
+E0391,25,Male,High School,Healthcare,Technician,0,High,Medium,No,44849,53849,Modified,43,No,9,15.59
+E0392,37,Other,Master,Retail,Store Manager,11,High,High,Yes,104813,133819,Modified,37,Yes,5,-17.92
+E0393,42,Female,Master,Healthcare,Nurse,16,Medium,Low,Yes,80500,78543,Unchanged,46,Yes,3,-6.79
+E0394,30,Female,Bachelor,Finance,Accountant,4,Medium,Low,Yes,76403,88670,Unchanged,35,No,7,-16.12
+E0395,44,Female,PhD,IT,Software Engineer,19,Medium,Low,No,36581,37692,Unchanged,43,Yes,5,26.43
+E0396,47,Female,High School,Finance,Auditor,22,High,High,No,118668,107079,Replaced,40,No,6,36.89
+E0397,50,Male,PhD,Retail,Cashier,26,Medium,Low,Yes,58803,64855,Unchanged,38,Yes,8,-12.1
+E0398,33,Female,High School,Retail,Sales Associate,7,High,High,No,38770,46188,Replaced,36,Yes,5,37.03
+E0399,22,Other,PhD,Retail,Cashier,0,Low,High,Yes,56512,54023,Unchanged,42,Yes,5,16.24
+E0400,22,Male,PhD,IT,DevOps Engineer,0,Low,Medium,Yes,105868,108085,Modified,48,No,5,17.35
+E0401,41,Male,PhD,Finance,Auditor,19,High,Low,Yes,36796,41292,Unchanged,51,Yes,8,31.25
+E0402,29,Other,Bachelor,Manufacturing,Supervisor,5,High,Low,No,46724,49673,Unchanged,44,Yes,5,-6.89
+E0403,30,Other,PhD,IT,Software Engineer,4,Low,Medium,Yes,100448,104723,Modified,53,No,5,-13.17
+E0404,34,Other,Master,Finance,Investment Analyst,10,Medium,Low,Yes,111554,115478,Unchanged,47,Yes,3,35.77
+E0405,40,Other,High School,Manufacturing,Quality Inspector,15,Medium,High,No,108279,119245,Unchanged,50,Yes,3,-4.51
+E0406,47,Male,High School,Manufacturing,Quality Inspector,22,Low,High,Yes,33321,35260,Unchanged,48,Yes,9,31.77
+E0407,51,Female,High School,Healthcare,Nurse,25,Medium,High,Yes,96262,87807,Unchanged,52,No,4,32.3
+E0408,25,Other,PhD,Healthcare,Doctor,3,High,Medium,Yes,54995,56173,Modified,42,No,6,-12.74
+E0409,54,Male,High School,Manufacturing,Supervisor,29,High,Low,Yes,74409,73861,Unchanged,36,Yes,9,24.99
+E0410,50,Male,PhD,Finance,Accountant,28,Medium,Medium,Yes,81649,95236,Modified,48,No,4,15.92
+E0411,30,Male,High School,Retail,Sales Associate,8,High,Low,No,76619,69195,Unchanged,36,Yes,7,18.27
+E0412,59,Female,PhD,Finance,Accountant,35,Medium,High,Yes,36031,43142,Unchanged,43,No,8,29.2
+E0413,33,Male,High School,Education,Professor,9,High,Low,Yes,32282,35239,Unchanged,39,Yes,7,14.63
+E0414,52,Female,High School,IT,DevOps Engineer,30,Low,Low,Yes,102982,110449,Unchanged,45,Yes,4,-15.96
+E0415,57,Other,Master,Healthcare,Doctor,33,Medium,Low,Yes,66268,65115,Unchanged,46,Yes,4,-1.62
+E0416,53,Female,High School,Finance,Investment Analyst,29,High,High,No,114162,150070,Replaced,42,Yes,5,35.0
+E0417,53,Female,Bachelor,Education,Administrator,30,Low,High,No,96677,102075,Unchanged,41,No,4,21.3
+E0418,49,Male,High School,Manufacturing,Quality Inspector,23,High,Low,No,111926,99116,Unchanged,35,Yes,9,33.41
+E0419,41,Male,High School,IT,Data Analyst,17,Low,Medium,Yes,70379,70860,Modified,49,Yes,9,-19.6
+E0420,48,Female,High School,Finance,Accountant,24,High,Medium,No,41120,49601,Modified,36,No,6,16.35
+E0421,33,Male,Master,Education,Professor,11,Low,High,No,47438,49963,Unchanged,39,No,8,-11.57
+E0422,45,Male,Master,Healthcare,Doctor,21,Medium,High,No,100188,101717,Unchanged,45,No,5,-17.66
+E0423,27,Other,PhD,Manufacturing,Quality Inspector,3,Medium,High,Yes,83161,97300,Unchanged,44,Yes,6,-13.03
+E0424,58,Male,Bachelor,Manufacturing,Supervisor,34,Low,Low,No,57734,58693,Unchanged,43,No,3,39.69
+E0425,50,Male,High School,Education,Professor,24,Medium,High,Yes,50538,60056,Unchanged,47,No,8,3.37
+E0426,25,Female,Master,Healthcare,Doctor,0,Low,High,Yes,33236,33956,Unchanged,47,No,8,11.94
+E0427,44,Other,PhD,Education,Teacher,20,Low,High,No,94386,93947,Unchanged,53,No,4,-4.44
+E0428,42,Female,High School,IT,Software Engineer,17,Medium,Medium,No,104027,119548,Modified,35,No,6,12.69
+E0429,45,Male,Master,Retail,Store Manager,19,Medium,Medium,No,85778,81073,Modified,38,Yes,5,29.01
+E0430,38,Other,PhD,Manufacturing,Quality Inspector,14,High,Medium,Yes,50219,49229,Modified,53,No,7,-0.45
+E0431,42,Other,PhD,Finance,Accountant,17,High,High,No,110388,119807,Modified,53,Yes,9,12.58
+E0432,48,Female,Master,Finance,Auditor,22,High,High,No,54842,55504,Modified,45,No,9,7.51
+E0433,49,Male,Bachelor,Retail,Store Manager,23,Low,High,Yes,31207,30937,Unchanged,46,Yes,8,32.63
+E0434,38,Male,Bachelor,Education,Administrator,14,High,Low,Yes,90011,98115,Unchanged,38,Yes,8,31.81
+E0435,32,Other,Master,Healthcare,Doctor,10,Medium,High,Yes,109063,112593,Unchanged,53,Yes,4,16.35
+E0436,38,Other,High School,Healthcare,Technician,14,Low,Medium,Yes,85220,93495,Modified,53,No,9,4.46
+E0437,25,Male,PhD,Finance,Auditor,0,High,Medium,Yes,83410,76760,Modified,54,Yes,7,-13.44
+E0438,38,Female,PhD,Retail,Cashier,16,Medium,High,No,92320,91353,Unchanged,40,No,5,-5.58
+E0439,26,Female,Master,Education,Professor,0,Medium,Medium,No,55518,60402,Modified,50,No,4,35.58
+E0440,53,Other,PhD,Retail,Store Manager,27,Low,Medium,No,35845,37938,Modified,44,Yes,8,21.55
+E0441,42,Male,High School,Manufacturing,Supervisor,17,High,Medium,No,41944,40570,Modified,49,No,5,-7.36
+E0442,40,Other,Master,Finance,Accountant,17,High,High,No,40503,56574,Replaced,41,No,5,-14.61
+E0443,22,Male,High School,Healthcare,Technician,0,High,Medium,No,62792,74078,Modified,47,Yes,7,-15.86
+E0444,30,Other,High School,Finance,Accountant,8,Medium,Low,No,50131,55645,Unchanged,43,Yes,4,-13.74
+E0445,35,Other,Bachelor,Healthcare,Technician,10,Medium,Medium,Yes,38605,35028,Modified,42,No,5,-1.63
+E0446,35,Female,Bachelor,Finance,Investment Analyst,10,High,High,No,91388,125074,Replaced,53,Yes,5,-15.66
+E0447,59,Female,PhD,Finance,Accountant,36,Low,High,No,110807,107143,Unchanged,50,No,8,30.52
+E0448,23,Other,PhD,Finance,Investment Analyst,0,Medium,Low,No,76092,83705,Unchanged,36,Yes,9,-7.33
+E0449,24,Male,PhD,Healthcare,Technician,0,High,Low,Yes,53782,58399,Unchanged,43,No,8,-6.44
+E0450,34,Other,Bachelor,Retail,Sales Associate,8,Medium,Low,No,91202,99806,Unchanged,51,No,9,-12.62
+E0451,44,Male,High School,Finance,Auditor,21,High,High,No,110905,143384,Modified,54,Yes,4,13.28
+E0452,35,Female,Bachelor,Marketing,SEO Specialist,12,Medium,Low,Yes,46237,53022,Unchanged,38,No,7,28.24
+E0453,44,Other,Bachelor,Manufacturing,Quality Inspector,21,High,Low,No,104763,115031,Unchanged,52,No,4,-2.94
+E0454,32,Female,Master,Retail,Cashier,10,High,Medium,No,109563,114106,Modified,51,No,4,-13.84
+E0455,50,Other,Bachelor,Finance,Investment Analyst,27,Medium,High,Yes,80961,79572,Unchanged,52,No,3,22.42
+E0456,27,Other,High School,IT,Data Analyst,1,Medium,Low,Yes,110811,124359,Unchanged,45,Yes,3,-1.02
+E0457,22,Female,High School,IT,Data Analyst,0,Medium,Medium,Yes,62402,66738,Modified,38,No,6,31.99
+E0458,39,Other,PhD,Education,Administrator,15,Low,Low,No,73148,74125,Unchanged,46,Yes,5,2.64
+E0459,58,Female,Master,Retail,Store Manager,36,Medium,Low,No,62441,56989,Unchanged,44,Yes,9,13.88
+E0460,44,Female,Master,Healthcare,Doctor,18,High,Medium,No,42180,55901,Modified,46,Yes,5,-9.03
+E0461,38,Male,PhD,IT,Software Engineer,13,High,High,No,84040,82260,Replaced,53,Yes,5,-13.68
+E0462,33,Female,Bachelor,Manufacturing,Supervisor,7,High,Medium,No,75968,77185,Modified,43,Yes,5,37.41
+E0463,39,Female,High School,Education,Teacher,15,High,High,No,35355,28345,Modified,47,Yes,4,31.54
+E0464,58,Male,Master,Retail,Store Manager,32,Medium,Low,No,56654,63219,Unchanged,40,Yes,5,2.27
+E0465,43,Male,High School,Manufacturing,Machine Operator,21,Low,Low,Yes,57747,60730,Unchanged,36,No,3,16.47
+E0466,45,Male,Bachelor,Manufacturing,Supervisor,20,High,High,Yes,77377,96122,Modified,46,No,7,38.48
+E0467,49,Male,High School,Manufacturing,Machine Operator,27,High,Low,No,104083,88595,Unchanged,47,Yes,3,-17.42
+E0468,31,Other,High School,IT,Data Analyst,5,Low,High,No,92507,89267,Unchanged,47,No,7,21.28
+E0469,59,Other,High School,Finance,Investment Analyst,36,Medium,Low,No,72965,81196,Unchanged,37,Yes,3,36.93
+E0470,24,Male,Bachelor,Finance,Auditor,2,High,Low,Yes,66021,63380,Unchanged,38,Yes,4,23.49
+E0471,47,Male,Bachelor,Finance,Accountant,25,High,High,Yes,50307,53976,Modified,51,No,6,-3.96
+E0472,33,Male,High School,Healthcare,Technician,9,Low,Medium,Yes,62245,59290,Modified,43,Yes,4,26.21
+E0473,58,Male,Master,Finance,Auditor,32,Low,Medium,Yes,59336,63250,Modified,54,No,3,11.08
+E0474,33,Female,Master,Manufacturing,Machine Operator,9,Medium,Low,No,85668,93715,Unchanged,49,Yes,5,38.45
+E0475,30,Other,High School,Education,Professor,6,Medium,Low,No,118839,134877,Unchanged,42,No,7,26.82
+E0476,43,Female,Master,Finance,Investment Analyst,19,Medium,Medium,No,75671,69595,Modified,36,Yes,4,-6.31
+E0477,49,Female,Master,IT,Data Analyst,23,Low,Medium,No,63870,61248,Modified,38,Yes,4,20.3
+E0478,30,Male,High School,Education,Administrator,4,Medium,High,No,56423,67560,Unchanged,49,No,6,12.67
+E0479,43,Female,Bachelor,Manufacturing,Supervisor,21,Medium,Low,Yes,68458,76514,Unchanged,44,No,5,17.18
+E0480,40,Female,High School,Retail,Cashier,16,Low,Low,No,85751,89643,Unchanged,45,No,5,3.29
+E0481,22,Female,PhD,Manufacturing,Quality Inspector,0,Low,Low,Yes,62430,67900,Unchanged,49,No,9,-2.57
+E0482,47,Other,Master,Education,Professor,25,High,Low,No,46241,37210,Unchanged,45,Yes,8,17.86
+E0483,54,Female,High School,Finance,Accountant,31,High,Medium,Yes,57045,63764,Modified,48,Yes,7,-5.49
+E0484,27,Male,Bachelor,Healthcare,Technician,4,High,Medium,No,95101,107268,Modified,37,No,8,5.97
+E0485,27,Other,Bachelor,Education,Administrator,1,Low,Low,Yes,73527,72157,Unchanged,35,No,3,-17.0
+E0486,32,Male,Master,Finance,Investment Analyst,6,Low,Low,Yes,77153,83176,Unchanged,40,No,3,-5.48
+E0487,37,Other,PhD,Education,Administrator,12,Low,Medium,Yes,89234,91441,Modified,46,Yes,5,4.4
+E0488,58,Other,Bachelor,Marketing,Digital Marketer,36,High,High,Yes,93761,108400,Replaced,52,Yes,4,-15.62
+E0489,27,Male,High School,IT,Data Analyst,2,High,High,Yes,96155,122651,Modified,36,No,3,34.47
+E0490,37,Female,Master,Retail,Cashier,14,Medium,Low,Yes,80081,90266,Unchanged,42,No,8,-10.3
+E0491,53,Female,Bachelor,Retail,Store Manager,28,High,Low,Yes,93069,110228,Unchanged,54,Yes,4,20.0
+E0492,43,Other,Master,Healthcare,Nurse,17,High,Medium,No,57691,46571,Modified,39,Yes,6,-19.46
+E0493,49,Female,Master,Healthcare,Technician,26,High,Low,No,49710,58688,Unchanged,42,No,4,-6.68
+E0494,29,Other,PhD,Retail,Sales Associate,5,Low,High,Yes,57413,58234,Unchanged,37,Yes,6,-18.25
+E0495,34,Female,Bachelor,Manufacturing,Quality Inspector,8,Medium,Low,Yes,42297,49505,Unchanged,36,Yes,5,-10.77
+E0496,22,Male,Master,IT,Software Engineer,0,Low,High,Yes,83574,84055,Unchanged,37,Yes,5,3.55
+E0497,48,Male,High School,Healthcare,Nurse,25,Medium,Medium,Yes,49149,53405,Modified,54,No,7,39.55
+E0498,48,Female,Bachelor,Marketing,Digital Marketer,25,Medium,Low,Yes,93811,108274,Unchanged,47,No,6,34.13
+E0499,44,Other,PhD,Retail,Cashier,21,Low,Low,No,42602,41883,Unchanged,35,Yes,3,-17.66
+E0500,43,Male,High School,Marketing,Content Creator,20,Medium,Medium,No,94503,93061,Modified,39,Yes,5,37.03
+E0501,42,Male,PhD,Manufacturing,Supervisor,18,High,High,Yes,89979,112947,Modified,41,No,9,-3.05
+E0502,28,Female,Master,Manufacturing,Machine Operator,5,Medium,Medium,No,75607,77140,Modified,44,No,6,25.79
+E0503,36,Female,Bachelor,Finance,Accountant,13,High,Low,No,50700,48326,Unchanged,50,Yes,9,-2.26
+E0504,49,Female,Bachelor,Healthcare,Technician,27,High,Medium,No,50954,42872,Modified,39,Yes,3,36.45
+E0505,24,Female,Bachelor,Marketing,Content Creator,0,High,Medium,Yes,75095,62222,Modified,44,Yes,6,23.6
+E0506,24,Male,Bachelor,Manufacturing,Quality Inspector,1,Low,High,No,57056,58816,Unchanged,47,No,7,-3.05
+E0507,52,Male,PhD,Marketing,Digital Marketer,26,Low,Low,No,87149,89746,Unchanged,40,No,7,15.43
+E0508,31,Female,High School,Manufacturing,Supervisor,5,Medium,Low,Yes,107116,110462,Unchanged,49,Yes,6,32.96
+E0509,49,Female,PhD,Marketing,Content Creator,24,Low,High,No,115029,121902,Unchanged,43,No,7,18.44
+E0510,34,Male,High School,Healthcare,Nurse,11,Medium,Low,Yes,87649,102445,Unchanged,50,No,5,29.08
+E0511,35,Other,Bachelor,Retail,Sales Associate,13,Low,Medium,No,116511,126448,Modified,41,Yes,8,28.4
+E0512,42,Male,PhD,Retail,Store Manager,16,High,Low,Yes,48375,57885,Unchanged,44,No,4,-15.29
+E0513,53,Male,PhD,Finance,Investment Analyst,29,High,Low,Yes,60881,77220,Unchanged,45,Yes,4,15.03
+E0514,43,Other,Bachelor,Manufacturing,Supervisor,21,Low,Low,No,98368,102325,Unchanged,39,Yes,8,-2.21
+E0515,22,Other,High School,Manufacturing,Machine Operator,0,Medium,Low,Yes,32610,32961,Unchanged,36,Yes,9,35.98
+E0516,53,Male,High School,Manufacturing,Supervisor,29,High,High,No,119285,161344,Modified,41,Yes,7,21.68
+E0517,38,Male,Master,Finance,Investment Analyst,15,Low,Medium,No,43050,41232,Modified,40,Yes,8,-11.47
+E0518,41,Female,High School,IT,Data Analyst,16,High,Medium,Yes,65060,85483,Modified,46,Yes,9,22.07
+E0519,22,Other,Master,Retail,Sales Associate,0,High,High,No,105225,94473,Replaced,38,No,4,27.17
+E0520,40,Other,Bachelor,Healthcare,Doctor,16,Medium,Medium,No,64675,60620,Modified,35,Yes,8,27.85
+E0521,55,Male,Bachelor,Healthcare,Technician,29,High,Low,Yes,75814,71339,Unchanged,53,Yes,8,22.29
+E0522,54,Other,Bachelor,Education,Teacher,32,Medium,High,Yes,40578,41749,Unchanged,50,Yes,8,-1.47
+E0523,34,Male,High School,Finance,Auditor,10,Low,Medium,Yes,88002,88836,Modified,44,Yes,3,-12.1
+E0524,41,Other,High School,Retail,Sales Associate,16,Medium,High,No,57798,57506,Unchanged,39,Yes,9,28.98
+E0525,35,Female,Master,IT,Software Engineer,11,Medium,Medium,No,41889,48166,Modified,52,Yes,6,34.37
+E0526,37,Female,Bachelor,IT,Data Analyst,12,High,Medium,No,30112,24447,Modified,39,No,5,3.44
+E0527,33,Male,PhD,Manufacturing,Quality Inspector,11,High,Medium,Yes,49552,52442,Modified,39,No,8,32.68
+E0528,54,Other,Bachelor,IT,Data Analyst,31,Low,Medium,Yes,111938,117717,Modified,49,No,9,-15.67
+E0529,25,Male,Master,IT,DevOps Engineer,3,Low,High,No,76220,81382,Unchanged,48,Yes,9,24.01
+E0530,40,Male,High School,Marketing,Content Creator,14,Low,Low,No,52931,52490,Unchanged,44,No,3,-3.42
+E0531,29,Male,Bachelor,Healthcare,Technician,6,Low,High,No,84845,87204,Unchanged,40,No,4,-9.24
+E0532,26,Other,Master,Marketing,Content Creator,1,Low,High,No,55917,57780,Unchanged,54,No,3,-8.61
+E0533,48,Female,Bachelor,Retail,Cashier,26,Low,Medium,Yes,58230,57626,Modified,37,Yes,4,-7.68
+E0534,45,Other,High School,Healthcare,Technician,22,Low,Medium,No,118229,129493,Modified,41,Yes,5,16.22
+E0535,50,Female,PhD,Manufacturing,Supervisor,25,Low,Low,Yes,111882,113510,Unchanged,53,No,6,21.75
+E0536,56,Male,Master,Healthcare,Nurse,33,Medium,Medium,Yes,60109,65668,Modified,40,Yes,9,22.23
+E0537,48,Male,PhD,Education,Professor,25,Medium,High,Yes,42360,47103,Unchanged,43,Yes,5,16.6
+E0538,57,Other,Master,Retail,Sales Associate,33,Medium,Medium,No,81707,73585,Modified,53,No,4,-9.56
+E0539,46,Male,Bachelor,Finance,Accountant,23,High,High,No,92260,126104,Modified,50,No,7,24.19
+E0540,43,Other,PhD,Healthcare,Nurse,18,Medium,Low,Yes,114381,126280,Unchanged,51,Yes,7,4.49
+E0541,25,Other,PhD,Retail,Store Manager,3,High,Medium,Yes,95618,131431,Modified,47,Yes,8,3.94
+E0542,53,Female,Bachelor,Marketing,Content Creator,31,Medium,Low,No,112289,126083,Unchanged,54,Yes,5,-0.38
+E0543,42,Other,Bachelor,Finance,Investment Analyst,20,High,Medium,Yes,90686,117016,Modified,53,Yes,6,10.76
+E0544,38,Male,Bachelor,Retail,Cashier,14,Medium,Medium,No,105945,117626,Modified,41,No,3,-7.76
+E0545,44,Female,Bachelor,Finance,Investment Analyst,19,High,Medium,No,84318,68947,Modified,48,Yes,7,1.36
+E0546,55,Other,PhD,IT,Data Analyst,31,Low,Low,Yes,103788,105211,Unchanged,35,No,5,-7.08
+E0547,37,Male,Master,Healthcare,Doctor,14,Medium,High,Yes,64397,76339,Unchanged,40,Yes,9,30.31
+E0548,40,Male,Master,Education,Administrator,15,High,Low,Yes,37610,36481,Unchanged,37,Yes,4,27.21
+E0549,59,Male,Master,Finance,Accountant,37,Medium,Medium,No,31014,34778,Modified,53,Yes,8,11.29
+E0550,38,Male,High School,Marketing,SEO Specialist,16,Medium,High,No,73516,79054,Unchanged,51,Yes,6,12.3
+E0551,49,Female,Bachelor,Manufacturing,Machine Operator,27,Low,High,No,116664,111443,Unchanged,36,Yes,7,27.24
+E0552,59,Male,Master,Finance,Investment Analyst,36,High,Low,Yes,79831,85062,Unchanged,39,No,9,18.96
+E0553,49,Male,Master,Education,Administrator,26,High,Medium,Yes,54417,59861,Modified,47,No,6,27.11
+E0554,43,Other,PhD,Finance,Investment Analyst,17,Low,Medium,Yes,84122,86112,Modified,49,No,3,35.63
+E0555,24,Male,Bachelor,Education,Teacher,1,Low,High,Yes,86704,94386,Unchanged,39,Yes,3,-13.29
+E0556,31,Male,PhD,Education,Professor,6,Low,High,Yes,48452,51456,Unchanged,49,No,6,23.23
+E0557,40,Other,Master,Retail,Store Manager,16,High,Medium,Yes,42356,34087,Modified,44,Yes,9,35.47
+E0558,46,Other,Master,Healthcare,Doctor,20,High,Low,No,62828,63599,Unchanged,47,Yes,9,29.71
+E0559,53,Other,Bachelor,Education,Professor,27,Medium,High,Yes,92061,92643,Unchanged,41,No,3,10.34
+E0560,42,Female,High School,IT,Software Engineer,16,High,Medium,No,30136,25512,Modified,41,Yes,8,29.73
+E0561,26,Female,Master,IT,DevOps Engineer,3,Medium,Medium,Yes,62854,72368,Modified,37,No,8,31.53
+E0562,43,Other,Master,Retail,Store Manager,21,High,Low,Yes,31700,33179,Unchanged,54,Yes,9,23.32
+E0563,44,Female,Bachelor,Manufacturing,Machine Operator,18,Medium,Low,No,35520,39860,Unchanged,39,No,8,31.78
+E0564,39,Male,Bachelor,Finance,Accountant,17,Medium,High,Yes,94925,85977,Unchanged,44,Yes,5,-10.06
+E0565,35,Male,Master,IT,DevOps Engineer,12,Medium,Medium,No,73939,69171,Modified,45,Yes,8,-7.29
+E0566,40,Male,PhD,Healthcare,Technician,15,Medium,High,No,84935,92145,Unchanged,49,No,3,13.41
+E0567,54,Other,Bachelor,Education,Teacher,30,High,Medium,No,110201,115393,Modified,52,No,4,25.22
+E0568,34,Female,Bachelor,Healthcare,Nurse,12,Medium,High,No,73937,67034,Unchanged,50,No,3,36.71
+E0569,50,Other,High School,Education,Administrator,27,High,Low,No,101696,93941,Unchanged,51,Yes,5,3.51
+E0570,28,Female,Bachelor,Finance,Investment Analyst,5,High,High,Yes,30192,24481,Modified,37,No,9,27.57
+E0571,50,Female,PhD,Marketing,SEO Specialist,24,Low,High,Yes,60698,63932,Unchanged,43,Yes,3,-4.8
+E0572,50,Female,PhD,Manufacturing,Machine Operator,28,Low,High,No,44671,43800,Unchanged,43,Yes,9,-12.36
+E0573,35,Other,Master,Marketing,SEO Specialist,9,Low,Low,Yes,34434,36950,Unchanged,49,No,5,4.27
+E0574,32,Male,High School,Manufacturing,Supervisor,6,Low,Low,No,73949,74553,Unchanged,53,No,4,28.21
+E0575,53,Female,Master,Finance,Auditor,28,High,Medium,No,85480,106495,Modified,54,No,3,30.88
+E0576,39,Other,Bachelor,IT,Software Engineer,16,Medium,High,Yes,36476,41624,Unchanged,44,No,7,6.01
+E0577,24,Female,PhD,Manufacturing,Quality Inspector,0,Low,High,No,103933,104544,Unchanged,38,No,5,-15.88
+E0578,32,Male,PhD,Marketing,Digital Marketer,9,Low,Low,Yes,38026,38287,Unchanged,51,No,3,29.88
+E0579,49,Other,Bachelor,Manufacturing,Machine Operator,24,Low,High,Yes,47889,51045,Unchanged,38,Yes,3,12.91
+E0580,58,Female,PhD,Finance,Investment Analyst,32,Medium,High,No,89197,101764,Unchanged,51,No,5,11.08
+E0581,58,Male,Master,IT,Software Engineer,34,High,Low,Yes,119791,147096,Unchanged,43,No,9,3.2
+E0582,49,Other,High School,Retail,Store Manager,23,High,Low,No,107241,144232,Unchanged,37,Yes,7,25.52
+E0583,47,Other,Master,Marketing,Digital Marketer,22,High,Low,Yes,96025,110167,Unchanged,44,Yes,6,17.94
+E0584,34,Female,Master,Healthcare,Doctor,10,Medium,Low,No,62821,63817,Unchanged,42,Yes,7,15.31
+E0585,23,Male,Bachelor,Marketing,Digital Marketer,0,Medium,Low,Yes,71609,75341,Unchanged,51,No,4,-8.72
+E0586,23,Male,Master,Manufacturing,Machine Operator,0,Medium,High,No,102075,105459,Unchanged,51,Yes,8,7.05
+E0587,59,Female,Bachelor,Finance,Accountant,37,High,High,No,83442,113768,Modified,35,Yes,8,18.18
+E0588,53,Other,PhD,Retail,Sales Associate,28,Low,High,No,74948,79009,Unchanged,38,Yes,9,-6.88
+E0589,43,Male,Master,Retail,Store Manager,20,Low,Medium,No,82198,87665,Modified,40,Yes,6,29.3
+E0590,58,Other,High School,Marketing,SEO Specialist,33,Low,Medium,No,30203,29375,Modified,39,No,9,-6.97
+E0591,43,Male,PhD,Education,Professor,17,Medium,Medium,No,50884,59358,Modified,48,Yes,4,29.46
+E0592,27,Male,Bachelor,IT,Software Engineer,5,Low,Medium,Yes,32103,31466,Modified,41,No,7,10.85
+E0593,59,Female,PhD,Healthcare,Nurse,36,High,Medium,Yes,111159,105534,Modified,40,Yes,5,14.6
+E0594,41,Male,PhD,Education,Teacher,16,Medium,Low,Yes,71258,84089,Unchanged,44,No,5,28.08
+E0595,48,Other,PhD,Manufacturing,Machine Operator,24,Medium,Medium,No,58302,57789,Modified,37,No,6,-0.91
+E0596,32,Male,High School,IT,Software Engineer,8,Low,Medium,No,100130,101221,Modified,50,No,7,-19.18
+E0597,56,Other,PhD,Finance,Investment Analyst,33,Low,Low,Yes,82656,87974,Unchanged,49,No,5,-17.66
+E0598,56,Other,Master,Marketing,Content Creator,32,Medium,Medium,Yes,76287,78151,Modified,53,No,3,4.14
+E0599,25,Female,Bachelor,Healthcare,Doctor,0,Low,Medium,No,101196,107622,Modified,44,No,7,6.54
+E0600,46,Other,Bachelor,Finance,Accountant,21,Medium,High,Yes,114178,132506,Unchanged,36,Yes,9,2.75
+E0601,49,Female,High School,Retail,Store Manager,23,High,Medium,Yes,98798,91583,Modified,46,No,4,39.74
+E0602,25,Male,High School,Manufacturing,Quality Inspector,3,Medium,High,No,97753,108948,Unchanged,45,No,5,15.59
+E0603,39,Female,PhD,Manufacturing,Machine Operator,15,Low,Low,Yes,76646,82742,Unchanged,45,No,7,-13.4
+E0604,26,Female,Master,Finance,Auditor,4,Low,Medium,No,30570,32238,Modified,44,No,8,18.92
+E0605,40,Male,Master,Marketing,Digital Marketer,18,Low,Low,Yes,94575,101340,Unchanged,42,No,6,4.83
+E0606,43,Male,High School,Marketing,Digital Marketer,20,High,Medium,No,53470,57306,Modified,52,Yes,6,36.92
+E0607,54,Female,High School,Marketing,Digital Marketer,30,Medium,High,No,116795,121053,Unchanged,40,Yes,5,21.14
+E0608,49,Other,PhD,Education,Teacher,26,High,High,Yes,35213,46796,Replaced,51,No,8,15.07
+E0609,23,Other,PhD,Education,Professor,0,Low,Low,Yes,53989,56012,Unchanged,42,Yes,5,15.57
+E0610,43,Other,High School,Finance,Auditor,18,Low,High,No,53559,51415,Unchanged,51,Yes,6,-6.15
+E0611,37,Male,High School,IT,DevOps Engineer,13,Medium,Medium,Yes,114486,120264,Modified,50,Yes,5,38.57
+E0612,44,Female,Master,Healthcare,Doctor,22,Low,Low,Yes,94418,92537,Unchanged,51,Yes,9,-7.03
+E0613,52,Other,High School,Marketing,SEO Specialist,30,High,Low,No,86583,118139,Unchanged,48,No,6,26.55
+E0614,33,Female,Bachelor,Marketing,SEO Specialist,11,Low,Medium,No,65903,71424,Modified,48,No,5,-1.64
+E0615,55,Female,PhD,Manufacturing,Quality Inspector,32,Medium,High,No,113014,108859,Unchanged,54,Yes,4,-6.24
+E0616,59,Female,Bachelor,Finance,Auditor,36,Medium,Medium,No,75619,78003,Modified,39,No,8,11.79
+E0617,29,Female,Master,IT,DevOps Engineer,4,Medium,Low,Yes,105831,100187,Unchanged,42,No,7,-7.56
+E0618,51,Female,Master,Manufacturing,Machine Operator,26,Medium,High,Yes,112569,109973,Unchanged,47,No,6,1.32
+E0619,58,Female,Master,Finance,Auditor,35,High,Medium,Yes,41349,55363,Modified,40,No,9,26.61
+E0620,45,Other,Bachelor,Education,Administrator,22,High,High,Yes,119462,146222,Replaced,39,No,8,17.03
+E0621,31,Other,Master,Healthcare,Doctor,7,High,High,Yes,115103,104115,Replaced,35,No,9,32.52
+E0622,52,Female,High School,Manufacturing,Quality Inspector,29,Low,Medium,Yes,60134,57641,Modified,43,No,8,5.12
+E0623,34,Other,Bachelor,Marketing,Digital Marketer,12,High,Medium,No,63455,71598,Modified,51,No,9,39.51
+E0624,36,Male,High School,Finance,Investment Analyst,10,High,Low,Yes,73856,92991,Unchanged,52,Yes,7,36.43
+E0625,37,Other,Master,Marketing,SEO Specialist,15,High,Medium,Yes,95982,109011,Modified,41,Yes,3,21.22
+E0626,56,Female,PhD,IT,Software Engineer,33,Low,High,Yes,41151,41119,Unchanged,42,No,7,7.24
+E0627,38,Female,Bachelor,Manufacturing,Quality Inspector,16,High,Medium,Yes,96788,107056,Modified,48,No,9,24.17
+E0628,25,Female,PhD,Retail,Sales Associate,0,High,Medium,Yes,113494,154283,Modified,40,No,9,24.5
+E0629,59,Female,PhD,Retail,Sales Associate,34,Low,Low,Yes,111972,111053,Unchanged,47,Yes,8,-6.88
+E0630,55,Male,PhD,Education,Administrator,29,Medium,High,Yes,93909,111843,Unchanged,40,Yes,8,14.28
+E0631,53,Other,High School,Finance,Accountant,29,Low,High,No,116402,126191,Unchanged,39,Yes,8,0.25
+E0632,46,Male,Bachelor,Education,Teacher,24,Medium,High,Yes,59437,62766,Unchanged,38,No,7,11.32
+E0633,41,Male,Bachelor,Manufacturing,Machine Operator,16,High,High,Yes,30336,27036,Replaced,49,Yes,7,7.5
+E0634,38,Other,Bachelor,Retail,Store Manager,15,Medium,Low,No,101386,92465,Unchanged,42,Yes,5,-2.51
+E0635,47,Other,Master,Retail,Cashier,23,Low,Medium,No,84028,85726,Modified,50,No,9,7.98
+E0636,23,Other,Master,Manufacturing,Machine Operator,0,Medium,High,No,86830,93695,Unchanged,52,Yes,7,39.97
+E0637,51,Female,Bachelor,Retail,Store Manager,28,High,High,No,60676,76314,Replaced,51,No,5,-17.27
+E0638,36,Female,Bachelor,Education,Professor,14,High,High,Yes,61923,68481,Modified,54,Yes,8,10.08
+E0639,54,Female,Bachelor,Education,Professor,32,High,Low,Yes,61027,82815,Unchanged,46,Yes,5,39.78
+E0640,32,Female,High School,IT,DevOps Engineer,9,Low,Low,No,99327,97898,Unchanged,35,Yes,7,-17.02
+E0641,35,Other,PhD,Retail,Cashier,13,Low,Low,No,84200,82378,Unchanged,46,No,3,35.34
+E0642,32,Male,High School,Healthcare,Technician,8,Medium,Low,No,52800,50858,Unchanged,42,No,9,13.39
+E0643,27,Male,Master,Healthcare,Technician,4,Medium,High,Yes,55068,63221,Unchanged,43,No,3,11.48
+E0644,56,Male,Bachelor,Healthcare,Doctor,32,Medium,Low,No,53383,48526,Unchanged,42,Yes,5,37.69
+E0645,49,Female,Bachelor,IT,Data Analyst,25,High,High,Yes,87616,104440,Modified,36,No,8,-8.46
+E0646,58,Female,PhD,Marketing,Digital Marketer,34,Medium,Medium,Yes,86563,97099,Modified,45,Yes,6,-3.35
+E0647,34,Female,High School,Education,Administrator,9,Medium,Low,Yes,86889,96865,Unchanged,48,Yes,5,22.37
+E0648,56,Male,Bachelor,Manufacturing,Machine Operator,32,High,Low,Yes,100427,96071,Unchanged,42,No,3,0.6
+E0649,33,Other,Bachelor,IT,Software Engineer,10,Low,Medium,Yes,78003,76425,Modified,49,No,6,-10.11
+E0650,52,Female,High School,Education,Professor,26,High,Medium,No,35698,33841,Modified,44,No,3,8.26
+E0651,47,Male,Bachelor,Education,Teacher,22,Medium,High,No,74041,70572,Unchanged,37,Yes,4,-2.34
+E0652,48,Female,High School,Marketing,Content Creator,26,Medium,High,Yes,79422,82497,Unchanged,46,No,4,31.9
+E0653,55,Female,Bachelor,IT,DevOps Engineer,32,Low,Medium,Yes,107963,117288,Modified,50,No,3,-1.17
+E0654,46,Male,Bachelor,Finance,Accountant,23,Low,High,Yes,34765,37929,Unchanged,54,No,3,16.23
+E0655,43,Other,Bachelor,Retail,Cashier,17,Medium,High,Yes,36589,38262,Unchanged,49,Yes,4,-12.98
+E0656,36,Male,Master,Manufacturing,Quality Inspector,14,High,Medium,Yes,61508,70744,Modified,40,Yes,3,3.41
+E0657,44,Other,Bachelor,IT,Software Engineer,19,Low,Low,Yes,55105,53224,Unchanged,42,No,9,32.38
+E0658,24,Other,Bachelor,Manufacturing,Supervisor,1,Medium,Low,No,40377,40297,Unchanged,45,Yes,7,-19.35
+E0659,26,Male,High School,Healthcare,Nurse,3,Medium,High,No,90652,83644,Unchanged,47,No,8,1.69
+E0660,50,Female,High School,IT,DevOps Engineer,24,Medium,Medium,Yes,46968,54891,Modified,42,No,6,27.01
+E0661,51,Female,PhD,Manufacturing,Supervisor,27,Medium,Medium,Yes,48395,46794,Modified,47,Yes,5,32.39
+E0662,29,Other,Master,Manufacturing,Machine Operator,3,High,High,No,92901,97929,Modified,41,No,9,27.61
+E0663,42,Male,High School,IT,Software Engineer,19,Medium,Low,Yes,69454,63608,Unchanged,42,No,7,21.52
+E0664,22,Female,Bachelor,Marketing,SEO Specialist,0,Low,Low,Yes,59432,61609,Unchanged,49,Yes,3,1.55
+E0665,43,Male,Bachelor,Manufacturing,Machine Operator,19,Medium,Low,No,113948,129693,Unchanged,51,No,3,-10.5
+E0666,47,Male,PhD,Education,Teacher,21,Low,Medium,Yes,38848,41768,Modified,47,No,8,1.5
+E0667,56,Male,High School,IT,DevOps Engineer,30,Medium,Medium,Yes,95333,107589,Modified,37,Yes,6,26.89
+E0668,27,Other,Master,Marketing,Content Creator,1,High,High,No,43269,36603,Modified,36,No,4,5.25
+E0669,26,Female,Bachelor,Manufacturing,Supervisor,3,Medium,Medium,No,41795,40747,Modified,52,No,4,19.25
+E0670,25,Female,Master,Finance,Accountant,3,Medium,Low,Yes,35368,39415,Unchanged,46,Yes,9,-15.89
+E0671,36,Male,High School,Finance,Accountant,12,Low,High,No,83822,91430,Unchanged,51,No,5,19.71
+E0672,40,Female,PhD,IT,Software Engineer,15,Medium,High,No,48019,53032,Unchanged,46,No,7,36.41
+E0673,38,Other,Bachelor,Finance,Auditor,14,High,High,No,80225,69276,Replaced,47,Yes,8,1.29
+E0674,35,Male,PhD,Retail,Store Manager,9,Low,Medium,No,69791,68572,Modified,42,Yes,5,-2.72
+E0675,37,Female,Master,Finance,Investment Analyst,12,Medium,Medium,Yes,92653,87731,Modified,47,No,4,-6.79
+E0676,52,Female,Master,Healthcare,Doctor,28,Low,Medium,No,58807,60298,Modified,43,No,9,23.89
+E0677,23,Female,Master,Education,Teacher,0,High,Low,Yes,65186,66996,Unchanged,50,No,5,-1.0
+E0678,51,Other,PhD,Finance,Auditor,28,Low,High,Yes,57877,59595,Unchanged,41,No,6,20.65
+E0679,55,Male,High School,Finance,Accountant,31,High,Low,Yes,70317,62431,Unchanged,40,No,4,29.98
+E0680,25,Female,PhD,Marketing,SEO Specialist,0,High,High,No,113973,108354,Modified,42,No,4,30.65
+E0681,53,Other,High School,Marketing,SEO Specialist,31,High,High,No,39417,45086,Replaced,37,No,4,-0.49
+E0682,32,Male,Master,Finance,Investment Analyst,8,Medium,Low,Yes,70031,83317,Unchanged,43,No,5,3.71
+E0683,26,Other,Master,Retail,Cashier,2,Low,Low,Yes,70469,68345,Unchanged,45,Yes,7,2.94
+E0684,24,Other,Bachelor,Manufacturing,Supervisor,2,Medium,Medium,No,86635,82939,Modified,52,Yes,3,7.58
+E0685,30,Female,PhD,Healthcare,Doctor,7,High,Medium,Yes,80258,106925,Modified,54,No,9,5.19
+E0686,51,Female,Bachelor,Education,Teacher,29,Medium,High,No,65739,61738,Unchanged,49,No,3,13.93
+E0687,31,Male,Master,Education,Professor,8,Low,Medium,Yes,58141,58662,Modified,43,No,3,-13.99
+E0688,35,Female,Master,Finance,Investment Analyst,11,Medium,Low,Yes,38307,38333,Unchanged,45,Yes,5,-15.39
+E0689,42,Male,Master,Marketing,Content Creator,16,Low,High,No,70149,76897,Unchanged,36,Yes,6,-11.87
+E0690,39,Male,Master,Education,Professor,15,Medium,Low,No,54816,49493,Unchanged,50,Yes,8,31.48
+E0691,33,Male,Bachelor,Manufacturing,Quality Inspector,8,High,Low,Yes,72316,82420,Unchanged,49,No,9,-19.62
+E0692,29,Male,Bachelor,Healthcare,Technician,4,High,Medium,No,48443,50685,Modified,51,Yes,6,-10.2
+E0693,42,Male,High School,Finance,Accountant,16,Low,Medium,Yes,79241,76412,Modified,49,Yes,6,7.0
+E0694,58,Female,High School,IT,Software Engineer,35,Low,High,No,96630,92541,Unchanged,39,No,7,9.55
+E0695,24,Male,Bachelor,Retail,Store Manager,0,Low,Medium,Yes,111326,114609,Modified,44,Yes,7,-10.32
+E0696,58,Male,Master,IT,Data Analyst,34,Low,Low,Yes,53862,52412,Unchanged,40,No,9,-11.05
+E0697,57,Other,PhD,IT,Data Analyst,34,Medium,Low,Yes,65733,61635,Unchanged,38,Yes,8,-9.72
+E0698,40,Female,High School,Manufacturing,Quality Inspector,17,Medium,High,Yes,94140,91688,Unchanged,38,No,8,38.56
+E0699,57,Other,Master,Retail,Store Manager,35,Medium,Low,No,87062,81258,Unchanged,54,No,9,18.89
+E0700,36,Female,Bachelor,Marketing,Digital Marketer,14,Medium,Low,Yes,113231,129910,Unchanged,54,Yes,9,3.82
+E0701,32,Female,Master,Marketing,Content Creator,6,Medium,Low,No,56553,51490,Unchanged,47,Yes,4,39.39
+E0702,30,Female,Master,IT,Data Analyst,7,Medium,Low,Yes,76686,91756,Unchanged,37,No,3,38.64
+E0703,42,Male,PhD,Marketing,Digital Marketer,16,High,High,Yes,76418,106305,Replaced,54,No,4,26.08
+E0704,23,Male,PhD,Retail,Cashier,0,Medium,High,No,68751,79419,Unchanged,45,Yes,3,-7.91
+E0705,32,Male,Master,IT,Data Analyst,6,Medium,High,No,56627,61211,Unchanged,46,No,9,11.42
+E0706,38,Male,Bachelor,IT,DevOps Engineer,16,Low,Medium,No,91386,100414,Modified,44,No,9,-2.36
+E0707,23,Male,Master,Healthcare,Technician,0,High,High,No,78899,67987,Replaced,42,Yes,4,-12.44
+E0708,32,Male,PhD,Marketing,SEO Specialist,6,Low,High,No,70130,70035,Unchanged,51,Yes,8,20.59
+E0709,23,Other,High School,Retail,Store Manager,1,Low,High,Yes,59327,56408,Unchanged,54,Yes,8,-19.92
+E0710,49,Female,PhD,Marketing,Content Creator,27,High,Medium,Yes,92559,86613,Modified,42,No,3,21.54
+E0711,34,Male,Bachelor,IT,Software Engineer,12,Low,Low,Yes,88741,87215,Unchanged,50,No,7,-16.4
+E0712,43,Male,Bachelor,Healthcare,Nurse,21,Medium,Low,Yes,116483,129344,Unchanged,50,Yes,4,-13.19
+E0713,53,Other,High School,Healthcare,Nurse,30,Low,Low,No,35543,34439,Unchanged,44,Yes,3,-18.33
+E0714,55,Female,Master,IT,Data Analyst,30,Low,Low,Yes,102742,107335,Unchanged,38,No,8,5.58
+E0715,48,Female,PhD,Retail,Cashier,25,Low,High,Yes,56270,60255,Unchanged,49,No,6,3.87
+E0716,58,Male,Master,Education,Professor,33,High,High,No,62083,70672,Replaced,44,No,8,10.02
+E0717,35,Male,Master,Finance,Auditor,9,Medium,Low,No,119745,112350,Unchanged,46,No,8,28.01
+E0718,27,Female,High School,IT,DevOps Engineer,2,Medium,Medium,Yes,109267,122166,Modified,38,No,3,27.09
+E0719,53,Male,Bachelor,Education,Professor,31,Low,High,No,57564,60554,Unchanged,37,No,9,36.76
+E0720,53,Female,Master,Finance,Investment Analyst,27,High,Low,No,83370,70781,Unchanged,42,Yes,5,35.46
+E0721,35,Other,Bachelor,Education,Teacher,10,Medium,High,Yes,88255,103329,Unchanged,41,Yes,8,30.24
+E0722,53,Female,Bachelor,Finance,Accountant,28,High,High,No,55256,59477,Replaced,39,No,7,9.94
+E0723,48,Male,Bachelor,Finance,Investment Analyst,23,Medium,High,No,53382,59717,Unchanged,49,No,5,26.79
+E0724,54,Female,PhD,Manufacturing,Supervisor,28,Medium,Low,Yes,70222,69998,Unchanged,48,Yes,8,13.26
+E0725,44,Other,Master,Healthcare,Doctor,18,High,High,Yes,118314,153117,Modified,40,No,9,33.93
+E0726,46,Other,Bachelor,Marketing,Digital Marketer,23,High,Low,No,109788,152967,Unchanged,42,No,9,-6.46
+E0727,22,Other,Master,IT,DevOps Engineer,0,Medium,High,No,94427,87722,Unchanged,49,No,8,-9.39
+E0728,45,Other,Master,Retail,Store Manager,21,High,Low,Yes,79052,67398,Unchanged,54,Yes,8,-16.05
+E0729,24,Female,High School,IT,Data Analyst,2,Medium,High,Yes,115886,115663,Unchanged,51,Yes,4,-1.66
+E0730,50,Other,PhD,Healthcare,Nurse,25,High,High,No,37493,43318,Modified,35,No,5,21.68
+E0731,56,Female,High School,Finance,Accountant,30,High,Low,No,35594,31028,Unchanged,54,No,3,14.36
+E0732,25,Other,Master,IT,Software Engineer,1,Medium,Medium,Yes,116005,139021,Modified,45,Yes,7,-14.45
+E0733,34,Other,High School,IT,DevOps Engineer,9,Low,Medium,Yes,82664,82058,Modified,47,No,8,6.58
+E0734,40,Female,Bachelor,Healthcare,Nurse,15,Medium,Medium,No,70745,74782,Modified,45,Yes,7,-3.06
+E0735,49,Female,PhD,IT,Software Engineer,27,Low,Medium,Yes,43331,45401,Modified,53,Yes,6,29.95
+E0736,36,Female,High School,Manufacturing,Quality Inspector,12,High,Medium,No,106441,104035,Modified,36,Yes,5,35.95
+E0737,40,Male,Master,Manufacturing,Supervisor,15,Low,High,No,34837,36507,Unchanged,37,No,5,-10.76
+E0738,28,Male,Master,Education,Administrator,4,Low,Medium,Yes,118422,120781,Modified,40,Yes,8,-8.6
+E0739,33,Male,PhD,Retail,Store Manager,9,Medium,Medium,Yes,107362,125978,Modified,50,Yes,3,-18.74
+E0740,34,Female,Bachelor,Finance,Investment Analyst,12,Medium,Medium,No,87724,97429,Modified,38,No,5,-0.12
+E0741,53,Female,Master,IT,Software Engineer,31,High,High,Yes,109878,117845,Modified,43,No,9,4.74
+E0742,44,Female,Bachelor,IT,DevOps Engineer,21,Low,Medium,No,70475,73079,Modified,53,Yes,3,0.74
+E0743,57,Male,Master,Manufacturing,Supervisor,33,High,Low,Yes,50827,71089,Unchanged,54,No,7,7.1
+E0744,36,Male,Bachelor,Finance,Auditor,14,High,Medium,No,30946,24760,Modified,54,Yes,4,16.84
+E0745,59,Male,High School,Manufacturing,Supervisor,37,High,Low,Yes,86809,107495,Unchanged,51,Yes,3,-11.88
+E0746,31,Male,PhD,Finance,Accountant,8,High,Low,No,113384,131648,Unchanged,40,Yes,5,14.9
+E0747,54,Male,PhD,IT,Software Engineer,32,Low,Medium,No,35867,36181,Modified,51,Yes,6,-10.24
+E0748,47,Male,Master,Marketing,SEO Specialist,22,Low,Medium,Yes,40310,41893,Modified,37,No,7,32.31
+E0749,45,Other,PhD,Healthcare,Nurse,21,High,Low,No,38947,33010,Unchanged,48,No,3,13.95
+E0750,39,Male,Master,Healthcare,Technician,14,Medium,Low,No,30507,35498,Unchanged,38,No,7,13.5
+E0751,38,Male,PhD,IT,Data Analyst,15,High,High,Yes,54495,62776,Replaced,45,No,4,29.71
+E0752,33,Male,Bachelor,Manufacturing,Supervisor,8,Low,Low,No,30692,30056,Unchanged,47,Yes,8,20.71
+E0753,27,Male,PhD,Finance,Accountant,2,Low,Medium,No,39927,42731,Modified,52,Yes,9,8.17
+E0754,58,Female,Bachelor,IT,Data Analyst,36,Medium,High,No,95449,99685,Unchanged,41,Yes,3,28.58
+E0755,42,Male,High School,IT,Software Engineer,17,Low,Low,Yes,56140,55693,Unchanged,49,No,4,-12.07
+E0756,39,Female,Master,Education,Professor,15,High,High,Yes,88502,118720,Modified,39,No,4,2.99
+E0757,54,Other,Master,Manufacturing,Supervisor,29,Low,Low,Yes,111502,119649,Unchanged,52,No,6,29.58
+E0758,55,Female,Bachelor,Retail,Sales Associate,29,Medium,Low,No,47857,54929,Unchanged,50,No,9,17.89
+E0759,35,Other,Bachelor,Marketing,SEO Specialist,10,Medium,High,Yes,108002,117473,Unchanged,47,No,8,14.3
+E0760,53,Female,PhD,Healthcare,Nurse,27,Low,High,Yes,114694,122511,Unchanged,44,Yes,5,-3.0
+E0761,36,Female,Bachelor,Manufacturing,Supervisor,10,Medium,Low,Yes,81322,77175,Unchanged,49,Yes,5,-8.93
+E0762,27,Other,PhD,Healthcare,Nurse,2,High,High,No,66133,73210,Modified,42,Yes,9,9.0
+E0763,41,Female,High School,Retail,Cashier,16,Low,Low,No,72674,69716,Unchanged,50,No,7,-15.73
+E0764,24,Other,Master,Healthcare,Nurse,2,High,Low,No,83051,79302,Unchanged,41,No,9,-13.19
+E0765,28,Male,High School,Retail,Sales Associate,5,High,Low,Yes,49880,66921,Unchanged,46,No,3,11.49
+E0766,31,Male,Master,Marketing,SEO Specialist,7,High,Medium,Yes,80383,104923,Modified,52,No,6,-2.2
+E0767,46,Other,High School,IT,Software Engineer,24,Medium,Low,No,56299,52751,Unchanged,43,Yes,6,11.11
+E0768,44,Female,Master,Retail,Cashier,20,High,Low,Yes,109854,135919,Unchanged,47,No,5,-17.18
+E0769,35,Other,Master,Retail,Cashier,10,High,Low,No,57281,68933,Unchanged,53,Yes,5,-9.81
+E0770,53,Male,Master,IT,DevOps Engineer,31,High,Medium,No,60951,72640,Modified,38,No,8,14.78
+E0771,55,Other,PhD,Healthcare,Technician,31,High,High,Yes,109823,151324,Modified,47,No,7,-13.11
+E0772,26,Female,PhD,Manufacturing,Supervisor,4,Medium,Medium,Yes,75203,71721,Modified,36,Yes,4,27.85
+E0773,33,Female,Bachelor,Healthcare,Doctor,7,High,Medium,Yes,99322,129739,Modified,48,No,8,-0.5
+E0774,45,Other,High School,Education,Teacher,23,High,Medium,No,75760,79230,Modified,53,No,4,38.69
+E0775,33,Male,High School,Manufacturing,Supervisor,8,High,Medium,Yes,113232,147152,Modified,51,Yes,7,28.25
+E0776,47,Male,High School,Retail,Cashier,23,Low,High,No,43921,46022,Unchanged,40,Yes,7,7.58
+E0777,44,Other,Master,IT,DevOps Engineer,19,Medium,High,No,52837,48491,Unchanged,37,Yes,6,17.97
+E0778,29,Male,PhD,Healthcare,Doctor,4,Medium,Medium,Yes,72422,85804,Modified,42,No,7,32.78
+E0779,46,Male,Bachelor,Marketing,Content Creator,24,Low,Low,No,40304,40431,Unchanged,45,No,5,-1.83
+E0780,44,Other,PhD,IT,Software Engineer,18,Medium,Low,No,30490,30641,Unchanged,41,No,9,-5.37
+E0781,48,Female,High School,IT,Software Engineer,22,Low,Medium,Yes,33159,35192,Modified,44,No,9,-18.49
+E0782,41,Male,Bachelor,Manufacturing,Machine Operator,17,Medium,Medium,Yes,59320,66641,Modified,42,No,7,4.74
+E0783,34,Male,Master,Manufacturing,Machine Operator,12,High,Medium,No,44678,44248,Modified,51,Yes,6,34.72
+E0784,23,Other,PhD,Marketing,SEO Specialist,1,Medium,High,No,91497,82524,Unchanged,40,No,8,9.77
+E0785,32,Other,High School,Manufacturing,Machine Operator,9,Low,Low,No,59863,58024,Unchanged,35,Yes,5,14.43
+E0786,39,Male,Bachelor,Retail,Store Manager,17,High,Medium,Yes,89251,93215,Modified,35,Yes,6,11.28
+E0787,46,Other,Bachelor,Finance,Auditor,20,Low,High,No,91360,98600,Unchanged,50,Yes,4,14.63
+E0788,50,Female,PhD,Education,Administrator,26,Low,High,Yes,93382,94731,Unchanged,53,Yes,3,24.99
+E0789,22,Female,Bachelor,Healthcare,Nurse,0,High,Medium,Yes,67344,64736,Modified,52,Yes,4,-8.08
+E0790,46,Other,Bachelor,IT,Software Engineer,20,Low,High,No,70581,73294,Unchanged,43,Yes,5,-15.96
+E0791,52,Male,PhD,Marketing,Content Creator,29,Low,High,No,77645,82089,Unchanged,54,Yes,7,14.74
+E0792,30,Female,Bachelor,Retail,Sales Associate,5,High,Medium,No,96727,116200,Modified,38,No,3,27.92
+E0793,37,Female,High School,Finance,Investment Analyst,13,Low,Medium,Yes,36008,38993,Modified,54,No,9,7.51
+E0794,39,Male,High School,Manufacturing,Quality Inspector,16,Medium,High,No,66444,78372,Unchanged,44,Yes,7,39.82
+E0795,52,Male,Master,Marketing,SEO Specialist,30,Medium,High,No,30066,27503,Unchanged,43,No,8,-6.14
+E0796,32,Female,PhD,IT,DevOps Engineer,8,High,Medium,Yes,41772,34034,Modified,47,Yes,6,-7.43
+E0797,58,Female,High School,IT,Software Engineer,35,Low,High,No,86827,92358,Unchanged,36,Yes,8,25.6
+E0798,44,Female,Master,Healthcare,Doctor,18,High,High,Yes,47558,49059,Replaced,39,No,9,2.44
+E0799,52,Other,PhD,Education,Professor,30,Low,High,Yes,30798,33719,Unchanged,51,Yes,7,3.61
+E0800,23,Male,Master,Finance,Auditor,1,High,High,Yes,33084,34966,Replaced,40,Yes,5,17.92
+E0801,56,Female,PhD,Education,Teacher,33,High,High,No,62330,73993,Modified,53,No,8,24.71
+E0802,40,Male,Bachelor,Marketing,Content Creator,18,High,High,No,90430,113106,Modified,48,Yes,3,33.82
+E0803,40,Male,High School,Marketing,SEO Specialist,15,High,High,No,61186,77876,Replaced,42,Yes,5,34.19
+E0804,29,Other,High School,Healthcare,Doctor,6,Low,Low,No,105483,109701,Unchanged,51,Yes,9,9.14
+E0805,34,Male,High School,Marketing,SEO Specialist,10,High,Medium,No,111417,140250,Modified,52,No,9,-11.2
+E0806,27,Female,PhD,Manufacturing,Quality Inspector,1,High,High,Yes,49581,49529,Modified,45,Yes,4,10.03
+E0807,55,Male,Master,Finance,Auditor,30,Low,Low,No,43386,46822,Unchanged,50,Yes,7,-11.76
+E0808,51,Female,PhD,IT,Data Analyst,27,High,Medium,No,52706,72072,Modified,41,No,3,-1.22
+E0809,22,Male,High School,Retail,Cashier,0,Medium,Low,No,46574,43061,Unchanged,37,No,5,18.81
+E0810,24,Other,High School,IT,DevOps Engineer,0,High,High,No,96151,126516,Modified,50,Yes,8,37.57
+E0811,28,Female,Bachelor,IT,Data Analyst,3,Low,Medium,No,98694,96250,Modified,35,Yes,4,30.19
+E0812,57,Male,PhD,Finance,Accountant,31,High,High,Yes,52504,51701,Modified,50,Yes,7,8.63
+E0813,53,Male,PhD,Marketing,Content Creator,29,Low,Medium,Yes,63139,68826,Modified,48,No,9,4.13
+E0814,52,Female,High School,Manufacturing,Machine Operator,30,Medium,High,No,82091,91745,Unchanged,52,No,8,-13.24
+E0815,35,Female,High School,Healthcare,Technician,12,High,Low,No,100990,85089,Unchanged,52,No,6,0.99
+E0816,29,Female,High School,Education,Administrator,5,Low,Low,No,116717,127374,Unchanged,42,Yes,7,-2.1
+E0817,53,Male,Bachelor,Education,Administrator,28,High,High,No,59424,55437,Modified,49,No,6,-16.63
+E0818,35,Male,High School,Finance,Auditor,13,High,Low,No,53649,48309,Unchanged,40,No,8,7.76
+E0819,29,Female,Bachelor,Retail,Store Manager,5,Medium,High,No,44645,46529,Unchanged,54,No,7,7.08
+E0820,43,Male,High School,Healthcare,Nurse,19,High,Low,Yes,58132,75115,Unchanged,51,Yes,5,18.92
+E0821,38,Other,PhD,Marketing,Content Creator,15,High,High,No,81702,102231,Modified,36,Yes,8,10.77
+E0822,27,Female,High School,IT,DevOps Engineer,5,Low,Low,Yes,59670,64255,Unchanged,50,No,5,-4.42
+E0823,58,Female,Master,Education,Professor,36,Medium,Medium,Yes,96985,93676,Modified,38,Yes,8,-19.99
+E0824,43,Female,PhD,Retail,Store Manager,20,Low,High,Yes,75212,72809,Unchanged,52,No,9,-15.94
+E0825,22,Male,High School,Finance,Accountant,0,Medium,High,Yes,30215,29982,Unchanged,45,Yes,5,-5.47
+E0826,53,Other,Master,Education,Teacher,31,Medium,Medium,Yes,40345,37649,Modified,40,Yes,8,-17.86
+E0827,37,Male,Bachelor,Healthcare,Doctor,14,Low,Medium,Yes,101537,99352,Modified,47,Yes,4,-17.66
+E0828,34,Male,High School,Healthcare,Doctor,12,Low,Medium,No,30228,31829,Modified,51,Yes,9,28.9
+E0829,39,Female,PhD,Education,Professor,15,Medium,Medium,Yes,93261,105703,Modified,37,No,9,7.64
+E0830,39,Male,High School,Finance,Auditor,16,Low,Low,Yes,119862,127435,Unchanged,35,Yes,6,-5.08
+E0831,50,Female,Bachelor,Marketing,SEO Specialist,24,High,Medium,No,92894,96803,Modified,53,Yes,8,-5.91
+E0832,41,Other,Bachelor,Healthcare,Nurse,17,High,Medium,No,107733,150301,Modified,51,No,9,37.08
+E0833,28,Male,High School,Education,Teacher,4,Medium,High,No,62574,57469,Unchanged,45,Yes,6,-6.56
+E0834,50,Female,Bachelor,Education,Administrator,26,Medium,Low,Yes,102104,108343,Unchanged,50,No,4,30.4
+E0835,38,Other,High School,Manufacturing,Quality Inspector,16,High,Low,Yes,96766,122882,Unchanged,53,No,3,-12.65
+E0836,55,Male,Bachelor,Marketing,Digital Marketer,31,High,High,Yes,48300,39878,Replaced,40,Yes,7,31.88
+E0837,22,Male,Master,Manufacturing,Supervisor,0,Low,High,No,85514,90703,Unchanged,42,No,4,-11.66
+E0838,37,Male,Master,Education,Professor,12,High,Low,No,42352,55136,Unchanged,51,No,3,10.15
+E0839,44,Male,Bachelor,Marketing,SEO Specialist,19,Medium,Low,No,49782,52326,Unchanged,47,No,6,32.7
+E0840,35,Female,Master,IT,DevOps Engineer,11,Low,High,Yes,62769,61208,Unchanged,39,No,6,-1.38
+E0841,27,Other,Master,Education,Administrator,5,Low,Low,No,38320,37299,Unchanged,40,No,5,12.82
+E0842,39,Male,High School,Manufacturing,Machine Operator,13,High,Low,No,106896,88070,Unchanged,41,No,9,-3.56
+E0843,48,Male,High School,Retail,Store Manager,25,Medium,High,No,69886,77565,Unchanged,39,Yes,7,31.18
+E0844,23,Female,Bachelor,Retail,Sales Associate,0,High,Low,Yes,70544,77943,Unchanged,50,No,8,17.21
+E0845,50,Female,Master,Healthcare,Doctor,27,High,Low,No,89470,105318,Unchanged,35,Yes,3,18.0
+E0846,44,Male,Master,Marketing,Digital Marketer,20,High,High,No,86633,101816,Replaced,41,No,3,28.5
+E0847,22,Other,Bachelor,Retail,Sales Associate,0,Medium,High,No,85565,94243,Unchanged,44,Yes,9,35.58
+E0848,47,Female,Bachelor,Retail,Cashier,24,High,Low,Yes,85421,80731,Unchanged,53,No,9,5.56
+E0849,33,Other,Master,Manufacturing,Machine Operator,11,High,Low,Yes,118095,120161,Unchanged,51,No,8,29.44
+E0850,23,Female,PhD,IT,DevOps Engineer,0,Low,Low,No,118177,127932,Unchanged,35,No,5,0.58
+E0851,31,Male,PhD,IT,Data Analyst,9,Medium,High,No,75156,75766,Unchanged,43,No,7,-14.78
+E0852,45,Male,PhD,Marketing,SEO Specialist,23,Medium,Medium,Yes,61376,59502,Modified,43,No,6,30.94
+E0853,38,Female,Master,Education,Administrator,16,High,Low,No,83364,95222,Unchanged,45,Yes,7,14.89
+E0854,42,Other,PhD,Manufacturing,Supervisor,19,Medium,High,Yes,108518,106858,Unchanged,51,Yes,4,-15.14
+E0855,41,Female,PhD,Education,Teacher,15,High,Low,Yes,63324,63115,Unchanged,51,Yes,7,2.32
+E0856,52,Male,Bachelor,Healthcare,Technician,27,Medium,Medium,Yes,53889,56615,Modified,49,Yes,5,14.99
+E0857,30,Female,High School,IT,Software Engineer,4,Low,High,No,86398,88547,Unchanged,53,Yes,4,-7.01
+E0858,47,Other,Master,Finance,Auditor,25,High,High,Yes,72137,72517,Modified,52,No,7,37.69
+E0859,24,Other,PhD,Finance,Accountant,1,Low,High,Yes,93456,101533,Unchanged,35,Yes,6,14.14
+E0860,24,Other,Master,IT,DevOps Engineer,0,High,High,Yes,53600,70166,Modified,54,No,6,1.8
+E0861,28,Female,Master,IT,DevOps Engineer,3,Medium,Low,Yes,86207,78648,Unchanged,35,No,3,24.69
+E0862,46,Female,High School,Healthcare,Nurse,23,High,Medium,No,59813,72030,Modified,41,No,6,7.02
+E0863,27,Male,PhD,Manufacturing,Machine Operator,2,Low,High,Yes,109183,114560,Unchanged,48,No,9,-6.85
+E0864,54,Other,High School,Finance,Investment Analyst,31,Low,Low,Yes,82344,84187,Unchanged,54,Yes,6,-7.04
+E0865,47,Male,High School,Marketing,SEO Specialist,23,Low,High,Yes,79549,85184,Unchanged,46,Yes,3,-2.02
+E0866,34,Male,Master,Education,Professor,11,Medium,Low,No,90139,84463,Unchanged,38,No,4,-7.64
+E0867,30,Male,Master,Marketing,SEO Specialist,4,High,Low,No,77894,80434,Unchanged,36,No,6,-11.7
+E0868,41,Female,Bachelor,Marketing,Content Creator,17,Low,High,No,34994,35828,Unchanged,38,No,8,22.05
+E0869,37,Male,High School,IT,Data Analyst,13,Low,Low,Yes,107355,112429,Unchanged,38,Yes,8,-15.89
+E0870,39,Male,PhD,Finance,Investment Analyst,14,High,Low,No,50659,65322,Unchanged,53,No,9,15.84
+E0871,53,Female,Master,Education,Administrator,29,Medium,Medium,Yes,64565,62117,Modified,39,Yes,9,31.08
+E0872,26,Female,PhD,Healthcare,Nurse,2,Medium,Medium,Yes,79294,81601,Modified,39,No,3,-10.07
+E0873,36,Male,Master,Education,Teacher,12,Medium,Medium,No,93580,92264,Modified,42,Yes,7,11.08
+E0874,32,Female,High School,Manufacturing,Supervisor,9,Medium,Low,No,49324,50834,Unchanged,48,No,4,37.19
+E0875,33,Male,Bachelor,Marketing,Content Creator,8,Medium,High,Yes,40358,39456,Unchanged,51,No,3,-16.83
+E0876,24,Female,Bachelor,Marketing,Content Creator,0,Low,Medium,No,50224,51964,Modified,47,Yes,4,16.03
+E0877,42,Other,High School,IT,DevOps Engineer,20,Low,Low,Yes,33203,34444,Unchanged,46,Yes,3,-12.55
+E0878,31,Male,Master,Finance,Accountant,8,High,Medium,Yes,63541,58153,Modified,46,No,3,20.0
+E0879,23,Other,Master,IT,Data Analyst,0,Medium,Medium,Yes,31674,29802,Modified,54,Yes,6,23.68
+E0880,50,Female,PhD,Manufacturing,Quality Inspector,27,High,Medium,Yes,40492,48387,Modified,46,Yes,4,6.26
+E0881,51,Female,Master,IT,DevOps Engineer,26,Low,High,No,60935,61433,Unchanged,40,Yes,8,-2.73
+E0882,43,Other,High School,IT,Data Analyst,18,High,Medium,No,68729,92943,Modified,51,No,5,-19.28
+E0883,59,Other,PhD,IT,Data Analyst,35,Low,Medium,No,93753,98526,Modified,40,No,7,0.24
+E0884,45,Female,Master,Manufacturing,Quality Inspector,23,High,High,No,78570,99768,Replaced,54,Yes,6,25.01
+E0885,48,Female,PhD,Education,Professor,25,Medium,Low,Yes,47400,53591,Unchanged,45,Yes,9,-16.28
+E0886,55,Male,PhD,Manufacturing,Quality Inspector,33,Medium,High,No,71139,73094,Unchanged,41,Yes,3,2.97
+E0887,42,Female,High School,Finance,Investment Analyst,19,Low,Medium,Yes,108353,104569,Modified,54,No,5,3.6
+E0888,39,Female,PhD,IT,Software Engineer,13,High,High,No,80717,82337,Replaced,54,No,3,-14.03
+E0889,32,Female,Master,Marketing,Digital Marketer,9,Low,Medium,Yes,82409,85268,Modified,47,No,3,11.0
+E0890,25,Male,Bachelor,Marketing,Content Creator,2,Medium,Medium,No,41154,45497,Modified,50,No,3,-2.6
+E0891,33,Male,Bachelor,Manufacturing,Supervisor,10,Low,High,Yes,76900,74361,Unchanged,50,Yes,7,-9.69
+E0892,47,Female,Bachelor,Education,Teacher,21,Medium,Low,No,55938,56104,Unchanged,46,No,4,31.12
+E0893,32,Female,Master,Marketing,SEO Specialist,7,Medium,High,No,34763,36843,Unchanged,46,No,4,31.64
+E0894,58,Male,Master,Education,Teacher,35,Low,High,Yes,82311,82465,Unchanged,43,No,9,-17.89
+E0895,58,Male,Bachelor,Marketing,Digital Marketer,32,Medium,High,Yes,35636,34124,Unchanged,43,No,7,23.15
+E0896,36,Other,PhD,Manufacturing,Machine Operator,13,Medium,Medium,No,47143,55282,Modified,37,Yes,9,25.62
+E0897,36,Other,High School,Manufacturing,Quality Inspector,11,Medium,Low,Yes,81028,81992,Unchanged,46,Yes,4,-7.46
+E0898,58,Female,Bachelor,Manufacturing,Supervisor,32,Low,High,No,117892,120283,Unchanged,41,Yes,7,-11.12
+E0899,44,Female,PhD,IT,DevOps Engineer,20,High,High,Yes,86463,86905,Replaced,42,Yes,9,39.15
+E0900,46,Other,Bachelor,Marketing,Digital Marketer,21,Low,Low,No,50836,50595,Unchanged,43,No,6,-17.76
+E0901,26,Female,High School,Finance,Accountant,1,Medium,Medium,Yes,41957,45580,Modified,36,Yes,8,-12.76
+E0902,55,Other,Bachelor,Education,Teacher,29,High,High,No,114585,125226,Replaced,45,No,4,28.78
+E0903,59,Female,PhD,Retail,Cashier,34,Medium,Medium,Yes,112464,108476,Modified,39,No,5,17.65
+E0904,31,Female,High School,Healthcare,Doctor,7,High,High,Yes,118741,117100,Modified,53,Yes,4,3.95
+E0905,33,Other,Bachelor,Retail,Sales Associate,8,Medium,High,Yes,45198,49393,Unchanged,46,No,4,23.06
+E0906,57,Female,High School,Marketing,Digital Marketer,31,High,High,No,72292,65669,Replaced,36,No,3,36.86
+E0907,35,Female,High School,IT,Data Analyst,10,High,High,No,86574,92352,Modified,44,Yes,6,24.54
+E0908,26,Other,PhD,Finance,Accountant,3,Medium,Medium,Yes,49177,49708,Modified,51,Yes,5,19.82
+E0909,48,Other,PhD,IT,Data Analyst,24,Low,High,Yes,58333,63154,Unchanged,51,No,8,-10.9
+E0910,59,Other,Bachelor,IT,DevOps Engineer,34,Low,Medium,Yes,104160,103362,Modified,36,No,3,15.12
+E0911,45,Other,Master,Marketing,SEO Specialist,21,High,Low,Yes,107527,116142,Unchanged,49,Yes,7,1.58
+E0912,36,Other,Bachelor,Retail,Store Manager,12,Medium,High,No,70387,83173,Unchanged,38,No,5,-2.3
+E0913,43,Male,High School,Education,Professor,21,Medium,High,Yes,36997,42882,Unchanged,51,No,6,39.81
+E0914,42,Other,High School,Finance,Investment Analyst,17,Medium,High,No,42126,48959,Unchanged,54,Yes,9,-6.76
+E0915,44,Female,Bachelor,IT,Data Analyst,19,Low,High,No,77631,79718,Unchanged,52,No,7,-2.55
+E0916,34,Other,Master,Finance,Investment Analyst,10,Low,High,Yes,38605,40236,Unchanged,38,Yes,6,-9.46
+E0917,41,Female,Bachelor,IT,Data Analyst,16,Medium,Low,Yes,63132,60633,Unchanged,38,No,5,-19.43
+E0918,55,Male,High School,Finance,Investment Analyst,32,Medium,Medium,No,69236,62460,Modified,43,No,7,7.4
+E0919,26,Female,PhD,Manufacturing,Supervisor,3,High,Low,Yes,109369,134064,Unchanged,53,No,7,39.02
+E0920,29,Male,Bachelor,Retail,Cashier,7,Low,High,No,112800,111928,Unchanged,51,No,3,-8.94
+E0921,38,Other,PhD,Manufacturing,Quality Inspector,12,High,Medium,Yes,65897,58032,Modified,42,No,8,8.06
+E0922,40,Male,Master,Education,Professor,15,High,Low,No,94817,76451,Unchanged,35,Yes,8,25.71
+E0923,50,Other,PhD,IT,Software Engineer,26,Low,Medium,No,115936,127298,Modified,40,No,3,-4.95
+E0924,22,Male,PhD,Marketing,Digital Marketer,0,Medium,Low,Yes,73226,79415,Unchanged,48,No,9,35.61
+E0925,41,Other,Bachelor,IT,Software Engineer,19,High,Medium,Yes,71115,68102,Modified,49,Yes,8,8.33
+E0926,50,Female,PhD,Retail,Sales Associate,26,High,High,Yes,31407,38486,Replaced,44,No,7,15.26
+E0927,56,Male,Master,Manufacturing,Quality Inspector,34,Low,Low,Yes,79703,77565,Unchanged,40,No,7,6.37
+E0928,41,Female,High School,Manufacturing,Supervisor,16,Medium,High,Yes,57307,53071,Unchanged,50,Yes,9,-1.81
+E0929,27,Male,Master,IT,Software Engineer,3,Medium,Low,No,87716,93966,Unchanged,51,No,7,34.58
+E0930,23,Male,PhD,Education,Professor,0,Low,High,Yes,52738,55478,Unchanged,44,No,4,14.21
+E0931,41,Male,Bachelor,Retail,Cashier,19,Medium,Low,No,55616,50455,Unchanged,38,Yes,5,12.05
+E0932,38,Female,Master,Retail,Sales Associate,12,Low,High,No,117505,116697,Unchanged,51,Yes,9,12.29
+E0933,57,Female,Master,Finance,Accountant,31,High,High,No,82611,114537,Replaced,46,Yes,6,31.2
+E0934,45,Other,PhD,Finance,Auditor,19,Low,Medium,Yes,81012,83221,Modified,46,No,4,39.42
+E0935,38,Male,High School,IT,Software Engineer,14,High,Medium,Yes,117318,120920,Modified,43,Yes,9,0.82
+E0936,49,Male,PhD,Education,Professor,24,High,Low,No,64812,71832,Unchanged,47,No,6,27.8
+E0937,41,Male,Master,IT,Software Engineer,19,Low,High,No,49156,48352,Unchanged,49,Yes,5,10.27
+E0938,53,Male,High School,Marketing,SEO Specialist,28,Low,Low,Yes,94341,95928,Unchanged,52,Yes,5,38.02
+E0939,50,Female,PhD,Finance,Auditor,27,Low,High,No,56183,58287,Unchanged,41,No,6,23.08
+E0940,39,Male,High School,Marketing,Digital Marketer,14,Medium,Medium,Yes,92501,90534,Modified,43,Yes,8,14.87
+E0941,29,Male,PhD,Finance,Accountant,5,Medium,High,Yes,65362,69617,Unchanged,38,No,9,10.84
+E0942,41,Female,Bachelor,Education,Professor,19,High,High,No,49867,49497,Modified,50,Yes,6,11.57
+E0943,59,Female,High School,Healthcare,Technician,34,Medium,Low,No,54014,54872,Unchanged,46,No,4,1.21
+E0944,26,Female,High School,Education,Teacher,1,High,Low,No,36523,50582,Unchanged,44,Yes,9,4.67
+E0945,51,Other,PhD,Education,Administrator,26,Medium,Low,Yes,44457,50498,Unchanged,43,Yes,9,4.31
+E0946,55,Female,Master,Manufacturing,Machine Operator,32,Low,High,No,82709,90812,Unchanged,36,Yes,6,-3.3
+E0947,36,Female,PhD,Marketing,SEO Specialist,13,Medium,High,Yes,41620,43205,Unchanged,44,No,5,-6.94
+E0948,24,Male,High School,Education,Teacher,0,Low,High,Yes,88031,86535,Unchanged,36,No,6,-4.76
+E0949,31,Other,Master,Finance,Auditor,9,Low,Low,Yes,78773,83818,Unchanged,43,No,5,23.34
+E0950,34,Male,Bachelor,Healthcare,Technician,10,Low,Medium,No,58948,59457,Modified,37,Yes,5,38.59
+E0951,25,Male,Master,Finance,Auditor,3,Medium,High,Yes,88535,98714,Unchanged,46,No,3,1.52
+E0952,34,Female,Bachelor,Education,Administrator,9,High,High,Yes,96381,77833,Replaced,38,No,3,18.67
+E0953,56,Male,High School,Education,Teacher,34,High,Medium,No,33832,42852,Modified,45,Yes,5,-6.45
+E0954,47,Female,High School,Finance,Auditor,23,High,Low,No,81638,107543,Unchanged,46,Yes,7,28.97
+E0955,41,Male,High School,Healthcare,Technician,15,Medium,High,Yes,40024,37275,Unchanged,47,No,4,14.14
+E0956,54,Other,PhD,Healthcare,Doctor,32,High,Medium,Yes,33407,38136,Modified,39,No,4,-19.88
+E0957,32,Other,High School,Marketing,Content Creator,6,Low,Low,Yes,56505,59034,Unchanged,42,Yes,9,11.12
+E0958,32,Female,Master,Education,Administrator,6,Medium,High,Yes,33880,31758,Unchanged,36,No,4,19.15
+E0959,37,Other,Master,Finance,Auditor,15,Low,Medium,Yes,90102,89623,Modified,40,Yes,7,7.3
+E0960,44,Male,Bachelor,Finance,Accountant,20,High,Low,No,83997,106300,Unchanged,54,No,3,28.48
+E0961,36,Male,PhD,Marketing,SEO Specialist,11,High,Medium,Yes,50316,55333,Modified,35,Yes,8,25.89
+E0962,26,Other,High School,Manufacturing,Machine Operator,3,High,Low,Yes,100821,85814,Unchanged,53,No,9,31.97
+E0963,31,Other,Bachelor,Education,Administrator,8,High,High,No,45994,55882,Replaced,35,Yes,8,27.7
+E0964,59,Male,PhD,Retail,Cashier,35,High,Low,Yes,103313,137021,Unchanged,43,No,5,11.69
+E0965,26,Male,Bachelor,Healthcare,Doctor,1,Medium,High,Yes,110052,103308,Unchanged,47,Yes,5,24.54
+E0966,47,Female,High School,Retail,Store Manager,24,Medium,Low,Yes,63332,59535,Unchanged,36,No,7,3.2
+E0967,36,Male,Master,Marketing,Digital Marketer,13,Medium,Medium,No,77663,72517,Modified,53,No,9,24.16
+E0968,25,Male,High School,Manufacturing,Quality Inspector,1,Low,High,No,43303,42950,Unchanged,35,Yes,8,35.84
+E0969,32,Male,Bachelor,Manufacturing,Supervisor,8,Low,Low,No,106768,114824,Unchanged,48,No,4,38.47
+E0970,48,Female,Bachelor,IT,DevOps Engineer,23,Low,High,Yes,34042,35817,Unchanged,37,No,5,32.76
+E0971,52,Other,PhD,Marketing,Content Creator,27,Medium,Medium,Yes,91720,103234,Modified,53,No,4,15.3
+E0972,39,Other,High School,Healthcare,Nurse,14,Low,High,No,90924,92642,Unchanged,36,No,4,-16.69
+E0973,59,Male,High School,Retail,Sales Associate,33,High,Low,No,78542,93044,Unchanged,51,Yes,9,-1.3
+E0974,27,Female,High School,Manufacturing,Supervisor,5,Medium,High,No,58036,58418,Unchanged,47,Yes,4,20.95
+E0975,59,Other,Master,Marketing,SEO Specialist,34,High,Medium,Yes,45620,39924,Modified,35,Yes,7,19.33
+E0976,24,Male,High School,Healthcare,Technician,0,Low,High,No,60766,65847,Unchanged,45,No,7,6.94
+E0977,23,Female,Bachelor,IT,Data Analyst,0,High,High,No,33749,37144,Modified,40,Yes,8,14.37
+E0978,46,Female,PhD,Healthcare,Doctor,22,High,High,No,34551,32682,Modified,40,No,7,13.03
+E0979,29,Male,Bachelor,Retail,Cashier,5,Low,Medium,Yes,59685,64046,Modified,54,Yes,4,25.6
+E0980,52,Female,Master,Retail,Store Manager,29,High,High,Yes,109096,121776,Replaced,44,No,7,14.95
+E0981,37,Other,Bachelor,Retail,Sales Associate,12,High,Medium,No,119452,108766,Modified,43,Yes,7,-16.58
+E0982,37,Male,High School,Finance,Investment Analyst,12,High,High,Yes,100309,92456,Modified,43,Yes,3,39.9
+E0983,48,Other,High School,Finance,Investment Analyst,22,High,Low,Yes,47948,59510,Unchanged,42,No,9,17.54
+E0984,50,Female,Master,Education,Professor,24,Low,Low,Yes,102233,100278,Unchanged,48,Yes,4,1.15
+E0985,46,Female,PhD,Healthcare,Technician,24,Low,Medium,Yes,109732,114446,Modified,44,Yes,6,-15.36
+E0986,46,Male,Master,Education,Teacher,20,High,Medium,No,95602,111027,Modified,36,No,4,-0.66
+E0987,39,Female,High School,IT,Data Analyst,16,Low,High,Yes,32251,33893,Unchanged,50,Yes,6,9.83
+E0988,22,Other,High School,Marketing,Digital Marketer,0,Low,High,No,90624,91965,Unchanged,47,Yes,8,-18.02
+E0989,24,Female,Master,Marketing,Content Creator,0,High,Low,Yes,100871,94942,Unchanged,47,Yes,3,9.66
+E0990,45,Other,Master,Marketing,Digital Marketer,22,High,Low,Yes,50002,69285,Unchanged,42,No,5,-6.66
+E0991,38,Female,Bachelor,Education,Professor,14,Low,High,No,96830,101914,Unchanged,49,Yes,4,15.62
+E0992,25,Other,High School,Retail,Cashier,1,High,High,No,52340,54605,Replaced,52,Yes,4,39.05
+E0993,44,Other,High School,Finance,Auditor,20,Low,High,No,76118,82762,Unchanged,35,Yes,7,-4.06
+E0994,36,Male,PhD,Education,Administrator,13,Medium,High,Yes,43288,46928,Unchanged,54,No,4,-6.61
+E0995,57,Other,Bachelor,Manufacturing,Quality Inspector,32,Medium,Low,Yes,80508,79741,Unchanged,50,Yes,8,-8.7
+E0996,57,Female,High School,Education,Teacher,35,Medium,High,Yes,97288,102583,Unchanged,39,No,5,10.8
+E0997,43,Male,Master,Healthcare,Technician,19,Medium,High,No,31132,29860,Unchanged,38,Yes,6,-14.14
+E0998,57,Male,Master,Manufacturing,Supervisor,32,Medium,Low,Yes,103169,103810,Unchanged,36,No,7,19.35
+E0999,57,Male,Bachelor,Education,Teacher,32,Low,Medium,Yes,76694,73062,Modified,51,Yes,6,-13.83
+E1000,52,Other,Bachelor,Healthcare,Doctor,28,High,Low,No,69390,96797,Unchanged,54,No,8,-10.18
+E1001,35,Male,High School,Manufacturing,Machine Operator,11,High,High,Yes,87184,121304,Replaced,49,No,5,21.2
+E1002,41,Male,Master,Manufacturing,Quality Inspector,18,Medium,High,No,47138,45586,Unchanged,52,No,6,31.43
+E1003,33,Male,PhD,Retail,Sales Associate,7,Low,High,No,54845,55704,Unchanged,51,No,4,-1.38
+E1004,53,Other,Master,Finance,Auditor,30,Medium,Medium,No,57818,55067,Modified,43,No,3,32.48
+E1005,54,Other,Bachelor,Marketing,Digital Marketer,29,Low,Medium,Yes,89025,88152,Modified,52,Yes,8,34.73
+E1006,46,Female,Master,Manufacturing,Machine Operator,23,High,Medium,Yes,93644,113153,Modified,52,Yes,3,-2.03
+E1007,37,Male,High School,Finance,Investment Analyst,13,Medium,Medium,No,56498,57716,Modified,40,No,7,15.76
+E1008,39,Female,PhD,Finance,Auditor,16,Medium,Medium,Yes,60974,58120,Modified,40,Yes,7,-19.58
+E1009,25,Male,Master,Healthcare,Technician,3,Medium,Medium,Yes,80227,94246,Modified,46,No,7,10.17
+E1010,26,Male,Bachelor,Healthcare,Nurse,0,Low,Medium,No,39247,41607,Modified,52,No,6,11.3
+E1011,50,Other,Master,Healthcare,Technician,26,High,Low,No,116489,119632,Unchanged,36,No,8,-14.7
+E1012,24,Other,High School,Retail,Cashier,0,Low,Medium,No,74722,72852,Modified,43,No,4,39.17
+E1013,52,Other,Bachelor,IT,DevOps Engineer,27,Medium,Medium,Yes,58718,69206,Modified,48,Yes,7,9.8
+E1014,31,Other,High School,Healthcare,Nurse,7,High,Low,Yes,72968,91334,Unchanged,40,Yes,8,10.0
+E1015,24,Male,Bachelor,Manufacturing,Quality Inspector,0,Low,High,Yes,72498,74033,Unchanged,40,Yes,5,28.96
+E1016,33,Female,High School,Retail,Sales Associate,11,High,Low,No,105235,122344,Unchanged,52,Yes,7,17.8
+E1017,57,Other,Bachelor,Manufacturing,Machine Operator,32,Medium,High,No,68445,74818,Unchanged,52,Yes,5,-3.37
+E1018,51,Other,High School,IT,Data Analyst,28,Low,High,No,51304,56119,Unchanged,42,Yes,3,-8.46
+E1019,40,Other,Bachelor,Finance,Auditor,14,High,Low,Yes,36862,29912,Unchanged,42,Yes,4,21.39
+E1020,48,Male,Bachelor,Retail,Cashier,24,Medium,High,Yes,72879,69955,Unchanged,43,Yes,3,25.03
+E1021,40,Female,Bachelor,IT,Data Analyst,14,Medium,Medium,No,77058,75575,Modified,41,Yes,4,38.94
+E1022,53,Other,PhD,Manufacturing,Machine Operator,28,Low,High,No,51575,50827,Unchanged,39,No,3,17.68
+E1023,47,Female,Bachelor,Retail,Store Manager,21,High,High,Yes,65790,86856,Modified,35,No,5,20.16
+E1024,39,Male,PhD,Marketing,SEO Specialist,16,Medium,Medium,No,42404,46137,Modified,41,Yes,3,1.52
+E1025,47,Male,Master,Healthcare,Nurse,25,Low,High,No,91313,99304,Unchanged,40,No,4,28.05
+E1026,45,Male,Master,Finance,Investment Analyst,22,Low,Medium,No,35544,36391,Modified,40,Yes,8,-8.46
+E1027,43,Male,High School,Healthcare,Technician,20,Low,High,Yes,50390,54936,Unchanged,53,No,9,18.23
+E1028,28,Other,High School,IT,Data Analyst,5,Medium,High,No,46984,51066,Unchanged,43,No,9,6.81
+E1029,23,Other,High School,Manufacturing,Quality Inspector,1,Medium,Medium,Yes,75836,89492,Modified,37,Yes,8,35.96
+E1030,24,Male,Bachelor,Manufacturing,Quality Inspector,1,Medium,Medium,No,106407,123064,Modified,51,No,5,1.53
+E1031,24,Female,Master,Marketing,Content Creator,1,Low,High,No,100246,99841,Unchanged,37,No,5,37.73
+E1032,51,Other,Master,IT,DevOps Engineer,26,Low,Medium,Yes,50608,53189,Modified,52,Yes,6,16.87
+E1033,34,Male,PhD,IT,Data Analyst,12,High,High,No,84401,68770,Modified,37,Yes,8,4.41
+E1034,57,Female,Master,Marketing,Digital Marketer,33,Low,Medium,No,39718,42501,Modified,50,Yes,8,30.74
+E1035,36,Other,Master,IT,Data Analyst,11,Medium,Medium,Yes,75406,73166,Modified,44,Yes,3,-18.82
+E1036,53,Male,PhD,Manufacturing,Quality Inspector,29,Low,Low,Yes,55345,54809,Unchanged,53,Yes,4,39.88
+E1037,50,Other,High School,IT,Data Analyst,26,High,Medium,Yes,88701,110451,Modified,37,No,8,-18.11
+E1038,47,Other,Bachelor,Marketing,SEO Specialist,24,Low,Low,No,80568,84077,Unchanged,35,Yes,7,-11.96
+E1039,48,Female,PhD,Marketing,Content Creator,25,High,Medium,No,116394,121501,Modified,38,No,6,26.31
+E1040,38,Female,Bachelor,Education,Professor,14,Low,Low,Yes,92119,92231,Unchanged,41,No,6,-7.06
+E1041,23,Other,High School,Manufacturing,Supervisor,0,Low,High,No,113028,123521,Unchanged,51,Yes,4,-17.01
+E1042,45,Male,Bachelor,Marketing,SEO Specialist,23,High,High,No,85718,101754,Replaced,45,Yes,9,-18.98
+E1043,23,Female,High School,Retail,Store Manager,1,Medium,High,No,98322,89950,Unchanged,39,No,6,15.96
+E1044,42,Male,High School,Marketing,Content Creator,16,Medium,Medium,Yes,53806,61631,Modified,36,No,3,20.04
+E1045,53,Other,PhD,Finance,Auditor,30,Low,Medium,Yes,30453,30407,Modified,35,Yes,5,29.15
+E1046,26,Male,PhD,Manufacturing,Supervisor,0,Medium,Low,No,107707,116574,Unchanged,37,No,6,-14.97
+E1047,51,Female,Bachelor,Education,Professor,25,High,Medium,No,32017,37655,Modified,49,Yes,8,-4.81
+E1048,24,Other,Bachelor,Education,Professor,0,Medium,Medium,No,49252,58133,Modified,42,Yes,8,-7.61
+E1049,54,Female,High School,Education,Teacher,31,Low,Low,Yes,95747,98804,Unchanged,46,No,7,-14.63
+E1050,46,Male,High School,IT,Data Analyst,21,High,Medium,No,118534,102022,Modified,52,Yes,9,17.39
+E1051,57,Male,Master,IT,DevOps Engineer,35,Medium,High,Yes,77934,76550,Unchanged,44,Yes,4,-0.8
+E1052,39,Male,PhD,IT,Data Analyst,14,High,Medium,Yes,65929,54503,Modified,37,Yes,4,-2.65
+E1053,39,Female,Bachelor,Manufacturing,Quality Inspector,13,High,High,No,107462,140979,Modified,35,No,3,14.88
+E1054,42,Other,High School,Marketing,SEO Specialist,20,Medium,Low,Yes,57626,68291,Unchanged,54,Yes,8,12.14
+E1055,40,Other,Master,Finance,Accountant,14,Medium,Medium,No,37526,37611,Modified,48,No,3,28.33
+E1056,39,Female,PhD,Education,Professor,17,Medium,Low,No,104656,123531,Unchanged,53,No,5,23.56
+E1057,27,Other,Bachelor,IT,DevOps Engineer,3,High,High,Yes,119719,130719,Modified,38,Yes,4,0.04
+E1058,31,Other,High School,Healthcare,Technician,5,Medium,Low,Yes,45882,45493,Unchanged,51,No,9,-9.87
+E1059,37,Female,Master,Manufacturing,Quality Inspector,13,Low,High,No,76073,75582,Unchanged,37,No,3,-15.08
+E1060,42,Other,PhD,IT,Software Engineer,19,High,Medium,No,53535,51122,Modified,54,Yes,3,-5.39
+E1061,23,Female,PhD,Finance,Accountant,1,Low,High,Yes,58251,61140,Unchanged,54,Yes,8,-5.75
+E1062,54,Female,Master,Manufacturing,Quality Inspector,32,Medium,Medium,No,40702,42280,Modified,41,No,8,29.1
+E1063,52,Other,PhD,IT,Data Analyst,28,Medium,Medium,No,114585,112322,Modified,38,No,4,11.15
+E1064,45,Other,High School,IT,Software Engineer,19,Medium,Medium,Yes,110373,123664,Modified,54,Yes,4,-0.71
+E1065,39,Male,Bachelor,Manufacturing,Quality Inspector,13,Medium,Low,Yes,56393,59103,Unchanged,42,Yes,6,7.21
+E1066,43,Other,Bachelor,Marketing,Digital Marketer,19,Medium,Medium,Yes,82066,83298,Modified,51,No,9,30.23
+E1067,57,Male,Master,Healthcare,Doctor,33,Medium,Low,Yes,112315,120900,Unchanged,39,No,9,20.02
+E1068,50,Other,High School,Marketing,Digital Marketer,27,Medium,High,No,115610,106736,Unchanged,49,Yes,6,-18.92
+E1069,25,Female,High School,IT,Software Engineer,2,High,High,No,82389,97420,Replaced,45,Yes,6,28.11
+E1070,23,Female,PhD,Marketing,Digital Marketer,0,Low,High,No,105164,101767,Unchanged,52,Yes,8,25.39
+E1071,31,Male,High School,Education,Professor,7,Medium,High,No,104632,123869,Unchanged,46,No,5,14.79
+E1072,35,Other,High School,IT,Software Engineer,10,High,Low,No,71034,58211,Unchanged,45,No,9,24.6
+E1073,40,Male,High School,Marketing,Digital Marketer,14,High,Low,Yes,33771,45722,Unchanged,47,No,7,-19.05
+E1074,25,Male,High School,Education,Professor,0,Low,Low,No,62376,68487,Unchanged,52,Yes,3,-16.64
+E1075,29,Other,PhD,Retail,Cashier,5,Low,High,No,81952,78524,Unchanged,36,No,8,30.19
+E1076,43,Male,Bachelor,Education,Administrator,19,High,Medium,No,59283,67760,Modified,49,No,9,-0.1
+E1077,50,Other,PhD,Retail,Cashier,28,Medium,Medium,No,48653,57947,Modified,51,No,8,-18.68
+E1078,27,Male,PhD,Healthcare,Doctor,3,Medium,High,No,68231,64184,Unchanged,39,No,8,-11.26
+E1079,55,Female,Master,Marketing,SEO Specialist,31,Low,Low,Yes,33285,32398,Unchanged,46,No,6,-5.39
+E1080,49,Female,PhD,Finance,Investment Analyst,24,High,Low,No,102390,106640,Unchanged,44,Yes,5,35.2
+E1081,50,Male,PhD,Education,Teacher,27,Medium,High,Yes,83019,86763,Unchanged,42,Yes,4,-1.07
+E1082,29,Other,High School,Finance,Investment Analyst,4,Medium,High,Yes,37642,44398,Unchanged,36,Yes,8,-13.71
+E1083,29,Female,High School,Marketing,Digital Marketer,6,High,Medium,Yes,84712,107443,Modified,42,No,6,1.7
+E1084,49,Male,High School,Healthcare,Doctor,23,Low,Low,Yes,45089,49299,Unchanged,46,Yes,3,-15.78
+E1085,28,Male,Master,Marketing,SEO Specialist,3,Medium,Low,No,43163,41106,Unchanged,54,No,5,2.72
+E1086,32,Other,Master,Retail,Sales Associate,8,High,Medium,No,62214,83141,Modified,48,No,4,35.19
+E1087,40,Female,High School,Marketing,Digital Marketer,17,Low,Medium,Yes,98104,104337,Modified,50,Yes,7,16.4
+E1088,46,Male,High School,Manufacturing,Quality Inspector,21,Medium,Medium,No,95131,101509,Modified,49,No,5,33.51
+E1089,31,Other,Bachelor,Retail,Store Manager,6,Low,High,Yes,78114,74644,Unchanged,49,Yes,8,35.06
+E1090,54,Male,PhD,IT,Data Analyst,31,Medium,Medium,Yes,52301,55224,Modified,52,Yes,5,-8.57
+E1091,23,Female,PhD,Healthcare,Doctor,0,Medium,Medium,Yes,58469,67769,Modified,46,No,7,0.46
+E1092,51,Other,Master,Manufacturing,Supervisor,28,High,Low,Yes,87089,93329,Unchanged,46,No,9,30.13
+E1093,29,Female,Master,IT,Software Engineer,3,High,Medium,Yes,111653,113745,Modified,46,Yes,9,30.62
+E1094,40,Male,Master,Manufacturing,Quality Inspector,16,High,Medium,No,52784,64827,Modified,42,Yes,7,-7.55
+E1095,38,Other,Bachelor,Education,Teacher,16,Low,Medium,No,54161,53914,Modified,52,Yes,9,24.68
+E1096,36,Other,High School,Finance,Auditor,10,High,Medium,No,76389,100899,Modified,48,Yes,4,32.88
+E1097,43,Male,Master,Education,Teacher,19,Low,High,Yes,89055,90515,Unchanged,51,No,8,9.12
+E1098,59,Other,PhD,Manufacturing,Supervisor,33,High,Low,Yes,31242,25246,Unchanged,49,No,6,1.77
+E1099,38,Female,High School,Finance,Auditor,16,Medium,High,Yes,81507,91167,Unchanged,35,Yes,6,-1.01
+E1100,50,Other,PhD,Finance,Investment Analyst,24,Medium,Low,Yes,63172,62816,Unchanged,40,Yes,5,-14.94
+E1101,34,Male,PhD,IT,DevOps Engineer,12,High,Low,Yes,39491,40109,Unchanged,44,Yes,3,-15.11
+E1102,24,Male,Bachelor,Healthcare,Nurse,0,High,Low,Yes,65851,87113,Unchanged,45,Yes,8,-5.75
+E1103,57,Other,Bachelor,Finance,Auditor,31,Medium,Medium,Yes,58365,65568,Modified,38,Yes,7,-9.91
+E1104,51,Other,Master,Marketing,SEO Specialist,26,Low,Medium,No,49276,51779,Modified,38,No,6,18.13
+E1105,37,Male,Bachelor,Education,Administrator,11,Medium,Low,Yes,111335,120116,Unchanged,41,Yes,6,22.58
+E1106,28,Other,High School,Retail,Cashier,4,Medium,Medium,Yes,100198,113500,Modified,42,No,3,6.81
+E1107,55,Female,PhD,Manufacturing,Quality Inspector,29,High,Medium,Yes,60028,72283,Modified,46,No,3,-16.11
+E1108,23,Male,Bachelor,Education,Teacher,0,Medium,High,No,104353,112142,Unchanged,42,No,9,1.41
+E1109,54,Female,Bachelor,Marketing,Content Creator,29,Low,Low,No,76761,80568,Unchanged,42,No,8,0.3
+E1110,48,Male,Bachelor,Healthcare,Nurse,26,High,High,Yes,113276,139427,Replaced,39,No,4,14.89
+E1111,26,Male,Master,Finance,Investment Analyst,0,High,High,No,98906,80776,Replaced,41,No,9,-5.2
+E1112,59,Other,High School,Retail,Store Manager,35,Medium,Medium,No,75117,84340,Modified,52,Yes,8,-3.21
+E1113,29,Female,Bachelor,Healthcare,Nurse,7,High,Medium,Yes,47459,59328,Modified,44,No,6,21.6
+E1114,48,Other,High School,Retail,Sales Associate,23,Medium,High,No,101017,104260,Unchanged,52,No,6,12.93
+E1115,37,Male,High School,Finance,Accountant,15,Medium,Medium,No,111426,117756,Modified,40,No,7,-18.58
+E1116,50,Other,Master,Healthcare,Doctor,28,High,Low,Yes,115435,151675,Unchanged,43,No,9,3.76
+E1117,33,Male,Master,Retail,Cashier,11,Low,Medium,Yes,38593,41279,Modified,46,Yes,5,-3.83
+E1118,56,Male,Master,Retail,Cashier,33,Low,High,No,56853,59014,Unchanged,39,Yes,4,-13.83
+E1119,37,Other,PhD,Education,Teacher,15,High,Low,No,60815,66637,Unchanged,45,Yes,4,-9.15
+E1120,33,Female,High School,Healthcare,Nurse,7,Medium,Low,Yes,63349,67697,Unchanged,43,Yes,4,13.16
+E1121,50,Male,High School,IT,DevOps Engineer,26,Low,Medium,Yes,98371,93931,Modified,52,Yes,4,15.72
+E1122,32,Other,Bachelor,Manufacturing,Quality Inspector,10,High,High,No,42062,40922,Modified,52,Yes,9,16.24
+E1123,44,Other,PhD,Manufacturing,Supervisor,22,Low,Low,No,40940,41384,Unchanged,36,No,3,-17.54
+E1124,51,Other,PhD,Retail,Store Manager,29,High,High,Yes,104554,100458,Modified,52,Yes,7,28.69
+E1125,48,Other,PhD,Healthcare,Doctor,24,High,Low,Yes,91245,124131,Unchanged,44,Yes,5,25.98
+E1126,59,Female,PhD,Education,Professor,35,High,Medium,No,50968,62607,Modified,39,No,3,35.48
+E1127,33,Male,High School,Education,Teacher,7,Low,High,No,116338,118940,Unchanged,53,No,9,17.35
+E1128,27,Other,Bachelor,Healthcare,Nurse,4,Medium,Medium,No,32739,33232,Modified,51,No,3,5.46
+E1129,33,Other,PhD,Education,Professor,7,Medium,Low,No,57785,64245,Unchanged,51,Yes,6,-5.71
+E1130,42,Female,PhD,Retail,Sales Associate,16,High,High,No,105379,107813,Modified,44,Yes,3,-18.45
+E1131,50,Other,Master,Finance,Accountant,28,Low,Medium,Yes,112886,115275,Modified,46,Yes,5,-19.4
+E1132,25,Other,Bachelor,IT,Data Analyst,0,High,Medium,Yes,98827,133325,Modified,44,Yes,7,31.27
+E1133,45,Male,Bachelor,Marketing,SEO Specialist,23,Low,High,No,35409,37882,Unchanged,47,No,9,10.51
+E1134,23,Female,Master,IT,Software Engineer,1,Medium,High,No,56145,54331,Unchanged,36,No,7,-7.29
+E1135,37,Male,High School,Healthcare,Doctor,11,High,High,No,53332,74618,Replaced,53,No,9,-18.51
+E1136,59,Female,Master,Healthcare,Nurse,33,Medium,Medium,Yes,36372,38786,Modified,40,Yes,7,34.1
+E1137,47,Female,High School,Manufacturing,Machine Operator,25,High,High,Yes,99586,119661,Modified,41,Yes,4,33.3
+E1138,40,Other,Master,Healthcare,Doctor,15,High,Medium,Yes,47733,61240,Modified,41,Yes,3,38.04
+E1139,46,Other,Master,Finance,Investment Analyst,24,Medium,Low,Yes,71152,74769,Unchanged,45,Yes,3,-11.33
+E1140,22,Other,High School,Education,Teacher,0,Medium,High,No,73876,79468,Unchanged,52,Yes,3,-19.49
+E1141,35,Other,High School,Finance,Accountant,11,Medium,Low,Yes,93888,85990,Unchanged,39,Yes,4,25.3
+E1142,38,Male,High School,Marketing,SEO Specialist,12,Low,Low,Yes,53704,54268,Unchanged,38,Yes,6,20.59
+E1143,27,Female,PhD,Healthcare,Nurse,2,High,Medium,Yes,117700,133715,Modified,41,Yes,6,3.19
+E1144,54,Other,PhD,Education,Teacher,29,Medium,Medium,No,77952,71978,Modified,50,Yes,6,22.41
+E1145,50,Female,PhD,Education,Professor,25,Medium,Low,Yes,96055,102843,Unchanged,35,No,4,32.9
+E1146,36,Male,Master,Finance,Investment Analyst,11,Low,Low,Yes,115193,120995,Unchanged,47,No,3,4.62
+E1147,26,Other,Master,Retail,Store Manager,3,Medium,Low,No,71548,81361,Unchanged,37,No,9,7.24
+E1148,51,Male,High School,IT,Data Analyst,27,Medium,High,Yes,60255,70662,Unchanged,46,Yes,7,-18.25
+E1149,38,Other,Master,IT,Software Engineer,16,Medium,Low,Yes,33412,36048,Unchanged,45,Yes,3,1.96
+E1150,55,Other,High School,IT,Data Analyst,32,Medium,Medium,No,31353,29431,Modified,46,Yes,5,12.21
+E1151,44,Male,PhD,IT,DevOps Engineer,20,High,Medium,No,56872,53953,Modified,40,No,4,-17.82
+E1152,43,Other,PhD,Finance,Auditor,21,Low,Medium,No,45438,46585,Modified,50,Yes,8,23.53
+E1153,27,Other,High School,Retail,Store Manager,3,High,Low,No,115184,148704,Unchanged,46,No,8,-9.7
+E1154,32,Other,High School,Healthcare,Doctor,7,Low,High,Yes,65825,69440,Unchanged,54,No,9,4.72
+E1155,54,Other,PhD,Retail,Sales Associate,28,Low,Medium,No,90561,98908,Modified,43,Yes,9,-15.84
+E1156,31,Other,High School,Manufacturing,Quality Inspector,6,Low,Medium,Yes,65201,69338,Modified,40,Yes,5,27.65
+E1157,32,Male,Master,Healthcare,Technician,6,Low,High,No,59299,62777,Unchanged,52,Yes,4,-8.63
+E1158,28,Other,PhD,Education,Administrator,5,Medium,Medium,Yes,42881,42717,Modified,42,No,6,-9.3
+E1159,55,Other,Bachelor,Marketing,Digital Marketer,31,Low,Medium,No,37833,36791,Modified,39,No,5,-16.07
+E1160,22,Other,High School,IT,DevOps Engineer,0,High,Medium,Yes,116784,150069,Modified,38,Yes,9,3.28
+E1161,33,Female,Master,Healthcare,Doctor,8,Medium,High,No,41345,47042,Unchanged,48,Yes,6,-3.25
+E1162,26,Female,High School,Finance,Auditor,2,High,High,Yes,65771,57814,Modified,47,Yes,8,31.52
+E1163,47,Female,PhD,IT,Data Analyst,24,High,High,No,79573,94951,Modified,53,Yes,5,-6.01
+E1164,50,Male,PhD,Marketing,Digital Marketer,24,High,Low,Yes,34944,28293,Unchanged,45,Yes,5,2.36
+E1165,31,Male,Bachelor,Marketing,SEO Specialist,7,High,High,No,61629,64658,Modified,44,Yes,4,-2.99
+E1166,22,Other,High School,Finance,Investment Analyst,0,Medium,High,Yes,118697,120447,Unchanged,41,Yes,9,-1.73
+E1167,48,Male,PhD,IT,DevOps Engineer,26,Low,Medium,Yes,45893,46760,Modified,43,Yes,6,29.08
+E1168,40,Other,PhD,Retail,Store Manager,15,High,High,Yes,91607,91931,Modified,52,Yes,6,9.89
+E1169,30,Female,PhD,Retail,Store Manager,6,Low,Low,Yes,45407,46118,Unchanged,39,No,3,-6.16
+E1170,58,Other,PhD,Finance,Investment Analyst,34,Low,High,Yes,56613,57414,Unchanged,42,Yes,7,15.76
+E1171,54,Other,PhD,Retail,Sales Associate,31,High,Medium,Yes,75853,82259,Modified,45,No,3,-19.75
+E1172,31,Female,Bachelor,Education,Administrator,6,Medium,Low,Yes,107400,102391,Unchanged,36,Yes,3,33.31
+E1173,40,Female,Master,Finance,Accountant,18,High,Low,Yes,86866,114411,Unchanged,35,No,4,8.63
+E1174,42,Other,High School,IT,Software Engineer,20,Low,High,Yes,67563,71761,Unchanged,39,No,3,39.99
+E1175,43,Other,High School,IT,Software Engineer,21,Medium,High,Yes,57862,53576,Unchanged,43,No,8,-19.91
+E1176,55,Other,Master,Marketing,Content Creator,33,High,Medium,Yes,81259,68087,Modified,40,No,7,15.89
+E1177,52,Other,PhD,Education,Teacher,29,High,Medium,No,80617,111658,Modified,49,No,4,-6.06
+E1178,57,Other,Bachelor,Marketing,Content Creator,31,High,Medium,Yes,93171,110096,Modified,50,No,5,-10.12
+E1179,59,Female,Master,Finance,Investment Analyst,36,Medium,Low,No,63892,66193,Unchanged,44,No,9,39.36
+E1180,39,Female,Master,IT,Software Engineer,17,Low,Low,Yes,91716,94052,Unchanged,54,No,4,-1.04
+E1181,44,Female,High School,Healthcare,Nurse,22,Low,Medium,Yes,69291,74784,Modified,41,No,7,13.86
+E1182,31,Female,PhD,Finance,Accountant,6,Medium,High,No,76144,70963,Unchanged,49,No,3,21.3
+E1183,49,Female,High School,Marketing,Digital Marketer,23,Medium,High,Yes,111552,118027,Unchanged,45,Yes,6,-16.57
+E1184,53,Female,Master,Retail,Store Manager,29,Low,Medium,No,85612,86895,Modified,49,No,3,27.98
+E1185,31,Other,Bachelor,Finance,Investment Analyst,5,Medium,Medium,No,36458,34777,Modified,51,No,5,-14.01
+E1186,41,Other,PhD,IT,Software Engineer,19,Medium,Low,No,102833,96587,Unchanged,37,No,3,-5.87
+E1187,43,Male,PhD,Education,Professor,18,Low,Low,Yes,30801,33766,Unchanged,40,Yes,4,37.95
+E1188,23,Other,Master,Education,Professor,0,Medium,Low,No,55705,52213,Unchanged,42,Yes,4,37.73
+E1189,34,Male,Bachelor,IT,DevOps Engineer,8,Low,High,Yes,86235,93804,Unchanged,52,No,5,34.25
+E1190,59,Male,High School,Manufacturing,Quality Inspector,35,Medium,Low,Yes,55738,52829,Unchanged,52,No,3,38.08
+E1191,31,Other,Master,Finance,Accountant,8,Low,Medium,No,117193,120376,Modified,44,No,9,-0.14
+E1192,25,Other,Master,Education,Professor,0,High,High,No,81644,84971,Modified,49,Yes,9,31.3
+E1193,38,Other,Master,IT,Data Analyst,14,Medium,Low,Yes,73516,79451,Unchanged,45,Yes,8,-13.57
+E1194,46,Female,Bachelor,Retail,Store Manager,22,Medium,Medium,No,68015,68769,Modified,53,No,9,-6.43
+E1195,47,Other,Master,Retail,Cashier,24,High,High,No,79832,73475,Modified,36,No,4,22.91
+E1196,37,Female,Bachelor,IT,DevOps Engineer,15,Medium,Low,Yes,38859,38050,Unchanged,36,Yes,5,5.65
+E1197,23,Female,High School,Marketing,Content Creator,0,Medium,Medium,No,52948,59840,Modified,38,Yes,5,-7.65
+E1198,31,Male,High School,IT,DevOps Engineer,7,Low,Medium,Yes,97853,95996,Modified,50,No,5,1.49
+E1199,23,Male,High School,Retail,Sales Associate,0,Medium,High,Yes,78380,82550,Unchanged,54,Yes,9,8.62
+E1200,35,Male,Master,Healthcare,Technician,12,High,Low,Yes,46304,61942,Unchanged,44,No,4,28.4
+E1201,39,Male,Bachelor,Healthcare,Technician,17,High,Medium,No,74990,90613,Modified,42,Yes,9,31.53
+E1202,24,Other,Bachelor,Marketing,SEO Specialist,0,Low,Medium,Yes,80411,77021,Modified,51,No,8,-6.14
+E1203,30,Male,Master,Healthcare,Doctor,4,High,High,Yes,111867,155127,Modified,37,Yes,7,-7.97
+E1204,32,Female,Master,IT,DevOps Engineer,7,High,High,Yes,36791,44274,Replaced,40,Yes,9,11.87
+E1205,51,Male,PhD,Retail,Cashier,26,High,High,No,39967,36102,Replaced,38,Yes,5,31.03
+E1206,34,Male,Bachelor,Manufacturing,Quality Inspector,8,Medium,Low,No,49971,54705,Unchanged,40,Yes,4,21.88
+E1207,34,Other,PhD,IT,Software Engineer,9,Low,Medium,Yes,114793,111270,Modified,47,Yes,7,36.86
+E1208,49,Male,Bachelor,Education,Administrator,23,High,High,Yes,65393,71851,Replaced,43,No,3,-1.4
+E1209,35,Male,High School,IT,Data Analyst,9,Medium,Low,No,84639,77367,Unchanged,51,Yes,8,13.98
+E1210,34,Female,PhD,Retail,Cashier,10,Medium,High,Yes,66142,59927,Unchanged,45,No,6,25.16
+E1211,24,Male,PhD,IT,Data Analyst,0,Medium,Low,Yes,35387,41270,Unchanged,51,Yes,9,18.48
+E1212,54,Male,PhD,Finance,Auditor,30,High,High,Yes,41595,49301,Modified,48,No,8,-2.11
+E1213,54,Female,PhD,Healthcare,Technician,28,Medium,Low,No,65645,67240,Unchanged,44,No,8,-13.26
+E1214,59,Female,Master,Healthcare,Nurse,37,Medium,High,No,92709,91573,Unchanged,54,Yes,8,-9.95
+E1215,45,Male,Master,Education,Professor,23,Medium,Medium,No,76930,73717,Modified,42,No,3,12.2
+E1216,30,Female,Bachelor,Education,Professor,7,High,High,Yes,77928,76519,Modified,42,Yes,8,5.77
+E1217,36,Female,High School,Manufacturing,Quality Inspector,14,Low,Medium,No,114629,120828,Modified,38,No,4,-10.42
+E1218,39,Male,Bachelor,IT,Data Analyst,15,Low,Low,No,70969,71099,Unchanged,45,No,3,17.29
+E1219,26,Male,PhD,Marketing,Content Creator,2,High,High,Yes,59047,60587,Modified,39,No,9,12.01
+E1220,33,Other,Bachelor,Marketing,Content Creator,8,Medium,Medium,Yes,60628,59121,Modified,41,Yes,4,28.35
+E1221,23,Other,PhD,Finance,Accountant,0,Low,Low,No,89860,85857,Unchanged,53,No,6,34.15
+E1222,38,Female,Bachelor,Marketing,Digital Marketer,13,Medium,Low,Yes,119792,118943,Unchanged,47,Yes,9,31.53
+E1223,36,Female,PhD,Retail,Store Manager,12,Low,Low,Yes,45659,50117,Unchanged,38,Yes,5,3.01
+E1224,31,Male,High School,IT,Software Engineer,6,Medium,Low,No,57624,59713,Unchanged,52,No,8,31.81
+E1225,58,Female,Master,Healthcare,Nurse,33,High,High,Yes,54843,63315,Replaced,43,No,8,10.35
+E1226,46,Other,High School,Healthcare,Nurse,22,High,Low,Yes,43663,35463,Unchanged,42,Yes,7,-7.69
+E1227,26,Male,PhD,IT,Software Engineer,4,Medium,Medium,No,54722,57192,Modified,52,Yes,3,9.43
+E1228,23,Other,PhD,Manufacturing,Supervisor,1,Low,High,Yes,94857,103073,Unchanged,49,No,6,36.6
+E1229,37,Male,PhD,Healthcare,Doctor,11,Low,Medium,No,41415,42140,Modified,42,No,4,0.27
+E1230,23,Female,Master,Manufacturing,Quality Inspector,0,Low,Low,Yes,32402,33317,Unchanged,38,No,8,-19.2
+E1231,50,Other,PhD,Marketing,Digital Marketer,28,Low,High,No,104051,107806,Unchanged,51,Yes,4,18.24
+E1232,38,Male,PhD,Manufacturing,Machine Operator,13,Medium,Low,Yes,79932,83549,Unchanged,47,No,5,18.89
+E1233,43,Male,Bachelor,IT,Data Analyst,20,Medium,High,No,70232,84164,Unchanged,35,Yes,3,8.92
+E1234,52,Female,PhD,Retail,Store Manager,27,Medium,Medium,Yes,93294,92923,Modified,49,No,8,30.3
+E1235,27,Female,High School,Manufacturing,Quality Inspector,2,High,High,Yes,88420,123694,Replaced,54,Yes,9,39.77
+E1236,52,Other,PhD,IT,Software Engineer,29,Low,Medium,No,62872,62036,Modified,41,No,6,32.89
+E1237,51,Female,High School,Retail,Sales Associate,25,Medium,High,No,77734,72411,Unchanged,54,No,7,21.3
+E1238,33,Male,Bachelor,Finance,Accountant,8,Low,Medium,Yes,113694,109131,Modified,47,Yes,7,21.55
+E1239,43,Male,Bachelor,Finance,Auditor,19,High,Medium,Yes,116457,98925,Modified,51,No,3,25.94
+E1240,39,Male,High School,Manufacturing,Quality Inspector,16,Medium,High,Yes,109431,120526,Unchanged,44,Yes,5,-10.27
+E1241,30,Male,PhD,Healthcare,Doctor,8,High,High,Yes,37436,47339,Replaced,54,No,4,19.37
+E1242,53,Other,High School,Education,Administrator,31,Medium,Medium,Yes,113106,123040,Modified,47,No,7,33.47
+E1243,54,Female,PhD,Healthcare,Technician,29,High,Medium,Yes,117122,101003,Modified,36,No,9,37.74
+E1244,35,Other,High School,Manufacturing,Quality Inspector,11,High,Low,Yes,87450,86669,Unchanged,43,No,7,23.86
+E1245,41,Other,High School,Retail,Store Manager,18,Low,Low,No,41173,41652,Unchanged,53,No,3,17.75
+E1246,53,Female,Bachelor,Education,Professor,29,Medium,High,No,98916,114537,Unchanged,47,No,5,7.5
+E1247,33,Male,Master,Healthcare,Doctor,9,High,Medium,Yes,30148,37680,Modified,47,Yes,6,-14.19
+E1248,39,Male,PhD,Education,Administrator,14,Medium,Medium,Yes,61075,64155,Modified,46,No,7,-5.98
+E1249,50,Female,PhD,Manufacturing,Quality Inspector,25,Medium,Medium,Yes,81529,85067,Modified,36,Yes,3,8.28
+E1250,46,Other,High School,Finance,Auditor,24,Low,High,Yes,59381,61801,Unchanged,52,Yes,8,13.59
+E1251,22,Male,High School,Retail,Cashier,0,High,Medium,No,102943,132553,Modified,43,No,7,12.51
+E1252,36,Other,High School,Finance,Accountant,13,High,Medium,Yes,91358,80514,Modified,48,No,3,11.1
+E1253,40,Other,Master,Healthcare,Technician,14,High,High,Yes,112806,119931,Replaced,54,Yes,4,25.62
+E1254,45,Male,Bachelor,Education,Professor,22,Low,Low,No,112215,120983,Unchanged,45,No,7,26.9
+E1255,38,Other,PhD,Retail,Store Manager,13,High,Low,Yes,75382,101566,Unchanged,48,Yes,7,36.76
+E1256,32,Other,Master,Marketing,Digital Marketer,7,Medium,High,Yes,30364,36145,Unchanged,43,No,4,-4.69
+E1257,25,Other,Bachelor,Healthcare,Doctor,3,Low,Medium,No,72029,72135,Modified,35,Yes,7,13.7
+E1258,31,Other,High School,Manufacturing,Quality Inspector,9,Medium,High,No,49642,49719,Unchanged,37,Yes,8,8.41
+E1259,35,Female,Master,Manufacturing,Machine Operator,12,High,High,Yes,109064,115654,Modified,50,Yes,9,29.17
+E1260,57,Female,High School,Retail,Store Manager,34,Low,Medium,No,58439,58011,Modified,41,No,9,-17.18
+E1261,36,Female,Master,Manufacturing,Quality Inspector,13,Low,Low,Yes,52391,52305,Unchanged,45,No,4,6.41
+E1262,43,Male,High School,Education,Administrator,19,High,Low,Yes,92537,95957,Unchanged,49,Yes,4,-4.76
+E1263,42,Male,PhD,Marketing,SEO Specialist,16,Medium,Medium,Yes,54714,54590,Modified,40,Yes,7,29.02
+E1264,43,Female,PhD,Healthcare,Doctor,17,High,High,No,69770,71984,Modified,49,No,4,9.09
+E1265,26,Male,Bachelor,Manufacturing,Machine Operator,3,Low,High,Yes,108627,105204,Unchanged,44,No,4,-11.15
+E1266,38,Other,PhD,Education,Professor,12,High,Medium,Yes,85355,107390,Modified,35,Yes,8,39.56
+E1267,46,Female,High School,Manufacturing,Supervisor,23,Medium,High,Yes,71420,67288,Unchanged,43,Yes,8,17.35
+E1268,29,Other,PhD,Retail,Cashier,7,Medium,Low,No,99687,114913,Unchanged,40,Yes,3,23.34
+E1269,22,Female,PhD,Finance,Investment Analyst,0,Medium,High,Yes,95792,90831,Unchanged,51,Yes,5,38.7
+E1270,50,Male,Master,Marketing,SEO Specialist,27,Medium,High,Yes,84273,96112,Unchanged,48,No,6,17.83
+E1271,38,Female,Master,Manufacturing,Quality Inspector,16,High,Low,No,117483,158394,Unchanged,52,Yes,6,29.98
+E1272,38,Male,Master,Marketing,SEO Specialist,15,High,Medium,No,62813,66902,Modified,45,Yes,9,26.24
+E1273,41,Other,High School,Healthcare,Doctor,15,High,High,No,33775,27816,Modified,35,No,3,19.29
+E1274,43,Male,Bachelor,Finance,Auditor,18,High,Medium,No,85184,99206,Modified,49,Yes,8,4.16
+E1275,48,Male,PhD,Finance,Investment Analyst,25,Medium,High,No,32108,36007,Unchanged,48,Yes,9,-8.65
+E1276,53,Male,Master,Retail,Cashier,31,Medium,Medium,No,99868,91566,Modified,44,No,9,-15.16
+E1277,25,Female,PhD,Marketing,Content Creator,1,High,Low,No,102499,122234,Unchanged,50,Yes,6,12.02
+E1278,57,Female,Bachelor,Education,Teacher,35,High,Low,No,42780,37514,Unchanged,40,No,8,-12.62
+E1279,48,Female,Bachelor,Finance,Accountant,22,Medium,Medium,No,61533,56158,Modified,50,Yes,7,9.78
+E1280,47,Male,Bachelor,Education,Administrator,25,High,High,Yes,99778,138786,Modified,35,No,6,36.75
+E1281,57,Other,PhD,Marketing,Digital Marketer,33,High,High,Yes,38080,47181,Modified,43,No,7,-10.75
+E1282,32,Male,Bachelor,IT,DevOps Engineer,6,Low,Medium,No,108287,117506,Modified,46,No,5,20.45
+E1283,34,Female,Bachelor,Education,Teacher,12,High,High,Yes,45831,51165,Modified,53,Yes,9,4.17
+E1284,30,Other,High School,Retail,Store Manager,6,Medium,High,Yes,89372,93889,Unchanged,36,No,4,26.68
+E1285,32,Male,Bachelor,Marketing,SEO Specialist,10,High,High,Yes,39677,54973,Modified,41,No,9,-2.82
+E1286,35,Female,High School,IT,DevOps Engineer,10,Low,Low,No,56548,54243,Unchanged,40,Yes,5,-10.25
+E1287,30,Female,Bachelor,Manufacturing,Quality Inspector,7,High,Low,Yes,61568,74766,Unchanged,39,Yes,5,14.34
+E1288,57,Male,Master,Education,Administrator,33,High,Low,No,34311,31066,Unchanged,38,Yes,9,15.83
+E1289,33,Male,High School,Retail,Store Manager,11,Low,Low,Yes,32580,32440,Unchanged,45,No,6,21.27
+E1290,24,Male,PhD,Healthcare,Technician,0,Low,Low,No,44635,43181,Unchanged,49,Yes,7,16.98
+E1291,25,Male,High School,IT,Data Analyst,2,Medium,High,No,44260,41805,Unchanged,49,Yes,3,13.26
+E1292,24,Female,High School,IT,Data Analyst,1,Medium,High,Yes,62430,72815,Unchanged,35,No,5,22.18
+E1293,52,Male,PhD,Education,Administrator,28,Medium,Low,Yes,57115,65847,Unchanged,53,Yes,7,11.23
+E1294,46,Male,High School,Manufacturing,Quality Inspector,24,Low,High,Yes,108947,105581,Unchanged,38,Yes,3,18.36
+E1295,35,Male,High School,Healthcare,Technician,12,Medium,Low,Yes,80906,96010,Unchanged,43,No,9,26.33
+E1296,25,Other,Bachelor,Marketing,Digital Marketer,0,High,Medium,No,102932,89526,Modified,43,No,4,12.18
+E1297,56,Male,High School,Education,Administrator,32,Low,Low,No,44318,44034,Unchanged,54,Yes,7,39.02
+E1298,40,Other,High School,Marketing,Content Creator,18,Medium,Low,No,32837,33171,Unchanged,48,Yes,6,34.83
+E1299,37,Male,Master,IT,Data Analyst,15,High,Low,No,116348,153705,Unchanged,53,Yes,8,30.07
+E1300,54,Male,Bachelor,Retail,Sales Associate,32,Low,High,No,41036,41053,Unchanged,50,Yes,8,-1.49
+E1301,54,Female,Master,Finance,Accountant,28,Medium,Low,Yes,93027,102350,Unchanged,47,Yes,5,-19.23
+E1302,55,Other,Master,IT,Software Engineer,33,High,Medium,No,82635,70127,Modified,47,Yes,3,22.99
+E1303,55,Other,PhD,Manufacturing,Supervisor,33,Low,Low,No,69159,75674,Unchanged,41,No,9,15.96
+E1304,43,Male,Master,Healthcare,Technician,17,High,Low,Yes,36806,42021,Unchanged,41,Yes,3,31.67
+E1305,26,Male,Bachelor,Education,Teacher,4,Low,High,No,118027,128991,Unchanged,38,No,4,4.29
+E1306,26,Male,Master,Marketing,Digital Marketer,4,High,High,No,37973,43064,Modified,38,Yes,9,36.78
+E1307,47,Female,Bachelor,IT,Data Analyst,25,Low,Low,Yes,118263,127196,Unchanged,52,No,8,39.73
+E1308,52,Female,Bachelor,Healthcare,Nurse,27,Medium,Low,Yes,86361,83922,Unchanged,37,No,6,27.22
+E1309,47,Female,Master,IT,Data Analyst,25,Medium,High,Yes,85401,91217,Unchanged,48,Yes,7,23.72
+E1310,24,Other,Bachelor,Education,Professor,1,Medium,Low,No,106256,104365,Unchanged,36,Yes,9,30.76
+E1311,42,Other,Master,Retail,Cashier,18,High,Low,No,45150,40146,Unchanged,41,Yes,6,7.37
+E1312,29,Other,Master,Marketing,Content Creator,6,High,High,Yes,106772,110638,Replaced,36,No,5,-8.49
+E1313,41,Other,Bachelor,Education,Teacher,18,Medium,Medium,Yes,118553,140888,Modified,40,Yes,6,7.54
+E1314,51,Other,Bachelor,Healthcare,Nurse,26,Low,Low,No,108210,104508,Unchanged,38,No,3,14.36
+E1315,52,Female,High School,Marketing,Digital Marketer,26,High,Medium,Yes,89884,108344,Modified,38,No,8,12.55
+E1316,47,Other,Master,Healthcare,Nurse,23,High,Low,Yes,91407,92298,Unchanged,46,No,5,-2.44
+E1317,45,Other,PhD,Finance,Auditor,23,Low,Low,Yes,65157,62818,Unchanged,48,Yes,3,37.08
+E1318,31,Female,High School,Retail,Store Manager,6,Low,High,Yes,102154,111335,Unchanged,54,Yes,3,9.29
+E1319,40,Female,PhD,Healthcare,Technician,14,Medium,Medium,Yes,68165,61374,Modified,51,Yes,6,-12.79
+E1320,29,Male,High School,IT,Data Analyst,6,Low,High,No,76716,78885,Unchanged,40,No,3,-15.55
+E1321,26,Female,Master,Healthcare,Technician,2,High,Medium,No,86911,116187,Modified,53,No,8,-12.95
+E1322,29,Female,Bachelor,Marketing,SEO Specialist,5,High,Medium,Yes,102728,127476,Modified,53,Yes,4,-1.73
+E1323,52,Male,Master,Manufacturing,Machine Operator,30,Medium,High,Yes,85918,85578,Unchanged,50,Yes,9,20.22
+E1324,37,Other,Master,IT,DevOps Engineer,15,High,Medium,Yes,42109,41599,Modified,40,No,8,-9.27
+E1325,37,Other,High School,Finance,Investment Analyst,12,Medium,Low,No,73151,66946,Unchanged,47,Yes,7,35.58
+E1326,33,Female,Bachelor,Education,Teacher,11,High,High,No,72722,73330,Modified,46,Yes,3,20.86
+E1327,39,Female,Master,Retail,Cashier,16,Medium,Medium,Yes,41292,46461,Modified,51,Yes,4,9.32
+E1328,24,Female,Bachelor,Manufacturing,Machine Operator,0,High,Medium,Yes,52257,61349,Modified,44,Yes,3,-16.62
+E1329,34,Male,High School,Retail,Sales Associate,12,Low,High,Yes,52113,52288,Unchanged,51,Yes,9,-7.23
+E1330,57,Male,Bachelor,Education,Administrator,35,Medium,Low,Yes,70136,77544,Unchanged,52,Yes,7,26.74
+E1331,43,Other,PhD,Healthcare,Nurse,19,High,Low,No,31868,41018,Unchanged,46,No,6,28.48
+E1332,34,Female,High School,IT,Software Engineer,8,High,Medium,Yes,52394,68634,Modified,39,Yes,7,23.57
+E1333,38,Female,Master,Marketing,SEO Specialist,16,Medium,Medium,Yes,107061,105265,Modified,36,Yes,4,18.57
+E1334,37,Male,Bachelor,IT,Data Analyst,11,High,Low,Yes,109054,137291,Unchanged,49,No,8,-9.52
+E1335,29,Female,PhD,Healthcare,Doctor,5,High,Low,No,30209,33549,Unchanged,35,No,7,14.67
+E1336,26,Male,Master,Manufacturing,Quality Inspector,0,Medium,High,Yes,35607,42061,Unchanged,37,Yes,9,11.79
+E1337,24,Female,Master,Healthcare,Nurse,0,Low,Medium,No,55117,58711,Modified,51,No,6,24.83
+E1338,59,Other,Bachelor,Healthcare,Nurse,37,Low,High,No,39628,38076,Unchanged,53,No,5,32.87
+E1339,57,Female,High School,Finance,Accountant,33,High,High,No,116158,101766,Replaced,47,No,4,7.72
+E1340,37,Male,Bachelor,Manufacturing,Quality Inspector,12,Medium,Low,Yes,34576,33994,Unchanged,39,Yes,8,39.8
+E1341,48,Other,PhD,IT,Data Analyst,23,Medium,High,No,74518,67760,Unchanged,38,No,8,13.25
+E1342,40,Female,High School,Manufacturing,Quality Inspector,18,Medium,High,Yes,72036,71892,Unchanged,48,Yes,8,6.23
+E1343,31,Female,High School,Finance,Auditor,5,Medium,Medium,Yes,107078,103541,Modified,47,No,7,35.34
+E1344,34,Other,Bachelor,Finance,Auditor,10,Medium,High,No,80481,82268,Unchanged,50,No,7,-9.36
+E1345,23,Other,PhD,Retail,Sales Associate,0,High,Low,Yes,98304,133713,Unchanged,42,No,8,12.54
+E1346,25,Other,Bachelor,Finance,Auditor,1,High,Low,Yes,31160,40074,Unchanged,40,No,7,-14.75
+E1347,42,Female,Master,Finance,Auditor,19,Medium,Low,No,43882,49064,Unchanged,50,No,6,14.79
+E1348,58,Male,PhD,Education,Teacher,35,Medium,High,Yes,75278,74553,Unchanged,43,Yes,4,7.8
+E1349,46,Male,Master,Manufacturing,Quality Inspector,21,High,High,Yes,31212,30637,Modified,46,Yes,3,19.74
+E1350,57,Male,High School,Manufacturing,Machine Operator,35,Medium,Low,Yes,55854,57395,Unchanged,48,Yes,8,-5.17
+E1351,46,Female,High School,Marketing,Content Creator,20,Low,Low,No,67905,73593,Unchanged,49,Yes,7,-8.21
+E1352,28,Male,Bachelor,Marketing,Digital Marketer,6,Medium,Medium,Yes,38625,38036,Modified,47,No,9,2.68
+E1353,44,Male,Bachelor,Manufacturing,Machine Operator,18,Low,Low,Yes,59717,58961,Unchanged,37,No,9,-0.53
+E1354,31,Female,Bachelor,Marketing,Content Creator,7,Medium,High,No,51604,58879,Unchanged,47,No,4,33.84
+E1355,23,Female,Master,Manufacturing,Machine Operator,0,Low,Low,Yes,71787,71286,Unchanged,53,Yes,8,-2.38
+E1356,43,Male,Bachelor,Manufacturing,Machine Operator,17,High,High,Yes,61996,74850,Replaced,35,Yes,6,3.52
+E1357,24,Female,Master,Education,Professor,0,Medium,Medium,No,113251,108836,Modified,40,Yes,9,-11.19
+E1358,44,Male,High School,Manufacturing,Supervisor,22,Low,Low,Yes,68031,72799,Unchanged,44,No,7,7.23
+E1359,33,Female,Master,Marketing,Digital Marketer,7,Medium,High,No,117710,131345,Unchanged,46,Yes,5,31.27
+E1360,56,Female,PhD,Manufacturing,Supervisor,33,Medium,High,Yes,58024,59449,Unchanged,52,No,3,16.91
+E1361,46,Female,High School,Healthcare,Nurse,20,Medium,Medium,No,59754,58322,Modified,45,Yes,5,36.43
+E1362,53,Male,Master,Manufacturing,Quality Inspector,30,Low,High,Yes,85184,87837,Unchanged,37,No,8,22.92
+E1363,33,Male,Master,Manufacturing,Machine Operator,9,Medium,High,Yes,97850,97926,Unchanged,50,No,6,13.64
+E1364,52,Other,PhD,Marketing,Digital Marketer,27,High,Low,Yes,47573,53135,Unchanged,37,No,7,19.71
+E1365,43,Other,Master,Finance,Investment Analyst,21,High,High,No,91821,121337,Replaced,47,Yes,5,14.1
+E1366,23,Female,Bachelor,Marketing,SEO Specialist,0,Low,High,Yes,66735,65685,Unchanged,52,Yes,9,31.99
+E1367,57,Other,PhD,Retail,Cashier,35,High,Medium,No,61017,74367,Modified,42,No,5,27.42
+E1368,58,Male,Bachelor,Marketing,Content Creator,35,Medium,Medium,Yes,63001,64459,Modified,43,Yes,5,-6.12
+E1369,52,Other,PhD,Marketing,SEO Specialist,29,Low,High,No,94892,98329,Unchanged,46,Yes,4,4.14
+E1370,39,Other,High School,Healthcare,Technician,14,Medium,High,No,44961,51784,Unchanged,43,No,5,-18.08
+E1371,38,Other,PhD,Healthcare,Doctor,15,High,High,No,108798,122523,Replaced,54,No,8,19.23
+E1372,25,Other,High School,Education,Teacher,3,High,Low,Yes,49333,41066,Unchanged,51,No,6,7.43
+E1373,56,Female,Master,Healthcare,Technician,30,High,Low,Yes,99109,122808,Unchanged,52,No,9,3.03
+E1374,58,Other,Bachelor,Healthcare,Doctor,36,High,Medium,Yes,59430,50225,Modified,37,No,6,22.47
+E1375,59,Male,Bachelor,Healthcare,Technician,37,Low,Medium,Yes,31995,31631,Modified,44,Yes,3,33.1
+E1376,40,Other,PhD,Manufacturing,Quality Inspector,14,High,Low,No,60846,50288,Unchanged,50,No,3,39.53
+E1377,44,Male,Bachelor,IT,Data Analyst,19,High,High,No,78591,104399,Replaced,37,Yes,9,4.77
+E1378,22,Male,Bachelor,Manufacturing,Machine Operator,0,Medium,High,Yes,116576,113479,Unchanged,47,Yes,5,20.83
+E1379,50,Male,PhD,Healthcare,Technician,25,High,Medium,Yes,93333,110945,Modified,54,Yes,9,22.72
+E1380,38,Other,Master,IT,DevOps Engineer,13,High,Medium,Yes,76146,99904,Modified,49,Yes,3,31.81
+E1381,41,Other,PhD,Manufacturing,Machine Operator,16,Low,Medium,No,64262,66800,Modified,40,No,3,0.23
+E1382,40,Female,High School,Manufacturing,Machine Operator,14,High,Low,No,107518,116680,Unchanged,44,No,8,1.81
+E1383,38,Other,Master,Retail,Store Manager,16,High,High,Yes,53212,62522,Modified,53,No,7,23.73
+E1384,23,Male,Bachelor,Finance,Investment Analyst,0,Medium,High,No,79810,73343,Unchanged,40,Yes,5,16.18
+E1385,59,Male,PhD,Education,Professor,36,Medium,Low,Yes,99726,114632,Unchanged,41,Yes,6,-10.98
+E1386,50,Other,PhD,IT,Data Analyst,25,Low,Low,No,39638,40441,Unchanged,39,Yes,9,15.9
+E1387,50,Female,Master,Healthcare,Nurse,24,Low,Medium,No,102089,111315,Modified,53,No,7,-5.96
+E1388,51,Female,Bachelor,Finance,Auditor,27,Low,Low,Yes,47529,48833,Unchanged,43,No,7,-10.78
+E1389,34,Male,High School,Education,Professor,8,Medium,High,No,65036,73239,Unchanged,54,Yes,4,6.83
+E1390,34,Female,Bachelor,Manufacturing,Supervisor,8,Low,Low,No,93138,92639,Unchanged,43,No,8,19.59
+E1391,43,Female,High School,Finance,Investment Analyst,17,Low,Medium,No,36922,36819,Modified,36,Yes,5,-12.99
+E1392,37,Other,PhD,Finance,Investment Analyst,13,High,High,Yes,57843,56422,Modified,52,No,4,22.32
+E1393,32,Other,Bachelor,Education,Teacher,6,Medium,Medium,No,83526,84287,Modified,47,No,4,25.39
+E1394,45,Other,Master,Healthcare,Doctor,21,High,Medium,No,44925,48020,Modified,37,Yes,6,18.2
+E1395,29,Female,High School,Manufacturing,Quality Inspector,6,Medium,High,Yes,73909,80214,Unchanged,44,No,4,7.38
+E1396,44,Male,PhD,IT,Data Analyst,20,High,Medium,No,50895,65186,Modified,54,No,5,4.63
+E1397,55,Female,High School,IT,DevOps Engineer,29,High,Medium,No,38252,48424,Modified,45,No,6,29.3
+E1398,39,Other,Bachelor,Healthcare,Doctor,15,Low,Low,Yes,78888,76236,Unchanged,48,Yes,5,27.66
+E1399,39,Female,Master,Manufacturing,Machine Operator,16,Low,Low,No,32970,36133,Unchanged,52,Yes,4,38.78
+E1400,36,Female,Master,Manufacturing,Quality Inspector,12,Medium,High,No,101200,94138,Unchanged,37,No,3,22.45
+E1401,29,Female,Bachelor,Healthcare,Technician,4,Medium,High,No,77994,80467,Unchanged,46,No,9,-13.23
+E1402,34,Male,High School,Marketing,Digital Marketer,9,Medium,Low,No,68725,65629,Unchanged,41,Yes,9,18.57
+E1403,25,Male,Bachelor,Manufacturing,Supervisor,0,Medium,Low,No,95149,96958,Unchanged,43,Yes,4,36.28
+E1404,28,Female,High School,IT,Data Analyst,6,High,Medium,No,37507,42847,Modified,36,Yes,3,6.14
+E1405,47,Male,Bachelor,Retail,Cashier,24,Low,Low,No,34414,36994,Unchanged,36,Yes,6,-5.0
+E1406,36,Male,Master,IT,DevOps Engineer,13,High,Low,Yes,104510,141988,Unchanged,51,No,6,37.09
+E1407,30,Male,PhD,Finance,Auditor,7,High,Medium,No,91731,122532,Modified,53,Yes,3,6.88
+E1408,52,Other,Master,Retail,Sales Associate,29,High,Medium,Yes,48325,49463,Modified,40,Yes,4,-6.18
+E1409,32,Other,Bachelor,IT,Data Analyst,6,High,High,Yes,31843,33292,Modified,35,No,6,24.89
+E1410,47,Female,Master,Manufacturing,Machine Operator,24,Low,Low,No,103048,98628,Unchanged,41,No,4,28.07
+E1411,57,Male,Bachelor,Retail,Sales Associate,34,High,Medium,No,75913,95820,Modified,50,No,8,9.98
+E1412,38,Female,Master,Healthcare,Nurse,13,Medium,Medium,Yes,58690,65855,Modified,53,Yes,8,-1.23
+E1413,46,Female,Bachelor,Finance,Auditor,23,Medium,Low,Yes,116612,109076,Unchanged,47,Yes,5,19.3
+E1414,47,Other,PhD,Marketing,SEO Specialist,25,Low,High,Yes,92524,88346,Unchanged,46,Yes,4,11.21
+E1415,59,Other,Master,IT,Data Analyst,33,Low,Low,No,100077,100681,Unchanged,39,Yes,5,20.89
+E1416,25,Other,Bachelor,Manufacturing,Machine Operator,0,Medium,Low,Yes,79416,87936,Unchanged,50,No,4,4.25
+E1417,31,Female,PhD,Manufacturing,Quality Inspector,9,Low,Low,Yes,37044,35315,Unchanged,49,No,3,-1.78
+E1418,25,Other,Master,Marketing,SEO Specialist,1,High,Medium,No,62543,79870,Modified,44,No,4,-9.12
+E1419,57,Other,Master,Finance,Accountant,33,High,Low,Yes,64157,81477,Unchanged,36,No,3,37.77
+E1420,52,Other,High School,Marketing,Digital Marketer,30,Medium,Medium,No,94808,111998,Modified,53,No,8,-14.52
+E1421,56,Male,Bachelor,Retail,Cashier,30,Medium,Low,Yes,30442,33054,Unchanged,42,No,5,19.05
+E1422,27,Other,High School,Healthcare,Doctor,5,Low,High,Yes,96567,94607,Unchanged,49,Yes,9,-11.95
+E1423,40,Female,High School,Healthcare,Technician,14,Medium,High,No,89252,89442,Unchanged,41,Yes,3,39.46
+E1424,31,Male,Master,Marketing,Content Creator,6,Low,Low,Yes,118901,120000,Unchanged,51,No,8,0.1
+E1425,37,Female,PhD,Marketing,Content Creator,11,High,Medium,No,36044,43735,Modified,40,No,5,14.02
+E1426,56,Female,Master,Manufacturing,Quality Inspector,34,High,Medium,Yes,113108,116088,Modified,48,No,3,19.84
+E1427,22,Male,PhD,Manufacturing,Supervisor,0,High,Low,Yes,31894,28532,Unchanged,50,Yes,7,-9.56
+E1428,50,Other,Bachelor,Education,Administrator,25,Medium,High,Yes,57659,58456,Unchanged,50,No,5,10.39
+E1429,33,Female,High School,Education,Professor,7,Medium,High,No,44633,52605,Unchanged,36,No,9,28.26
+E1430,56,Female,PhD,Healthcare,Technician,34,Medium,Medium,No,103177,109924,Modified,49,Yes,8,1.57
+E1431,27,Other,Bachelor,Retail,Cashier,2,Low,Low,Yes,86151,87682,Unchanged,39,No,8,27.82
+E1432,25,Other,Bachelor,Manufacturing,Machine Operator,2,Medium,High,No,47634,53019,Unchanged,36,Yes,7,20.64
+E1433,36,Other,Bachelor,Finance,Accountant,10,Medium,Medium,Yes,116914,112803,Modified,37,No,6,15.45
+E1434,44,Other,Master,Healthcare,Technician,19,High,High,Yes,119595,147064,Modified,38,Yes,3,-7.75
+E1435,47,Other,PhD,Manufacturing,Supervisor,25,Medium,Low,Yes,79063,74240,Unchanged,46,No,9,-0.34
+E1436,40,Female,High School,Marketing,Content Creator,17,Medium,High,No,91606,99066,Unchanged,43,No,9,8.81
+E1437,35,Other,Master,Finance,Investment Analyst,11,High,Low,Yes,50422,44384,Unchanged,38,No,4,33.14
+E1438,40,Other,Master,Manufacturing,Machine Operator,18,Medium,Low,Yes,98232,106349,Unchanged,43,No,9,-9.24
+E1439,37,Other,Bachelor,Retail,Cashier,13,Low,Medium,No,37910,40622,Modified,46,No,7,27.81
+E1440,34,Female,Bachelor,Marketing,Content Creator,9,Medium,Low,Yes,101934,105414,Unchanged,38,Yes,6,6.22
+E1441,45,Male,High School,IT,Software Engineer,19,Low,Low,Yes,30036,32009,Unchanged,37,No,7,30.49
+E1442,23,Female,Master,Finance,Investment Analyst,0,Low,Low,No,66648,63518,Unchanged,49,Yes,7,8.76
+E1443,33,Male,High School,Finance,Auditor,11,Low,Medium,Yes,47045,45953,Modified,53,Yes,5,0.26
+E1444,44,Other,High School,Finance,Investment Analyst,21,Low,High,Yes,91009,95194,Unchanged,37,Yes,4,31.62
+E1445,44,Other,Bachelor,Marketing,SEO Specialist,20,Low,Low,No,108424,115147,Unchanged,54,Yes,9,31.47
+E1446,46,Female,High School,IT,DevOps Engineer,24,Medium,Low,Yes,58013,64597,Unchanged,50,No,6,-7.34
+E1447,42,Other,Bachelor,Marketing,Digital Marketer,17,Low,High,No,88726,85766,Unchanged,39,No,8,-9.37
+E1448,25,Male,Master,Education,Administrator,1,Low,Low,Yes,77632,79137,Unchanged,45,Yes,6,27.1
+E1449,48,Other,Master,Manufacturing,Machine Operator,25,Low,Low,Yes,112336,119407,Unchanged,46,No,9,28.67
+E1450,55,Other,PhD,Healthcare,Technician,30,Medium,Medium,No,96957,115251,Modified,44,Yes,3,30.05
+E1451,33,Female,Master,Finance,Auditor,9,Low,High,No,65050,70502,Unchanged,50,No,6,8.23
+E1452,37,Other,Bachelor,Manufacturing,Machine Operator,11,Medium,Low,No,32260,35846,Unchanged,43,No,6,19.05
+E1453,38,Female,PhD,Retail,Cashier,14,High,High,No,117616,127688,Replaced,49,No,4,21.35
+E1454,56,Male,High School,Retail,Sales Associate,33,Medium,Medium,No,75213,74320,Modified,37,Yes,9,-3.36
+E1455,29,Female,Bachelor,Finance,Auditor,5,High,High,Yes,48961,48686,Modified,46,No,3,15.23
+E1456,51,Male,Bachelor,Retail,Store Manager,26,Medium,Medium,No,115013,137171,Modified,46,No,5,-0.01
+E1457,28,Male,High School,Healthcare,Technician,2,High,Medium,Yes,37045,51186,Modified,53,No,3,24.78
+E1458,57,Male,Bachelor,Healthcare,Technician,33,Low,Low,Yes,56844,61320,Unchanged,44,No,9,37.41
+E1459,47,Male,High School,Education,Administrator,21,Low,Low,No,70581,67091,Unchanged,46,Yes,8,-5.51
+E1460,22,Other,Master,Finance,Auditor,0,High,Low,Yes,32347,32675,Unchanged,54,Yes,9,7.13
+E1461,29,Other,Master,IT,Data Analyst,5,High,Low,No,82136,73094,Unchanged,48,No,6,14.31
+E1462,53,Female,High School,IT,Software Engineer,30,Low,Low,No,119710,121249,Unchanged,42,Yes,5,27.0
+E1463,26,Other,Master,Manufacturing,Supervisor,0,Low,Low,No,65999,71326,Unchanged,45,Yes,7,-18.18
+E1464,29,Other,PhD,Manufacturing,Machine Operator,7,Medium,Medium,Yes,61655,64686,Modified,47,Yes,5,5.2
+E1465,57,Male,High School,Marketing,SEO Specialist,33,Medium,High,No,58371,59782,Unchanged,47,No,3,-3.8
+E1466,49,Female,High School,Finance,Auditor,27,Low,Medium,No,39916,41438,Modified,48,No,8,-4.32
+E1467,22,Male,High School,Healthcare,Technician,0,Low,Medium,Yes,111614,107958,Modified,47,Yes,3,21.69
+E1468,36,Female,High School,Education,Administrator,14,Medium,Low,No,70761,71793,Unchanged,42,No,7,37.41
+E1469,44,Female,Bachelor,Retail,Cashier,18,High,High,No,65367,62898,Modified,41,No,9,28.21
+E1470,48,Other,PhD,Manufacturing,Quality Inspector,24,Medium,Medium,No,55989,51995,Modified,50,Yes,6,-18.65
+E1471,41,Male,PhD,Retail,Sales Associate,15,High,Medium,No,70639,93522,Modified,35,No,4,22.29
+E1472,50,Female,High School,Marketing,Content Creator,24,Medium,Low,Yes,62844,58641,Unchanged,38,Yes,7,5.17
+E1473,48,Male,PhD,Retail,Sales Associate,23,High,Medium,No,101524,86791,Modified,48,No,4,10.83
+E1474,33,Male,Master,Finance,Accountant,8,Low,Medium,No,32419,34684,Modified,35,No,6,33.92
+E1475,55,Male,High School,Manufacturing,Supervisor,30,Medium,High,No,36487,38920,Unchanged,43,Yes,5,-9.79
+E1476,36,Female,PhD,Education,Teacher,13,Low,Medium,Yes,116261,113122,Modified,51,No,7,24.0
+E1477,43,Female,Bachelor,Education,Administrator,17,Medium,High,Yes,105088,100428,Unchanged,41,No,4,19.1
+E1478,26,Male,PhD,IT,Data Analyst,1,Medium,Low,Yes,52063,53322,Unchanged,37,No,6,9.0
+E1479,36,Male,Bachelor,Marketing,Content Creator,10,Medium,Low,Yes,79725,90739,Unchanged,41,Yes,4,19.68
+E1480,29,Male,Bachelor,Marketing,Digital Marketer,7,High,Low,Yes,109834,139358,Unchanged,42,No,3,20.8
+E1481,36,Female,Bachelor,Marketing,SEO Specialist,10,Low,Medium,No,36050,37259,Modified,44,Yes,9,27.24
+E1482,49,Other,High School,Healthcare,Nurse,23,Medium,High,Yes,117363,139281,Unchanged,35,No,6,24.05
+E1483,26,Male,Master,Finance,Accountant,2,Low,High,Yes,92695,93594,Unchanged,54,No,9,10.82
+E1484,44,Other,PhD,Finance,Investment Analyst,19,Low,Medium,No,68108,65680,Modified,47,No,5,34.88
+E1485,42,Female,High School,Marketing,SEO Specialist,19,High,High,Yes,102683,116833,Modified,38,Yes,5,1.4
+E1486,44,Male,Master,Education,Teacher,18,High,Low,Yes,95587,127938,Unchanged,54,Yes,5,19.37
+E1487,28,Male,Master,Manufacturing,Quality Inspector,2,Low,Medium,No,36057,36892,Modified,43,No,6,-1.13
+E1488,37,Other,Bachelor,Education,Teacher,15,High,Medium,Yes,64293,58173,Modified,48,Yes,5,-8.08
+E1489,42,Female,Bachelor,IT,DevOps Engineer,18,Low,Low,No,53284,52001,Unchanged,54,No,6,0.67
+E1490,47,Male,PhD,Retail,Store Manager,24,Medium,Low,Yes,111490,110799,Unchanged,51,No,3,-13.65
+E1491,44,Other,Bachelor,IT,DevOps Engineer,21,Low,Low,Yes,82328,88060,Unchanged,37,Yes,5,12.28
+E1492,49,Female,High School,Manufacturing,Quality Inspector,25,Low,Medium,No,112533,113707,Modified,47,Yes,5,34.43
+E1493,32,Female,High School,Marketing,Digital Marketer,6,High,High,No,55792,56275,Replaced,37,No,9,11.23
+E1494,47,Female,PhD,IT,Data Analyst,21,High,High,Yes,78542,98309,Replaced,42,No,6,29.4
+E1495,46,Other,Master,IT,DevOps Engineer,22,High,High,No,116120,126898,Replaced,43,Yes,9,-10.71
+E1496,44,Other,Master,IT,DevOps Engineer,18,High,Medium,No,105700,147546,Modified,48,No,8,-13.63
+E1497,33,Male,High School,Finance,Investment Analyst,10,High,Medium,No,118090,130712,Modified,35,No,6,18.64
+E1498,49,Female,Bachelor,IT,Data Analyst,27,High,Medium,Yes,90162,118026,Modified,36,Yes,7,-18.78
+E1499,46,Male,Bachelor,Retail,Sales Associate,21,High,Low,No,89622,94846,Unchanged,44,Yes,8,8.03
+E1500,50,Female,Master,Finance,Accountant,28,Medium,High,Yes,57301,58606,Unchanged,45,No,5,-2.65
+E1501,40,Male,High School,Manufacturing,Quality Inspector,17,High,Medium,Yes,55230,73580,Modified,47,Yes,7,1.49
+E1502,25,Female,Bachelor,Education,Teacher,0,Medium,Low,No,35239,36367,Unchanged,46,No,7,-14.53
+E1503,32,Other,Bachelor,IT,Data Analyst,7,Medium,Medium,No,64674,76846,Modified,36,No,4,9.97
+E1504,46,Other,High School,Marketing,Content Creator,20,Low,High,Yes,89254,90076,Unchanged,36,Yes,5,37.2
+E1505,40,Female,High School,Marketing,Digital Marketer,16,Medium,High,Yes,80100,84056,Unchanged,44,Yes,5,13.25
+E1506,59,Male,PhD,Finance,Auditor,33,Medium,Low,No,102790,100288,Unchanged,44,No,9,28.64
+E1507,25,Male,Master,Marketing,SEO Specialist,2,High,Medium,No,117618,98333,Modified,44,Yes,5,-0.47
+E1508,49,Other,Master,Finance,Investment Analyst,27,Medium,Low,Yes,45003,45887,Unchanged,47,No,7,34.26
+E1509,32,Male,Bachelor,Education,Administrator,10,Low,Medium,Yes,63717,67093,Modified,39,No,9,5.0
+E1510,55,Female,Master,Marketing,Content Creator,33,High,Low,Yes,74331,60556,Unchanged,36,Yes,5,27.44
+E1511,49,Female,Bachelor,Retail,Sales Associate,26,Low,Low,No,45701,47568,Unchanged,46,No,6,37.77
+E1512,33,Other,High School,Retail,Sales Associate,9,High,Medium,No,88715,89594,Modified,40,Yes,3,17.65
+E1513,54,Other,High School,Finance,Auditor,29,High,Low,Yes,31626,41687,Unchanged,45,Yes,7,20.44
+E1514,55,Female,Bachelor,Education,Teacher,30,Medium,Low,Yes,64875,72346,Unchanged,37,No,4,29.98
+E1515,40,Female,Master,Retail,Sales Associate,18,Low,Low,No,46427,48921,Unchanged,38,Yes,3,33.0
+E1516,45,Male,PhD,Manufacturing,Machine Operator,19,High,Low,No,90289,84152,Unchanged,46,Yes,6,3.31
+E1517,33,Other,High School,Finance,Investment Analyst,9,Low,Low,No,40360,42372,Unchanged,45,Yes,7,-7.18
+E1518,48,Female,Bachelor,Healthcare,Technician,25,Low,Medium,No,50927,55847,Modified,48,Yes,6,-3.1
+E1519,23,Female,Bachelor,IT,DevOps Engineer,1,Medium,Low,Yes,83767,86098,Unchanged,37,Yes,9,-2.75
+E1520,36,Other,PhD,Manufacturing,Supervisor,13,Medium,Medium,No,45932,48456,Modified,54,Yes,6,10.28
+E1521,24,Male,Bachelor,Finance,Auditor,0,High,High,Yes,59250,80517,Modified,46,Yes,7,22.47
+E1522,38,Male,PhD,Retail,Cashier,13,High,Medium,No,75530,76795,Modified,40,No,9,-7.2
+E1523,46,Male,Master,Marketing,Digital Marketer,20,Medium,Medium,No,81357,85990,Modified,45,Yes,8,33.92
+E1524,42,Female,Bachelor,Healthcare,Nurse,20,Medium,High,No,92028,90031,Unchanged,49,Yes,7,12.28
+E1525,52,Female,Bachelor,Manufacturing,Machine Operator,28,High,Medium,Yes,45701,47841,Modified,50,Yes,4,36.86
+E1526,26,Other,PhD,IT,Data Analyst,4,Low,Low,No,45021,47989,Unchanged,44,Yes,8,0.34
+E1527,47,Female,Bachelor,Healthcare,Nurse,21,Low,Low,Yes,79004,80218,Unchanged,44,No,5,7.14
+E1528,52,Female,PhD,Education,Administrator,26,Low,High,No,33810,35508,Unchanged,51,No,8,33.75
+E1529,53,Male,Bachelor,Healthcare,Doctor,28,High,Low,No,36163,37686,Unchanged,49,Yes,4,-11.78
+E1530,22,Female,Bachelor,IT,DevOps Engineer,0,Medium,High,No,78348,88461,Unchanged,46,Yes,9,-4.5
+E1531,29,Female,PhD,Education,Teacher,4,Low,Low,Yes,89405,95232,Unchanged,50,Yes,7,-17.57
+E1532,28,Other,Bachelor,Finance,Accountant,4,High,Medium,Yes,88445,103672,Modified,54,No,7,-2.34
+E1533,57,Male,PhD,IT,Software Engineer,33,Low,High,No,79116,82604,Unchanged,42,Yes,9,-1.91
+E1534,59,Female,High School,Education,Administrator,36,High,Low,No,63615,75713,Unchanged,40,Yes,3,-0.26
+E1535,33,Other,Bachelor,Marketing,SEO Specialist,9,High,Low,Yes,32365,41038,Unchanged,47,No,7,20.0
+E1536,51,Other,Bachelor,Manufacturing,Quality Inspector,25,Medium,Low,No,61912,66372,Unchanged,36,Yes,6,31.22
+E1537,39,Male,PhD,Manufacturing,Supervisor,13,Medium,High,Yes,63298,66691,Unchanged,44,Yes,7,39.53
+E1538,43,Other,Bachelor,Finance,Auditor,17,High,Medium,No,51686,45819,Modified,48,No,8,35.22
+E1539,29,Female,PhD,Education,Professor,3,Low,Low,No,60226,62706,Unchanged,41,Yes,5,-13.71
+E1540,47,Male,PhD,Manufacturing,Supervisor,22,Low,Medium,No,30557,32345,Modified,42,Yes,5,29.96
+E1541,49,Female,PhD,Marketing,Digital Marketer,23,High,High,No,87500,88387,Modified,47,No,6,35.03
+E1542,26,Female,Master,Healthcare,Nurse,2,High,High,Yes,100202,89409,Modified,49,Yes,9,27.61
+E1543,52,Other,PhD,Education,Teacher,26,High,High,Yes,64928,88297,Replaced,35,No,8,36.3
+E1544,36,Female,Master,Education,Professor,11,High,High,No,48361,38899,Replaced,49,No,6,-16.35
+E1545,25,Female,Bachelor,Healthcare,Doctor,2,High,Low,No,38798,50797,Unchanged,54,Yes,3,-2.11
+E1546,29,Female,Master,Retail,Store Manager,7,Medium,High,No,117638,124480,Unchanged,36,Yes,7,-0.5
+E1547,25,Male,PhD,Education,Professor,0,Low,Medium,Yes,39649,41274,Modified,42,No,6,17.61
+E1548,59,Male,Master,IT,Software Engineer,36,High,High,Yes,106215,140573,Replaced,42,No,8,-7.06
+E1549,52,Male,PhD,Education,Teacher,30,High,Medium,No,81928,113454,Modified,47,Yes,5,16.23
+E1550,46,Male,High School,Finance,Accountant,22,Medium,High,Yes,77396,84818,Unchanged,45,Yes,3,10.14
+E1551,44,Female,Bachelor,Finance,Accountant,22,High,High,No,115782,117419,Replaced,47,Yes,6,-13.5
+E1552,55,Female,Master,Finance,Auditor,32,Low,High,Yes,80355,77398,Unchanged,42,Yes,3,33.61
+E1553,55,Male,Bachelor,Manufacturing,Supervisor,30,Low,Low,No,116478,127503,Unchanged,48,Yes,8,-13.13
+E1554,44,Female,PhD,Healthcare,Nurse,18,Medium,High,Yes,88806,85656,Unchanged,47,No,6,29.52
+E1555,41,Other,Bachelor,Manufacturing,Quality Inspector,19,Medium,High,No,66303,67600,Unchanged,36,Yes,9,-9.79
+E1556,59,Male,PhD,Education,Professor,33,Low,Low,Yes,68057,70391,Unchanged,44,No,9,-7.14
+E1557,36,Other,Master,Finance,Auditor,12,Low,Low,No,53752,56342,Unchanged,51,No,7,37.25
+E1558,30,Female,Bachelor,Education,Administrator,6,High,High,No,118406,102997,Replaced,35,Yes,8,15.79
+E1559,51,Other,Master,IT,Software Engineer,25,Medium,Low,No,59203,56270,Unchanged,47,Yes,9,21.63
+E1560,29,Male,Bachelor,Retail,Sales Associate,4,Low,Medium,No,105948,112647,Modified,50,Yes,4,18.92
+E1561,32,Female,High School,Education,Administrator,7,High,Low,Yes,49323,60231,Unchanged,52,Yes,7,30.14
+E1562,38,Other,High School,Education,Professor,14,Low,High,Yes,95408,99829,Unchanged,38,Yes,9,20.79
+E1563,49,Female,Master,Education,Teacher,24,Medium,High,No,89316,84815,Unchanged,47,No,6,38.66
+E1564,53,Other,High School,Finance,Accountant,27,Medium,Low,No,31614,30831,Unchanged,49,No,4,21.38
+E1565,27,Male,Master,Healthcare,Technician,5,High,High,Yes,79648,82944,Modified,39,Yes,9,-10.3
+E1566,54,Female,PhD,Education,Teacher,32,High,Low,No,52072,62260,Unchanged,48,No,5,34.87
+E1567,27,Other,High School,Retail,Cashier,3,Medium,Low,No,34960,37742,Unchanged,44,Yes,5,-2.45
+E1568,40,Other,High School,Healthcare,Technician,16,Low,High,Yes,47883,48972,Unchanged,44,Yes,5,-1.67
+E1569,55,Female,Master,Healthcare,Doctor,30,High,Medium,Yes,85031,73868,Modified,41,Yes,4,39.82
+E1570,47,Female,Bachelor,Healthcare,Nurse,24,Low,Low,No,63525,65688,Unchanged,44,Yes,7,-18.7
+E1571,37,Other,Master,IT,Software Engineer,15,Medium,Medium,No,30908,33696,Modified,42,No,7,39.08
+E1572,43,Female,Bachelor,Finance,Accountant,20,High,Low,Yes,79323,95051,Unchanged,38,Yes,4,9.39
+E1573,55,Female,Master,Healthcare,Technician,32,Low,Low,No,96351,99440,Unchanged,48,Yes,9,-17.55
+E1574,36,Other,High School,Marketing,SEO Specialist,14,Medium,High,Yes,87183,84437,Unchanged,37,No,9,-6.79
+E1575,36,Other,PhD,Manufacturing,Machine Operator,10,Low,Medium,No,94471,100728,Modified,50,Yes,9,3.56
+E1576,27,Male,High School,Marketing,Digital Marketer,4,Medium,High,No,63387,57628,Unchanged,36,Yes,3,-12.09
+E1577,48,Male,Bachelor,Marketing,Digital Marketer,22,Medium,Medium,No,102356,95402,Modified,41,Yes,4,19.61
+E1578,33,Female,High School,Marketing,SEO Specialist,11,High,Low,No,55976,68475,Unchanged,47,No,4,24.75
+E1579,56,Other,High School,Retail,Sales Associate,34,Low,Medium,No,94814,94757,Modified,47,No,8,-11.71
+E1580,26,Other,High School,Manufacturing,Machine Operator,1,Medium,Medium,No,119439,108977,Modified,52,Yes,7,2.73
+E1581,31,Other,Master,Marketing,Digital Marketer,5,High,Low,Yes,52488,56196,Unchanged,38,No,4,34.65
+E1582,27,Male,High School,Education,Professor,2,Low,High,No,78478,78371,Unchanged,40,Yes,4,22.97
+E1583,45,Other,Bachelor,Education,Professor,23,Low,Medium,No,82800,84035,Modified,52,No,7,9.58
+E1584,33,Female,Bachelor,Manufacturing,Quality Inspector,9,High,High,Yes,83871,83496,Replaced,46,No,5,8.54
+E1585,29,Female,PhD,Education,Teacher,4,High,Low,Yes,37470,49965,Unchanged,51,No,9,8.07
+E1586,53,Female,Master,Retail,Cashier,31,Low,Low,No,34300,36285,Unchanged,54,No,3,15.1
+E1587,38,Female,High School,Marketing,SEO Specialist,13,Low,Low,No,58804,61946,Unchanged,44,No,8,20.75
+E1588,49,Other,High School,Healthcare,Technician,27,High,Low,No,93146,111457,Unchanged,52,Yes,6,-0.63
+E1589,31,Other,High School,Healthcare,Nurse,8,High,High,Yes,32921,45331,Modified,40,Yes,5,10.69
+E1590,52,Female,PhD,Manufacturing,Supervisor,30,Low,Medium,No,88596,89604,Modified,51,No,4,12.65
+E1591,55,Male,PhD,Manufacturing,Machine Operator,32,Medium,Low,No,102467,107469,Unchanged,45,No,7,-9.85
+E1592,26,Male,High School,Education,Administrator,4,High,Medium,Yes,52320,49392,Modified,40,No,4,13.42
+E1593,35,Female,PhD,IT,DevOps Engineer,11,Medium,Low,Yes,99837,100892,Unchanged,44,No,3,37.6
+E1594,29,Female,Bachelor,Manufacturing,Supervisor,7,Medium,Low,No,104092,102602,Unchanged,39,Yes,6,-3.75
+E1595,38,Female,PhD,IT,Data Analyst,12,Low,Medium,No,76099,74575,Modified,53,No,7,-6.09
+E1596,24,Female,Master,IT,DevOps Engineer,2,Low,High,Yes,105166,102546,Unchanged,36,Yes,3,-9.13
+E1597,34,Female,Bachelor,Finance,Investment Analyst,8,Medium,Low,Yes,66776,79208,Unchanged,49,Yes,6,28.85
+E1598,57,Female,PhD,Healthcare,Technician,32,Medium,Medium,Yes,63289,72335,Modified,46,No,8,30.23
+E1599,24,Other,PhD,Healthcare,Nurse,2,Medium,Low,Yes,81550,94846,Unchanged,50,Yes,8,-12.44
+E1600,24,Male,High School,IT,Data Analyst,2,High,High,No,48932,43900,Modified,53,Yes,5,22.05
+E1601,33,Other,Bachelor,Marketing,Content Creator,7,High,High,Yes,53016,67739,Replaced,53,No,5,-19.77
+E1602,59,Female,Bachelor,Finance,Auditor,35,Low,Medium,No,94325,101586,Modified,44,Yes,5,-12.35
+E1603,25,Other,Bachelor,Manufacturing,Quality Inspector,3,Medium,High,Yes,40956,40133,Unchanged,53,Yes,5,33.97
+E1604,33,Male,Master,IT,Software Engineer,9,Low,Medium,Yes,86901,88400,Modified,44,Yes,5,-4.63
+E1605,24,Female,PhD,Retail,Cashier,0,Low,Medium,Yes,101835,100157,Modified,45,No,8,-16.66
+E1606,41,Other,PhD,Manufacturing,Quality Inspector,17,High,Medium,No,116879,128301,Modified,50,Yes,4,21.4
+E1607,34,Male,Master,Education,Teacher,10,High,Medium,No,69470,84917,Modified,52,Yes,9,9.55
+E1608,58,Other,Master,Education,Professor,32,Medium,Low,Yes,61704,70946,Unchanged,49,No,6,4.11
+E1609,50,Other,Bachelor,Manufacturing,Machine Operator,26,Medium,Medium,No,102793,99982,Modified,42,Yes,8,-9.86
+E1610,44,Female,Master,Healthcare,Nurse,18,Low,Low,No,41278,41905,Unchanged,50,No,3,-0.15
+E1611,40,Other,Bachelor,IT,Software Engineer,16,High,Medium,Yes,52191,50525,Modified,48,Yes,4,-11.24
+E1612,47,Male,High School,Retail,Store Manager,21,High,High,No,100022,119848,Modified,39,No,3,2.87
+E1613,25,Other,High School,IT,Software Engineer,0,High,High,Yes,111455,125354,Replaced,40,Yes,7,-18.58
+E1614,57,Male,Master,IT,Data Analyst,31,Low,Medium,No,95263,102157,Modified,43,No,6,36.09
+E1615,50,Female,Master,Healthcare,Nurse,25,Medium,High,Yes,77147,80248,Unchanged,52,No,7,17.59
+E1616,34,Female,High School,Marketing,SEO Specialist,11,Low,Medium,Yes,91344,94519,Modified,39,No,7,36.92
+E1617,27,Male,High School,Education,Professor,3,High,Medium,Yes,63071,53805,Modified,35,No,9,-18.42
+E1618,42,Other,Master,Marketing,Content Creator,18,High,Medium,Yes,106762,117769,Modified,36,No,6,24.88
+E1619,43,Male,Master,Marketing,SEO Specialist,21,High,High,No,60314,57975,Replaced,45,No,3,0.86
+E1620,46,Other,Bachelor,IT,Data Analyst,23,Low,High,No,104420,106921,Unchanged,42,Yes,5,27.15
+E1621,48,Female,Master,IT,DevOps Engineer,23,Low,High,Yes,52161,54374,Unchanged,39,No,4,9.93
+E1622,24,Male,PhD,Healthcare,Doctor,0,Medium,Medium,Yes,71552,85376,Modified,52,No,8,30.62
+E1623,59,Other,Master,Manufacturing,Quality Inspector,37,Medium,High,No,66394,70313,Unchanged,39,Yes,7,-11.73
+E1624,50,Female,PhD,Finance,Investment Analyst,25,Medium,High,Yes,33188,35745,Unchanged,45,No,6,21.72
+E1625,50,Female,Bachelor,Healthcare,Technician,26,Low,Low,No,87944,89774,Unchanged,50,Yes,5,2.97
+E1626,48,Male,PhD,Education,Administrator,23,High,Low,No,80304,79886,Unchanged,53,No,5,3.77
+E1627,47,Other,Bachelor,Finance,Investment Analyst,25,Low,High,Yes,68745,66114,Unchanged,46,No,8,27.29
+E1628,29,Male,Master,Marketing,SEO Specialist,6,Medium,High,No,30944,29600,Unchanged,40,Yes,7,-13.19
+E1629,45,Female,Bachelor,Retail,Store Manager,20,Medium,High,No,58114,66296,Unchanged,44,No,6,28.54
+E1630,34,Other,High School,Retail,Cashier,9,Medium,Medium,No,105726,102977,Modified,48,Yes,5,21.72
+E1631,39,Female,Master,Education,Administrator,13,Medium,Medium,No,56467,51319,Modified,43,Yes,9,-9.3
+E1632,22,Female,Bachelor,Manufacturing,Supervisor,0,High,Medium,Yes,79222,105045,Modified,37,Yes,7,34.75
+E1633,31,Other,PhD,Retail,Cashier,8,Low,Low,Yes,76022,73024,Unchanged,41,No,3,14.8
+E1634,48,Male,Master,Manufacturing,Quality Inspector,26,High,Medium,No,66355,72526,Modified,44,Yes,5,-18.65
+E1635,48,Other,PhD,Healthcare,Technician,24,Medium,High,No,105675,95457,Unchanged,51,Yes,8,-1.27
+E1636,51,Male,PhD,Education,Administrator,29,Low,Medium,No,76996,73772,Modified,46,No,3,15.8
+E1637,41,Other,Master,Finance,Auditor,19,High,Medium,No,86880,75258,Modified,47,No,5,8.07
+E1638,23,Other,Bachelor,Marketing,Digital Marketer,0,Low,Medium,No,61876,60759,Modified,51,No,7,16.97
+E1639,51,Other,Master,IT,Data Analyst,29,Medium,Medium,No,38507,37953,Modified,54,No,4,30.65
+E1640,26,Female,Master,IT,Software Engineer,3,Medium,High,No,75499,72226,Unchanged,45,No,8,22.07
+E1641,38,Male,Master,Manufacturing,Quality Inspector,12,Low,Medium,No,32389,34294,Modified,50,No,8,-6.21
+E1642,27,Other,PhD,Education,Professor,4,Medium,Low,Yes,83950,81536,Unchanged,54,No,7,2.79
+E1643,53,Female,PhD,Retail,Store Manager,30,Medium,High,No,77857,77620,Unchanged,38,Yes,8,-0.88
+E1644,43,Male,Bachelor,Healthcare,Technician,19,Medium,Medium,Yes,92583,107195,Modified,51,No,3,-4.62
+E1645,52,Male,PhD,Education,Professor,29,Medium,High,Yes,91161,100143,Unchanged,38,Yes,6,6.89
+E1646,47,Female,High School,Retail,Sales Associate,22,Medium,Medium,No,93472,110894,Modified,38,Yes,7,35.55
+E1647,44,Female,Bachelor,Manufacturing,Quality Inspector,18,Medium,Low,Yes,97143,90954,Unchanged,40,Yes,5,-9.88
+E1648,37,Female,Master,Marketing,Digital Marketer,11,Medium,High,No,50175,51123,Unchanged,52,Yes,7,-15.33
+E1649,24,Female,PhD,Marketing,Content Creator,0,Medium,High,No,105017,94760,Unchanged,49,Yes,3,25.18
+E1650,28,Male,High School,Marketing,SEO Specialist,3,High,Medium,Yes,84567,100008,Modified,49,Yes,7,-2.24
+E1651,27,Other,PhD,Finance,Accountant,2,Medium,Medium,No,55594,59572,Modified,40,No,4,15.03
+E1652,42,Male,High School,IT,Software Engineer,16,Low,Low,No,93226,98857,Unchanged,46,Yes,3,13.41
+E1653,58,Female,Bachelor,Healthcare,Technician,35,High,Low,No,78704,76573,Unchanged,45,No,7,-10.38
+E1654,39,Female,High School,Education,Administrator,17,High,High,No,119532,109181,Replaced,50,No,4,8.17
+E1655,38,Female,Master,Education,Administrator,13,Medium,High,No,80665,84471,Unchanged,47,Yes,6,37.97
+E1656,49,Female,Master,Manufacturing,Machine Operator,26,Low,Medium,Yes,92820,93156,Modified,54,No,7,23.77
+E1657,50,Other,PhD,Retail,Sales Associate,26,Medium,Medium,No,103802,106450,Modified,43,No,8,6.45
+E1658,30,Female,Master,IT,DevOps Engineer,6,High,Medium,Yes,99852,91068,Modified,46,No,8,0.76
+E1659,39,Male,High School,Healthcare,Nurse,14,Medium,High,No,31214,31781,Unchanged,44,No,6,4.98
+E1660,40,Other,Master,Manufacturing,Machine Operator,18,Medium,Medium,No,55538,55614,Modified,36,No,7,-1.4
+E1661,50,Other,Master,Marketing,SEO Specialist,28,Medium,High,No,102105,100322,Unchanged,52,No,7,10.43
+E1662,36,Male,Master,Manufacturing,Supervisor,11,Low,Low,Yes,56119,58213,Unchanged,46,Yes,4,-5.07
+E1663,54,Male,High School,Retail,Store Manager,31,High,Medium,Yes,47881,62530,Modified,49,Yes,4,9.38
+E1664,22,Other,Bachelor,Manufacturing,Quality Inspector,0,Low,High,Yes,85041,83422,Unchanged,44,No,4,21.24
+E1665,38,Other,Master,Finance,Accountant,15,Medium,Low,Yes,32786,31682,Unchanged,40,Yes,5,-3.54
+E1666,42,Other,PhD,Manufacturing,Machine Operator,16,Medium,Medium,No,39745,40791,Modified,38,Yes,8,-15.89
+E1667,45,Female,Bachelor,Education,Teacher,19,High,Medium,Yes,116089,123932,Modified,52,No,3,-6.52
+E1668,59,Male,High School,Manufacturing,Quality Inspector,33,Medium,Medium,No,57350,58075,Modified,44,Yes,5,9.87
+E1669,34,Male,PhD,Retail,Store Manager,9,High,Low,Yes,63800,70945,Unchanged,36,No,9,27.28
+E1670,26,Male,Bachelor,Healthcare,Doctor,3,Low,Low,Yes,70498,69551,Unchanged,42,No,3,-10.85
+E1671,45,Other,PhD,IT,Data Analyst,19,High,High,Yes,115366,99517,Replaced,51,Yes,7,38.96
+E1672,59,Female,Bachelor,Marketing,Content Creator,36,High,High,No,100423,91814,Modified,49,No,5,6.53
+E1673,34,Male,Master,Marketing,SEO Specialist,8,Medium,High,Yes,111311,111209,Unchanged,51,No,5,15.72
+E1674,25,Other,Bachelor,Retail,Sales Associate,0,Medium,Low,Yes,60482,69738,Unchanged,36,Yes,5,21.3
+E1675,44,Male,High School,Manufacturing,Supervisor,21,Low,High,Yes,43890,46967,Unchanged,44,No,5,35.1
+E1676,56,Male,Bachelor,IT,Software Engineer,34,Low,High,Yes,101975,101796,Unchanged,40,Yes,4,-12.07
+E1677,42,Female,Bachelor,Healthcare,Technician,18,Low,High,No,113312,124425,Unchanged,39,No,9,-0.92
+E1678,54,Male,Bachelor,IT,Data Analyst,29,Medium,Medium,Yes,60383,58418,Modified,49,No,4,11.17
+E1679,24,Female,PhD,Marketing,Content Creator,1,Medium,Low,Yes,47443,46435,Unchanged,51,No,8,-17.64
+E1680,48,Other,Bachelor,Retail,Store Manager,26,High,Medium,Yes,62210,66763,Modified,47,Yes,5,21.88
+E1681,47,Female,Master,Manufacturing,Machine Operator,21,High,Medium,Yes,61971,71141,Modified,41,No,6,36.88
+E1682,52,Other,Bachelor,IT,DevOps Engineer,26,Low,Medium,No,112256,107900,Modified,47,Yes,5,34.87
+E1683,47,Male,Master,Education,Administrator,24,Low,Medium,Yes,41217,41707,Modified,35,No,4,-4.61
+E1684,45,Female,PhD,Manufacturing,Machine Operator,23,Low,Low,Yes,31218,31499,Unchanged,37,No,5,30.79
+E1685,25,Male,High School,IT,Data Analyst,0,Low,Medium,Yes,48226,49663,Modified,35,Yes,9,28.54
+E1686,32,Male,PhD,Finance,Accountant,8,High,Medium,No,61740,67994,Modified,46,No,3,37.95
+E1687,31,Male,Bachelor,Healthcare,Technician,5,High,Medium,No,48413,44192,Modified,40,Yes,4,31.58
+E1688,34,Other,Master,Marketing,Content Creator,11,High,High,Yes,75924,61533,Replaced,41,Yes,6,24.03
+E1689,46,Female,PhD,IT,Software Engineer,22,Medium,Low,Yes,77403,87544,Unchanged,52,No,7,7.74
+E1690,29,Female,High School,Finance,Investment Analyst,3,Low,Low,Yes,105351,108849,Unchanged,50,No,6,14.52
+E1691,57,Other,Bachelor,IT,Data Analyst,32,High,Medium,Yes,39290,49069,Modified,39,No,8,8.18
+E1692,40,Female,Master,Finance,Accountant,17,Medium,High,Yes,115674,104743,Unchanged,42,No,8,-1.29
+E1693,25,Male,Master,Retail,Store Manager,0,Low,High,Yes,117211,120452,Unchanged,44,No,8,29.91
+E1694,35,Male,PhD,Retail,Store Manager,9,High,High,No,113816,154751,Replaced,38,Yes,4,0.71
+E1695,56,Other,Bachelor,IT,DevOps Engineer,33,High,Medium,Yes,50011,57268,Modified,53,Yes,4,39.12
+E1696,22,Male,PhD,Education,Teacher,0,Low,High,No,98879,103427,Unchanged,43,Yes,6,36.36
+E1697,36,Other,Master,Marketing,SEO Specialist,13,Medium,High,Yes,107066,122713,Unchanged,54,Yes,9,-17.32
+E1698,56,Female,Bachelor,Retail,Store Manager,33,Medium,Low,No,49056,49136,Unchanged,53,No,9,-9.46
+E1699,52,Other,High School,IT,Software Engineer,29,Medium,Medium,Yes,102999,100633,Modified,38,No,3,-17.91
+E1700,58,Other,High School,Education,Administrator,33,High,Low,No,73923,100737,Unchanged,54,Yes,3,12.54
+E1701,57,Female,Bachelor,Manufacturing,Supervisor,31,Low,Medium,No,59722,57031,Modified,43,Yes,6,-19.93
+E1702,53,Male,Bachelor,Healthcare,Nurse,30,High,Low,Yes,37711,36154,Unchanged,40,No,6,10.84
+E1703,22,Female,High School,Marketing,Digital Marketer,0,Medium,High,Yes,119848,119636,Unchanged,35,Yes,8,-11.85
+E1704,30,Male,Master,Retail,Cashier,5,High,Medium,Yes,62963,66584,Modified,41,No,4,-1.71
+E1705,34,Other,Bachelor,Education,Teacher,9,High,Medium,Yes,113441,127071,Modified,48,No,4,-13.21
+E1706,29,Male,Master,Retail,Sales Associate,5,Medium,Medium,No,30639,36372,Modified,46,Yes,3,21.81
+E1707,24,Female,Bachelor,IT,DevOps Engineer,1,Medium,High,Yes,64019,70074,Unchanged,50,No,9,23.29
+E1708,40,Female,High School,Healthcare,Nurse,14,High,High,No,90531,120342,Modified,50,Yes,3,14.49
+E1709,23,Other,Bachelor,IT,Data Analyst,0,Medium,Medium,No,40857,48003,Modified,47,Yes,3,-17.0
+E1710,37,Male,Bachelor,Finance,Auditor,15,Medium,Medium,No,76111,91252,Modified,48,Yes,6,27.24
+E1711,33,Male,Master,IT,Software Engineer,8,Medium,Low,Yes,72816,83342,Unchanged,53,No,3,-14.92
+E1712,49,Other,PhD,IT,DevOps Engineer,27,High,High,No,57289,47747,Modified,49,Yes,9,14.44
+E1713,59,Male,High School,Manufacturing,Machine Operator,33,Medium,High,Yes,53437,55841,Unchanged,40,Yes,7,0.16
+E1714,58,Female,Bachelor,Retail,Cashier,36,High,High,Yes,49455,67257,Modified,41,No,3,28.36
+E1715,58,Female,Bachelor,Healthcare,Nurse,32,High,Low,Yes,60215,49418,Unchanged,45,No,6,-2.71
+E1716,39,Male,High School,Marketing,Content Creator,17,Medium,Medium,Yes,59605,57397,Modified,47,Yes,9,15.95
+E1717,46,Female,Bachelor,Finance,Investment Analyst,21,High,Low,Yes,116173,122414,Unchanged,39,Yes,5,13.95
+E1718,37,Other,Bachelor,Education,Administrator,11,Low,Low,Yes,102153,101319,Unchanged,50,Yes,9,-9.18
+E1719,33,Male,PhD,IT,DevOps Engineer,10,Low,Medium,Yes,116426,123159,Modified,50,No,7,23.78
+E1720,50,Male,Bachelor,Finance,Investment Analyst,28,Low,High,No,117579,126906,Unchanged,43,Yes,9,24.56
+E1721,35,Male,Bachelor,Healthcare,Nurse,11,High,Medium,No,48676,66100,Modified,37,No,4,0.61
+E1722,37,Female,Master,Manufacturing,Quality Inspector,12,High,Low,No,41231,41102,Unchanged,40,Yes,5,34.49
+E1723,51,Other,Master,Finance,Auditor,29,Low,High,No,91517,88623,Unchanged,49,Yes,4,-7.28
+E1724,53,Other,Master,Healthcare,Doctor,27,Medium,High,Yes,40196,36423,Unchanged,37,No,6,11.31
+E1725,55,Other,Master,Education,Teacher,33,High,Medium,No,54111,72296,Modified,35,No,9,29.39
+E1726,39,Female,Master,IT,DevOps Engineer,14,Medium,Low,Yes,85038,86385,Unchanged,47,Yes,9,27.22
+E1727,35,Male,Master,Finance,Accountant,13,Low,High,No,46267,44327,Unchanged,54,No,7,-19.27
+E1728,41,Other,High School,Manufacturing,Supervisor,15,Medium,Medium,Yes,37235,36525,Modified,36,No,3,10.69
+E1729,51,Male,High School,Education,Teacher,28,Low,High,No,117218,118163,Unchanged,54,No,5,-4.92
+E1730,31,Female,PhD,Education,Professor,5,High,Low,No,31942,38334,Unchanged,47,No,4,-5.96
+E1731,48,Female,High School,Education,Administrator,25,Medium,High,No,38983,40836,Unchanged,47,Yes,4,13.93
+E1732,23,Male,Master,Education,Professor,0,High,Low,Yes,32673,27444,Unchanged,36,No,9,38.56
+E1733,58,Female,PhD,Finance,Auditor,33,Medium,Low,Yes,43665,45656,Unchanged,53,No,6,29.81
+E1734,45,Male,High School,IT,Software Engineer,20,Medium,High,Yes,39638,39384,Unchanged,53,Yes,8,34.59
+E1735,56,Male,Master,Marketing,SEO Specialist,34,Low,Low,No,32466,32426,Unchanged,40,Yes,6,8.27
+E1736,38,Female,High School,Healthcare,Nurse,16,Low,High,Yes,85309,92528,Unchanged,39,No,7,36.8
+E1737,53,Male,Master,Marketing,Digital Marketer,28,Medium,Medium,Yes,57684,67740,Modified,53,No,9,25.07
+E1738,30,Other,Bachelor,Finance,Investment Analyst,8,Low,Low,No,106882,113769,Unchanged,45,No,8,25.57
+E1739,25,Female,PhD,IT,DevOps Engineer,3,Low,Low,No,92919,95101,Unchanged,45,Yes,8,-18.07
+E1740,59,Male,High School,Education,Administrator,33,Low,High,No,62788,68747,Unchanged,42,No,9,16.25
+E1741,29,Other,PhD,Finance,Investment Analyst,4,Low,High,No,89719,85395,Unchanged,50,Yes,3,-17.94
+E1742,34,Other,Bachelor,Finance,Accountant,9,Medium,High,No,34314,32964,Unchanged,51,Yes,5,-3.79
+E1743,23,Other,PhD,Education,Teacher,0,Medium,High,Yes,46352,55057,Unchanged,39,No,3,-7.51
+E1744,41,Male,High School,Manufacturing,Machine Operator,15,High,Medium,Yes,32853,44455,Modified,37,No,8,-11.55
+E1745,47,Other,PhD,Finance,Accountant,23,High,Medium,No,103927,106075,Modified,53,No,6,-18.47
+E1746,37,Female,Bachelor,IT,Data Analyst,11,Medium,Low,Yes,36611,40633,Unchanged,54,No,6,7.95
+E1747,55,Male,Bachelor,Marketing,Content Creator,32,High,Medium,No,92077,116487,Modified,51,Yes,7,11.61
+E1748,46,Female,High School,Healthcare,Doctor,23,Low,High,No,50662,52560,Unchanged,49,No,7,-6.2
+E1749,34,Other,High School,Retail,Sales Associate,9,High,Medium,No,110140,137206,Modified,53,No,7,33.99
+E1750,58,Male,Master,Education,Professor,35,High,High,No,46693,39784,Modified,53,No,9,0.22
+E1751,57,Other,Bachelor,Education,Teacher,34,Low,Medium,No,96330,99869,Modified,36,Yes,4,-4.45
+E1752,37,Male,Bachelor,Marketing,Content Creator,15,Low,Medium,Yes,47358,50097,Modified,48,No,8,26.02
+E1753,35,Male,High School,Manufacturing,Quality Inspector,13,Low,Low,Yes,34369,32975,Unchanged,50,Yes,9,-13.53
+E1754,53,Female,Master,Finance,Auditor,28,High,Low,No,37450,48563,Unchanged,44,No,9,2.97
+E1755,38,Other,High School,Marketing,Digital Marketer,16,High,High,Yes,85779,77276,Modified,36,No,7,38.33
+E1756,44,Male,PhD,Marketing,SEO Specialist,22,High,High,Yes,80877,98817,Replaced,54,No,9,-6.64
+E1757,56,Male,PhD,IT,DevOps Engineer,32,Medium,Low,No,78929,75005,Unchanged,53,No,8,-4.23
+E1758,44,Male,Master,Finance,Accountant,20,Low,Low,No,113576,109502,Unchanged,52,No,8,-9.7
+E1759,53,Male,High School,IT,Software Engineer,27,High,Low,Yes,72407,58382,Unchanged,50,Yes,9,39.42
+E1760,43,Female,Master,Finance,Accountant,19,Medium,Medium,No,33454,38752,Modified,36,Yes,8,-11.27
+E1761,59,Male,Bachelor,IT,Data Analyst,37,Medium,High,Yes,69963,72092,Unchanged,43,No,9,-7.95
+E1762,57,Other,Master,Education,Teacher,35,High,High,Yes,52787,62031,Replaced,48,No,9,29.64
+E1763,45,Male,PhD,Manufacturing,Machine Operator,22,Low,High,Yes,93308,95211,Unchanged,46,No,7,35.48
+E1764,50,Female,High School,Education,Administrator,25,Medium,Medium,No,42877,50090,Modified,54,No,6,33.29
+E1765,42,Other,Bachelor,Finance,Accountant,19,Medium,Low,No,40534,39401,Unchanged,54,No,6,-3.19
+E1766,42,Male,High School,Finance,Auditor,17,Medium,Low,No,69823,71935,Unchanged,37,No,6,-12.13
+E1767,50,Male,Master,Retail,Cashier,27,Low,Medium,No,45954,46356,Modified,51,Yes,6,34.93
+E1768,36,Other,PhD,Finance,Accountant,14,Medium,Low,No,84081,88238,Unchanged,36,Yes,5,7.46
+E1769,30,Female,Bachelor,Retail,Sales Associate,8,High,High,No,47868,45256,Modified,49,No,4,-8.94
+E1770,28,Male,Master,Retail,Sales Associate,5,Low,Low,Yes,113749,120476,Unchanged,41,Yes,4,20.76
+E1771,38,Male,Bachelor,Finance,Accountant,13,High,Medium,No,37970,49720,Modified,43,Yes,7,32.48
+E1772,39,Other,Bachelor,Education,Professor,13,Medium,High,Yes,104095,109924,Unchanged,54,Yes,7,20.8
+E1773,42,Male,Bachelor,Manufacturing,Supervisor,18,High,Medium,Yes,94274,89268,Modified,45,No,5,22.99
+E1774,26,Other,PhD,Marketing,SEO Specialist,1,High,Medium,No,86488,106703,Modified,49,Yes,7,18.67
+E1775,42,Other,High School,Manufacturing,Quality Inspector,17,Medium,Low,Yes,31942,36904,Unchanged,41,No,4,20.86
+E1776,51,Female,PhD,Manufacturing,Quality Inspector,25,Low,Low,Yes,111981,119551,Unchanged,39,Yes,6,17.35
+E1777,54,Other,Master,Healthcare,Doctor,28,Low,High,Yes,84862,89261,Unchanged,47,Yes,8,23.51
+E1778,50,Other,Master,Retail,Store Manager,27,Low,Low,Yes,44568,46832,Unchanged,35,Yes,6,16.43
+E1779,41,Other,High School,Manufacturing,Quality Inspector,16,Low,Low,No,82948,82914,Unchanged,37,Yes,8,31.63
+E1780,40,Male,Bachelor,Manufacturing,Quality Inspector,14,Medium,Low,Yes,33729,34596,Unchanged,41,Yes,6,-18.98
+E1781,50,Other,PhD,Retail,Store Manager,25,High,High,Yes,95642,94772,Modified,43,Yes,6,-4.0
+E1782,31,Other,Master,IT,Data Analyst,5,Low,Low,Yes,99786,109527,Unchanged,52,No,7,-18.81
+E1783,54,Other,PhD,Retail,Cashier,28,Low,Medium,Yes,68187,68898,Modified,36,Yes,9,36.11
+E1784,51,Other,Master,Finance,Accountant,27,High,Medium,Yes,104486,88855,Modified,41,Yes,3,20.89
+E1785,22,Female,Master,Healthcare,Doctor,0,Medium,High,No,77458,91889,Unchanged,46,Yes,8,35.28
+E1786,51,Other,High School,Retail,Store Manager,26,High,High,Yes,48394,51268,Modified,39,No,3,38.76
+E1787,48,Female,Bachelor,Retail,Sales Associate,23,Low,Medium,Yes,81993,85079,Modified,35,Yes,8,-17.09
+E1788,49,Male,PhD,Retail,Store Manager,26,Medium,High,No,83817,84857,Unchanged,54,No,3,35.53
+E1789,34,Female,Master,Marketing,SEO Specialist,12,High,High,Yes,86132,77382,Replaced,48,No,8,37.33
+E1790,44,Other,PhD,Finance,Accountant,20,Low,Medium,Yes,56014,53273,Modified,46,No,8,-1.0
+E1791,23,Male,Master,Healthcare,Nurse,0,Medium,High,Yes,76326,88708,Unchanged,40,No,9,1.54
+E1792,36,Male,High School,Marketing,Digital Marketer,12,Medium,High,Yes,71751,70587,Unchanged,36,No,7,2.08
+E1793,35,Female,Bachelor,Marketing,Digital Marketer,13,High,High,No,93825,77680,Modified,47,Yes,4,-19.74
+E1794,33,Female,PhD,Marketing,Content Creator,10,Medium,Medium,Yes,73016,85706,Modified,42,No,5,-8.43
+E1795,45,Female,PhD,Retail,Store Manager,22,High,High,Yes,56567,52839,Replaced,47,Yes,8,22.34
+E1796,35,Female,Master,IT,DevOps Engineer,13,Low,High,No,113301,111030,Unchanged,35,No,3,-5.46
+E1797,36,Other,Bachelor,IT,Data Analyst,11,Low,Low,Yes,79979,82937,Unchanged,36,Yes,5,-14.66
+E1798,46,Male,High School,Education,Professor,23,Medium,Low,No,102717,105296,Unchanged,40,No,4,1.03
+E1799,51,Male,PhD,Retail,Cashier,29,Medium,Low,Yes,39821,41280,Unchanged,51,Yes,4,29.77
+E1800,37,Male,Bachelor,Manufacturing,Supervisor,14,High,High,Yes,54647,60799,Modified,38,No,3,9.26
+E1801,41,Male,PhD,Manufacturing,Machine Operator,17,Medium,High,No,100605,115326,Unchanged,37,No,7,6.13
+E1802,59,Male,Bachelor,Education,Teacher,36,High,Low,No,103511,89042,Unchanged,53,Yes,9,18.03
+E1803,56,Other,Master,Finance,Auditor,34,Low,High,No,50128,50105,Unchanged,48,Yes,6,6.88
+E1804,59,Other,Master,Retail,Store Manager,34,High,Low,No,49547,68491,Unchanged,49,Yes,6,13.3
+E1805,24,Other,Master,Marketing,Digital Marketer,0,Low,Low,No,32606,34071,Unchanged,38,No,4,-16.82
+E1806,33,Female,PhD,Retail,Sales Associate,10,Medium,High,Yes,62400,72167,Unchanged,43,No,5,19.49
+E1807,42,Male,PhD,Manufacturing,Supervisor,18,Low,Low,No,114335,110855,Unchanged,46,Yes,9,38.54
+E1808,26,Female,Master,Healthcare,Technician,4,High,Low,No,101540,120613,Unchanged,54,Yes,4,12.72
+E1809,31,Female,PhD,Finance,Auditor,7,Low,High,Yes,47175,47811,Unchanged,35,Yes,8,17.57
+E1810,55,Other,Master,Healthcare,Doctor,31,High,Medium,Yes,59022,76178,Modified,45,No,4,14.07
+E1811,41,Male,Bachelor,Education,Teacher,15,Medium,Medium,No,85916,79191,Modified,38,No,6,-2.28
+E1812,23,Male,Bachelor,Education,Teacher,0,High,High,Yes,111049,99318,Modified,40,Yes,5,18.57
+E1813,59,Female,High School,Finance,Investment Analyst,35,High,High,No,84499,105407,Replaced,40,No,7,-7.68
+E1814,25,Female,PhD,IT,DevOps Engineer,0,Medium,Medium,Yes,118131,111731,Modified,48,Yes,5,-15.02
+E1815,50,Other,PhD,Marketing,SEO Specialist,27,Medium,Medium,Yes,33447,32983,Modified,45,No,6,10.04
+E1816,37,Male,Bachelor,Marketing,Digital Marketer,14,Medium,Low,No,72213,78497,Unchanged,42,Yes,8,0.62
+E1817,48,Male,High School,IT,DevOps Engineer,24,Medium,Medium,No,40712,44910,Modified,52,Yes,6,8.56
+E1818,44,Female,Master,Finance,Accountant,20,Low,Medium,No,66972,72469,Modified,44,No,4,-0.36
+E1819,34,Female,Master,Manufacturing,Machine Operator,8,Low,Medium,No,107413,102368,Modified,47,No,7,11.44
+E1820,35,Other,Master,Education,Administrator,9,High,Medium,Yes,37240,30167,Modified,37,No,9,11.21
+E1821,54,Male,High School,Healthcare,Doctor,30,Low,High,No,117329,119136,Unchanged,48,No,3,17.39
+E1822,40,Male,Bachelor,Finance,Auditor,16,Medium,Medium,No,68197,70285,Modified,53,No,5,-2.32
+E1823,40,Male,Bachelor,Finance,Investment Analyst,18,High,Medium,Yes,30434,28954,Modified,39,Yes,8,4.88
+E1824,29,Other,Bachelor,IT,Software Engineer,6,Low,High,No,69115,72165,Unchanged,44,No,5,-0.69
+E1825,41,Other,High School,Finance,Investment Analyst,15,Low,Low,Yes,90669,90267,Unchanged,36,Yes,7,10.57
+E1826,43,Other,Bachelor,Marketing,Digital Marketer,19,Medium,Low,No,75891,68901,Unchanged,49,Yes,6,24.35
+E1827,30,Male,Master,Finance,Accountant,4,Medium,Medium,Yes,47974,52381,Modified,51,No,9,-15.97
+E1828,30,Female,Bachelor,Manufacturing,Machine Operator,8,Medium,Medium,Yes,97136,96814,Modified,40,Yes,6,13.47
+E1829,47,Other,High School,IT,DevOps Engineer,22,Low,Low,Yes,73815,76757,Unchanged,38,Yes,5,39.53
+E1830,42,Male,PhD,IT,DevOps Engineer,19,High,Low,No,72082,82860,Unchanged,40,Yes,7,-15.74
+E1831,59,Male,Master,IT,Software Engineer,36,Medium,High,Yes,96332,103947,Unchanged,51,No,3,5.67
+E1832,39,Female,High School,Manufacturing,Supervisor,17,Low,Medium,No,57044,61204,Modified,50,Yes,6,29.52
+E1833,41,Female,High School,Manufacturing,Quality Inspector,19,Low,Low,No,65200,65076,Unchanged,43,No,8,19.53
+E1834,40,Other,Master,Marketing,SEO Specialist,14,High,Medium,No,93853,97714,Modified,41,No,6,14.54
+E1835,33,Female,Bachelor,Finance,Auditor,9,High,Medium,No,61661,81082,Modified,52,Yes,6,-1.41
+E1836,56,Female,Bachelor,Education,Teacher,33,Medium,High,No,107605,113667,Unchanged,54,No,3,39.83
+E1837,36,Other,Master,Manufacturing,Quality Inspector,10,Medium,High,No,83013,89412,Unchanged,48,Yes,5,17.8
+E1838,59,Female,Master,Finance,Investment Analyst,36,High,High,No,105911,99018,Replaced,45,Yes,6,-3.71
+E1839,27,Male,Bachelor,Healthcare,Nurse,2,Medium,Low,No,83790,85713,Unchanged,43,No,4,39.45
+E1840,38,Female,Master,IT,DevOps Engineer,13,Low,High,Yes,117084,119609,Unchanged,40,No,5,-10.34
+E1841,51,Male,Bachelor,Marketing,Digital Marketer,26,High,Medium,No,78328,103066,Modified,54,Yes,6,22.01
+E1842,23,Male,PhD,Manufacturing,Supervisor,0,High,High,No,82771,94216,Modified,43,Yes,8,-7.36
+E1843,22,Female,PhD,Retail,Store Manager,0,Low,Low,No,68862,74956,Unchanged,48,No,8,5.04
+E1844,35,Male,Master,Manufacturing,Supervisor,9,High,High,No,108766,136079,Replaced,39,No,7,-11.6
+E1845,49,Other,Master,Retail,Sales Associate,24,High,High,Yes,77475,68233,Modified,38,Yes,8,-9.63
+E1846,47,Male,High School,Finance,Investment Analyst,22,Low,Medium,Yes,78398,79145,Modified,46,No,4,-1.8
+E1847,36,Other,High School,IT,Data Analyst,10,Medium,Low,No,98623,99657,Unchanged,43,No,8,1.84
+E1848,48,Male,High School,Education,Professor,26,High,Low,Yes,33491,32128,Unchanged,35,Yes,3,14.31
+E1849,37,Other,PhD,Finance,Accountant,14,Low,Medium,No,78155,77656,Modified,46,Yes,5,21.25
+E1850,46,Other,High School,Finance,Auditor,23,Medium,High,No,77940,79322,Unchanged,44,No,9,1.74
+E1851,28,Male,PhD,Retail,Sales Associate,3,High,Medium,No,72340,83915,Modified,49,No,4,-9.15
+E1852,45,Other,Bachelor,Retail,Store Manager,22,Medium,Low,Yes,96940,103672,Unchanged,44,No,3,8.23
+E1853,35,Other,Bachelor,Finance,Accountant,12,High,High,Yes,119711,138070,Modified,50,No,4,-11.65
+E1854,30,Male,High School,Healthcare,Technician,8,Low,Medium,Yes,106759,104697,Modified,45,Yes,9,-9.11
+E1855,49,Male,Bachelor,Healthcare,Technician,25,High,Medium,Yes,79451,72532,Modified,43,Yes,5,-2.88
+E1856,34,Other,Master,Marketing,Digital Marketer,12,Low,High,Yes,66719,66363,Unchanged,51,No,7,7.35
+E1857,39,Female,PhD,Retail,Store Manager,14,Low,High,No,69925,66833,Unchanged,48,No,9,-12.3
+E1858,33,Female,Bachelor,Education,Administrator,8,Low,Medium,Yes,113766,120490,Modified,38,Yes,4,2.24
+E1859,24,Male,PhD,Finance,Investment Analyst,2,Low,Low,Yes,45376,49791,Unchanged,39,No,5,-14.23
+E1860,55,Other,High School,Manufacturing,Machine Operator,31,High,Medium,Yes,96480,82620,Modified,41,No,5,19.56
+E1861,59,Other,Bachelor,Finance,Accountant,36,Medium,Medium,No,103905,121502,Modified,48,Yes,8,-5.45
+E1862,46,Other,Master,Manufacturing,Quality Inspector,21,Medium,Medium,Yes,97310,98256,Modified,35,No,4,36.98
+E1863,41,Other,High School,IT,Data Analyst,18,High,High,Yes,37802,49549,Replaced,42,No,3,-10.07
+E1864,54,Female,Master,Healthcare,Technician,29,High,Medium,No,49014,49920,Modified,45,No,4,31.14
+E1865,46,Female,High School,Manufacturing,Quality Inspector,24,Low,Medium,No,36066,36870,Modified,54,Yes,5,26.99
+E1866,38,Other,Bachelor,Retail,Cashier,12,High,Medium,No,114954,145565,Modified,42,Yes,7,-6.26
+E1867,40,Female,PhD,Finance,Auditor,15,High,High,Yes,70379,92945,Modified,44,No,4,7.06
+E1868,31,Male,Bachelor,Marketing,Digital Marketer,6,High,Low,Yes,116479,103951,Unchanged,48,Yes,5,18.79
+E1869,42,Other,Master,Healthcare,Doctor,20,Medium,High,No,90263,106542,Unchanged,47,No,3,38.61
+E1870,40,Other,High School,Education,Administrator,15,Medium,High,No,81142,88748,Unchanged,40,No,4,-12.94
+E1871,23,Male,Bachelor,Education,Teacher,0,High,Medium,No,37903,41067,Modified,39,No,9,21.9
+E1872,33,Female,Master,Marketing,SEO Specialist,9,Medium,High,Yes,53901,52876,Unchanged,50,No,6,20.08
+E1873,34,Other,High School,Healthcare,Doctor,9,High,High,Yes,89817,98466,Replaced,37,No,3,-1.27
+E1874,32,Female,Master,Retail,Store Manager,8,Low,Low,Yes,114437,110174,Unchanged,54,No,5,-6.8
+E1875,42,Other,PhD,Marketing,Content Creator,19,Medium,High,Yes,102597,108006,Unchanged,39,No,5,6.0
+E1876,22,Female,PhD,Retail,Sales Associate,0,High,Medium,Yes,88473,88873,Modified,41,No,6,4.51
+E1877,26,Other,Master,IT,Data Analyst,4,High,High,No,108229,109390,Modified,50,No,5,30.23
+E1878,31,Female,Bachelor,Education,Teacher,8,Low,Low,No,62286,61893,Unchanged,40,Yes,5,2.34
+E1879,23,Female,Bachelor,Healthcare,Technician,0,High,Low,Yes,105396,104631,Unchanged,37,Yes,8,1.38
+E1880,58,Male,Bachelor,IT,Data Analyst,34,High,High,Yes,116623,155556,Replaced,42,Yes,6,22.02
+E1881,55,Male,High School,Retail,Sales Associate,30,Low,Medium,No,78657,79537,Modified,43,No,4,-13.59
+E1882,59,Female,PhD,Retail,Store Manager,37,High,High,No,46442,42287,Replaced,53,No,8,-13.61
+E1883,42,Female,PhD,Education,Professor,18,Low,Medium,Yes,36641,37593,Modified,49,Yes,9,37.98
+E1884,35,Female,PhD,Education,Teacher,9,Medium,Medium,No,47223,54607,Modified,51,Yes,5,8.28
+E1885,26,Male,Master,Retail,Sales Associate,1,High,Medium,No,57215,65937,Modified,36,Yes,9,33.35
+E1886,35,Male,Bachelor,Retail,Cashier,12,Low,Medium,Yes,109036,109716,Modified,42,Yes,7,17.55
+E1887,50,Female,Master,Marketing,SEO Specialist,26,High,Low,Yes,111008,139659,Unchanged,53,No,8,10.65
+E1888,55,Female,Bachelor,IT,Data Analyst,33,Low,Medium,Yes,116219,112293,Modified,52,No,5,10.39
+E1889,39,Female,PhD,Education,Teacher,13,High,Medium,Yes,62735,69953,Modified,52,No,9,2.12
+E1890,38,Female,Bachelor,Education,Administrator,13,Low,Medium,Yes,86289,93755,Modified,53,Yes,7,-1.75
+E1891,56,Other,High School,Marketing,Content Creator,31,High,Medium,Yes,59164,60626,Modified,54,Yes,8,-15.15
+E1892,37,Female,Master,IT,Software Engineer,12,High,High,No,78599,90844,Modified,38,No,3,25.36
+E1893,23,Other,Bachelor,Marketing,Digital Marketer,0,High,Medium,No,33577,44096,Modified,53,No,8,-14.49
+E1894,45,Other,Master,Manufacturing,Supervisor,20,High,High,No,86680,72785,Modified,53,Yes,9,-7.04
+E1895,40,Other,Master,Marketing,Digital Marketer,18,Low,Medium,Yes,102489,109507,Modified,40,Yes,6,19.37
+E1896,26,Female,Master,IT,Data Analyst,4,High,High,Yes,41094,43095,Modified,45,No,9,30.53
+E1897,32,Other,Master,Education,Administrator,6,Medium,High,Yes,89021,101668,Unchanged,52,No,5,-2.36
+E1898,39,Female,Master,Retail,Store Manager,16,High,Medium,Yes,64555,75241,Modified,50,Yes,4,-3.51
+E1899,51,Female,High School,Manufacturing,Supervisor,28,Medium,Low,Yes,42318,38408,Unchanged,51,No,4,25.01
+E1900,56,Other,High School,Finance,Investment Analyst,33,Medium,Low,No,109968,118009,Unchanged,54,No,9,32.38
+E1901,24,Female,High School,Manufacturing,Machine Operator,0,Medium,High,Yes,55727,57394,Unchanged,40,No,6,-8.48
+E1902,57,Male,Bachelor,Manufacturing,Supervisor,31,Medium,Low,No,33881,32960,Unchanged,52,No,5,-0.57
+E1903,23,Male,High School,Retail,Store Manager,0,Low,Low,Yes,89402,85711,Unchanged,49,No,5,35.75
+E1904,32,Other,Bachelor,Retail,Store Manager,7,High,High,No,34507,38929,Replaced,45,Yes,5,-8.77
+E1905,49,Male,Bachelor,Finance,Auditor,27,Low,Low,Yes,55530,54108,Unchanged,36,Yes,6,4.46
+E1906,23,Other,High School,Manufacturing,Supervisor,0,Medium,Medium,Yes,82044,86728,Modified,45,Yes,8,9.12
+E1907,51,Male,Master,IT,Software Engineer,28,Low,Medium,Yes,52525,50627,Modified,51,No,8,23.3
+E1908,40,Other,High School,IT,Software Engineer,18,Medium,Medium,No,85715,96176,Modified,48,Yes,5,6.89
+E1909,57,Female,PhD,Marketing,Content Creator,32,Low,Medium,Yes,35539,37454,Modified,46,Yes,7,15.53
+E1910,51,Female,Master,Education,Administrator,26,Low,Low,No,114766,109768,Unchanged,39,Yes,8,32.2
+E1911,26,Male,Bachelor,Healthcare,Nurse,2,High,Low,Yes,110730,134356,Unchanged,43,Yes,9,-9.5
+E1912,53,Male,High School,Manufacturing,Machine Operator,29,Medium,High,No,107582,113537,Unchanged,53,Yes,3,33.44
+E1913,49,Female,PhD,Retail,Sales Associate,27,Medium,Low,Yes,92866,92349,Unchanged,49,Yes,4,-16.86
+E1914,44,Female,High School,IT,Data Analyst,20,High,Low,No,111981,135008,Unchanged,54,No,4,1.42
+E1915,50,Male,Master,Healthcare,Nurse,27,Low,Low,No,119976,118542,Unchanged,54,No,7,32.5
+E1916,53,Female,PhD,Marketing,Digital Marketer,30,High,Low,Yes,86878,116176,Unchanged,38,Yes,6,-16.97
+E1917,24,Other,Master,Retail,Store Manager,0,Low,Medium,No,52580,54418,Modified,35,Yes,8,-11.04
+E1918,28,Male,Master,Manufacturing,Supervisor,4,Medium,High,Yes,37851,37164,Unchanged,47,Yes,4,-19.85
+E1919,33,Male,Master,Healthcare,Doctor,7,Low,Low,Yes,92805,96941,Unchanged,46,No,5,11.79
+E1920,59,Other,Master,Finance,Auditor,35,High,Medium,Yes,69423,94039,Modified,36,No,9,22.74
+E1921,58,Male,Bachelor,Healthcare,Nurse,36,High,Low,Yes,66725,69647,Unchanged,52,Yes,7,-9.99
+E1922,50,Male,Bachelor,Healthcare,Doctor,28,High,Low,No,82433,72482,Unchanged,38,Yes,3,15.73
+E1923,44,Female,High School,Education,Professor,18,Medium,Medium,No,48782,47585,Modified,49,Yes,7,-3.68
+E1924,36,Other,PhD,Retail,Store Manager,13,High,High,No,50977,42284,Modified,40,Yes,4,0.08
+E1925,48,Female,Master,Healthcare,Technician,26,Low,Low,Yes,96836,105235,Unchanged,36,No,8,2.1
+E1926,36,Female,High School,IT,Data Analyst,11,High,Medium,Yes,110291,124484,Modified,47,Yes,5,24.6
+E1927,56,Other,Master,Marketing,Digital Marketer,30,High,High,No,92670,95354,Modified,38,No,7,17.08
+E1928,24,Other,High School,Manufacturing,Supervisor,1,Low,High,No,104258,106088,Unchanged,47,No,9,18.8
+E1929,33,Female,Bachelor,Marketing,Content Creator,7,High,Low,Yes,76221,76174,Unchanged,53,Yes,6,8.23
+E1930,29,Female,Bachelor,Healthcare,Doctor,3,Medium,Low,No,109538,131095,Unchanged,54,No,8,-3.65
+E1931,52,Female,Master,Healthcare,Technician,28,Low,High,No,77310,78197,Unchanged,44,No,4,18.04
+E1932,54,Other,Master,Manufacturing,Quality Inspector,30,High,Low,Yes,88249,116174,Unchanged,46,Yes,3,37.18
+E1933,34,Male,PhD,Healthcare,Nurse,9,Medium,Low,No,34920,36967,Unchanged,39,Yes,6,25.23
+E1934,42,Male,PhD,IT,DevOps Engineer,17,Medium,Medium,No,36450,39871,Modified,45,No,8,-17.91
+E1935,27,Female,Bachelor,Manufacturing,Machine Operator,5,Low,Low,Yes,39664,43048,Unchanged,35,Yes,8,10.5
+E1936,55,Male,High School,Healthcare,Technician,31,High,High,No,36402,49848,Modified,54,Yes,7,36.41
+E1937,23,Female,Master,Education,Teacher,0,High,High,No,115470,138147,Modified,40,No,9,1.87
+E1938,49,Male,Bachelor,Marketing,Content Creator,27,Low,High,Yes,107853,114941,Unchanged,51,Yes,4,-18.79
+E1939,43,Male,High School,Marketing,Content Creator,21,High,High,Yes,49727,57966,Replaced,52,Yes,5,2.07
+E1940,53,Male,Master,Finance,Accountant,27,High,Medium,Yes,103678,94116,Modified,51,No,6,19.76
+E1941,44,Other,PhD,Marketing,Content Creator,19,Medium,Medium,Yes,41202,46498,Modified,48,No,9,-0.25
+E1942,38,Female,Master,Education,Administrator,12,Medium,High,No,110946,116021,Unchanged,49,Yes,3,-14.84
+E1943,45,Female,Bachelor,Marketing,SEO Specialist,20,High,High,Yes,98617,112128,Modified,45,No,8,15.59
+E1944,37,Female,Master,IT,Software Engineer,11,Low,Medium,Yes,101880,97256,Modified,43,No,6,23.43
+E1945,47,Other,Master,Education,Professor,23,Medium,Low,Yes,66509,78192,Unchanged,46,Yes,9,21.14
+E1946,25,Female,High School,Finance,Investment Analyst,0,Low,High,No,30903,29952,Unchanged,38,Yes,7,-4.09
+E1947,32,Other,PhD,Healthcare,Nurse,6,High,Medium,Yes,117063,159754,Modified,47,Yes,7,-6.37
+E1948,51,Female,PhD,Education,Administrator,29,High,Medium,Yes,79581,64050,Modified,50,No,8,6.25
+E1949,33,Male,Master,Healthcare,Nurse,8,Medium,Medium,Yes,80513,88430,Modified,47,Yes,5,-17.36
+E1950,38,Male,Master,Education,Professor,12,High,High,No,55511,75444,Modified,52,No,4,-2.84
+E1951,47,Male,Master,Education,Administrator,22,Low,Low,No,92151,91291,Unchanged,42,Yes,5,-2.2
+E1952,59,Male,PhD,Education,Professor,33,Medium,Medium,Yes,114590,116671,Modified,35,Yes,9,-2.1
+E1953,50,Female,PhD,Finance,Investment Analyst,26,Medium,High,Yes,81500,77915,Unchanged,45,No,8,10.61
+E1954,39,Male,Bachelor,Marketing,Digital Marketer,15,Low,Medium,Yes,33333,32821,Modified,53,No,6,32.46
+E1955,48,Other,Bachelor,Manufacturing,Supervisor,22,Medium,Low,No,112172,111634,Unchanged,48,Yes,8,37.77
+E1956,59,Male,High School,Retail,Cashier,37,Low,Medium,Yes,42270,46389,Modified,41,No,9,14.78
+E1957,51,Female,High School,Retail,Sales Associate,25,High,Low,Yes,47408,48337,Unchanged,42,Yes,7,29.75
+E1958,51,Other,Master,Education,Teacher,27,Medium,Low,Yes,72864,77509,Unchanged,49,No,6,0.29
+E1959,48,Female,Master,Education,Professor,22,Medium,Low,Yes,45797,53328,Unchanged,47,Yes,4,11.97
+E1960,37,Male,Bachelor,Finance,Investment Analyst,12,High,Low,No,102134,88678,Unchanged,47,Yes,7,-11.67
+E1961,56,Other,Bachelor,Education,Professor,31,Medium,Low,No,44306,50050,Unchanged,52,Yes,5,-15.85
+E1962,41,Other,Master,IT,Software Engineer,15,Low,Medium,Yes,119447,117457,Modified,54,Yes,4,-16.8
+E1963,36,Female,Bachelor,Retail,Sales Associate,11,Medium,Low,Yes,60932,63523,Unchanged,52,Yes,9,-6.56
+E1964,34,Male,Bachelor,Retail,Cashier,12,High,Low,Yes,111032,97608,Unchanged,35,No,4,19.86
+E1965,25,Female,PhD,Healthcare,Nurse,0,High,High,No,51695,50114,Replaced,51,No,6,-2.26
+E1966,42,Male,PhD,Education,Administrator,16,High,High,No,80281,71091,Modified,37,No,3,30.3
+E1967,36,Other,PhD,Marketing,SEO Specialist,10,Medium,Medium,Yes,62602,74128,Modified,52,No,9,16.17
+E1968,58,Male,PhD,Manufacturing,Quality Inspector,36,Low,Medium,No,92497,96691,Modified,51,Yes,8,-11.1
+E1969,35,Other,High School,Finance,Investment Analyst,11,Low,Medium,Yes,69023,74750,Modified,51,No,6,23.79
+E1970,47,Female,High School,Education,Administrator,24,Medium,Medium,Yes,74858,80629,Modified,50,No,4,24.58
+E1971,31,Male,PhD,Finance,Auditor,6,Low,Medium,Yes,68805,72785,Modified,53,No,3,28.05
+E1972,48,Other,Bachelor,Education,Teacher,24,High,Low,Yes,45115,40014,Unchanged,39,No,3,-9.36
+E1973,25,Female,Master,Retail,Cashier,1,Medium,High,Yes,73098,83315,Unchanged,49,No,5,-12.0
+E1974,52,Female,PhD,Finance,Accountant,29,Low,High,Yes,81843,87061,Unchanged,49,Yes,5,2.31
+E1975,59,Female,Master,IT,Software Engineer,37,Low,Medium,Yes,68349,74992,Modified,42,No,4,0.97
+E1976,37,Male,PhD,Finance,Auditor,14,Low,Medium,Yes,44633,45308,Modified,54,No,3,-11.89
+E1977,35,Male,High School,Retail,Cashier,11,High,Low,No,107084,131157,Unchanged,36,Yes,4,32.11
+E1978,38,Other,High School,Education,Teacher,15,Medium,Low,No,30594,34186,Unchanged,38,No,3,0.99
+E1979,57,Male,Master,Manufacturing,Quality Inspector,34,Medium,Medium,No,63682,69042,Modified,47,No,7,-1.3
+E1980,43,Male,Bachelor,Healthcare,Nurse,18,Medium,Low,No,84486,95392,Unchanged,54,No,7,21.28
+E1981,29,Other,High School,Retail,Sales Associate,6,Low,High,No,108533,103974,Unchanged,39,Yes,9,30.85
+E1982,30,Female,Bachelor,Marketing,Content Creator,8,Medium,Medium,No,119043,117743,Modified,40,Yes,8,27.49
+E1983,22,Female,PhD,Healthcare,Technician,0,Medium,Medium,Yes,56732,56256,Modified,45,No,5,35.53
+E1984,33,Other,Master,Healthcare,Technician,7,Medium,Medium,No,106034,117827,Modified,48,Yes,5,-4.39
+E1985,27,Female,Bachelor,Manufacturing,Quality Inspector,4,Medium,Medium,Yes,51159,47581,Modified,38,Yes,7,20.42
+E1986,58,Female,PhD,Healthcare,Doctor,33,Medium,Low,No,86955,94625,Unchanged,52,Yes,3,38.77
+E1987,46,Other,Bachelor,Marketing,Digital Marketer,24,Low,Medium,Yes,39461,42737,Modified,50,Yes,6,5.57
+E1988,58,Male,Bachelor,Marketing,SEO Specialist,34,High,Medium,Yes,78469,88434,Modified,37,No,3,-6.57
+E1989,45,Other,High School,Education,Administrator,21,Low,Low,No,37532,38005,Unchanged,49,Yes,7,25.48
+E1990,50,Male,PhD,Finance,Investment Analyst,27,High,High,Yes,115078,93786,Replaced,42,Yes,8,3.97
+E1991,25,Female,High School,Finance,Investment Analyst,0,Medium,Medium,No,119627,118687,Modified,35,No,6,34.31
+E1992,49,Male,Bachelor,Healthcare,Doctor,27,Medium,Medium,No,47032,46269,Modified,47,No,9,35.88
+E1993,31,Male,Bachelor,Marketing,Content Creator,7,High,Low,No,36259,33695,Unchanged,49,Yes,6,39.91
+E1994,34,Other,Bachelor,Education,Professor,11,Medium,Medium,No,95907,98030,Modified,40,No,7,39.28
+E1995,38,Male,Master,Retail,Store Manager,13,High,Low,Yes,118078,133969,Unchanged,38,Yes,5,14.61
+E1996,55,Other,PhD,Healthcare,Technician,30,Medium,Low,Yes,99082,101090,Unchanged,52,Yes,7,25.67
+E1997,31,Male,PhD,Finance,Investment Analyst,9,High,Medium,Yes,32379,44653,Modified,52,Yes,8,9.38
+E1998,43,Female,Bachelor,Retail,Cashier,17,High,High,No,53424,74715,Modified,49,Yes,6,-0.57
+E1999,43,Female,Bachelor,Marketing,Digital Marketer,20,Medium,Low,No,57821,68499,Unchanged,41,No,9,9.31
+E2000,23,Other,Master,Marketing,SEO Specialist,0,High,High,Yes,33830,34809,Modified,37,Yes,9,24.4
