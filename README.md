@@ -35,7 +35,9 @@ Pandas — Data loading & manipulation
 NumPy — Statistical computations
 Matplotlib — Visualizations
 
-🚀 How to Run
+## 🚀 How to Run
+
+```
 # 1. Clone the repo
 git clone https://github.com/amishra1510/ai-job-impact-analysis.git
 cd ai-job-impact-analysis
@@ -48,6 +50,7 @@ pip install pandas numpy matplotlib
 
 # 4. Run the script
 python 1025250008.py
+```
 
 
 📌 Key Findings
